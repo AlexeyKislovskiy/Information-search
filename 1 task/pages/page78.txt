@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Yeni language - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"19d73aa5-0fe7-4f00-84c3-17665d88e0f1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yeni_language","wgTitle":"Yeni language","wgCurRevisionId":1064658508,"wgRevisionId":1064658508,"wgArticleId":1251137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Language articles with unreferenced extinction date","All stub articles","Extinct languages of Africa","Languages of Cameroon","Mambiloid languages","Cameroon stubs","Benue–Congo language stubs"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Yeni_language","wgRelevantArticleId":
+1251137,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":1000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q34213","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":
+true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.18">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Yeni language - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Yeni_language">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yeni_language&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yeni_language">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Yeni_language rootpage-Yeni_language skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yeni+language" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Yeni+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yeni+language" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yeni+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Bibliography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Bibliography</div>
+		</a>
+		
+		<ul id="toc-Bibliography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Yeni language</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 9 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-9" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">9 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Yeni_(Sproch)" title="Yeni (Sproch) – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Yenieg" title="Yenieg – Breton" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Yeni_(Sprache)" title="Yeni (Sprache) – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Yeni_(langue)" title="Yeni (langue) – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Yeni_(jezik)" title="Yeni (jezik) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/Yeni_language" title="Yeni language – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Kiyeni" title="Kiyeni – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenga_yeni" title="Lenga yeni – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Wikang_Yeni" title="Wikang Yeni – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34213#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Yeni_language" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Yeni_language" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Yeni_language"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Yeni_language"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Yeni_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Yeni_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;oldid=1064658508" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yeni_language&amp;id=1064658508&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYeni_language"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYeni_language"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34213" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Yeni_language&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Yeni_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Extinct Mambiloid language of Cameroon</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above above" style="font-size:125%; color: black; background-color:  #ffddaa;">Yeni</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Region</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Extinct_language" title="Extinct language">Extinct</a></th><td class="infobox-data" style="line-height:1.3em;">20th century</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Niger%E2%80%93Congo_languages" title="Niger–Congo languages">Niger–Congo</a>?
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<a href="/wiki/Atlantic%E2%80%93Congo" class="mw-redirect" title="Atlantic–Congo">Atlantic–Congo</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Benue%E2%80%93Congo" class="mw-redirect" title="Benue–Congo">Benue–Congo</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Mambiloid_languages" title="Mambiloid languages">Mambiloid</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Mambila-Konja&#160;?<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Yeni</b></li></ul></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="color: black; background-color:  #ffddaa;">Language codes</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td class="infobox-data" style="line-height:1.3em;"><code><a href="https://iso639-3.sil.org/code/yei" class="extiw" title="iso639-3:yei">yei</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><i><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></i></th><td class="infobox-data" style="line-height:1.3em;"><code><a rel="nofollow" class="external text" href="https://glottolog.org/resource/languoid/id/yeni1253">yeni1253</a></code></td></tr></tbody></table>
+<p>The <b>Yeni language</b> is an <a href="/wiki/Extinct_language" title="Extinct language">extinct language</a> of <a href="/wiki/Cameroon" title="Cameroon">Cameroon</a>, formerly spoken around Djeni Mountain in the <a href="/w/index.php?title=Nyalang&amp;action=edit&amp;redlink=1" class="new" title="Nyalang (page does not exist)">Nyalang</a> area.  All that remains of the language, apparently, is a song remembered by some <a href="/wiki/Kwanja_language" title="Kwanja language">Sandani</a> speakers.  However, according to Bruce Connell (the first linguist to report its existence, in 1995), comparison of the song's words to neighboring languages suggests that "it was closely related to [the <a href="/wiki/Mambiloid_languages" title="Mambiloid languages">Mambiloid languages</a>] <a href="/wiki/Cambap_language" class="mw-redirect" title="Cambap language">Cambap</a>, <a href="/wiki/Njerep_language" title="Njerep language">Njerep</a>, and <a href="/wiki/Kasabe_language" title="Kasabe language">Kasabe</a>."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yeni_language&amp;action=edit&amp;section=1" title="Edit section: Bibliography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Connell, B. (1995). <i>Dying Languages and the Complexity of the Mambiloid Group</i>. Paper presented at the 25th Colloquium on African Languages and Linguistics, Leiden.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yeni_language&amp;action=edit&amp;section=2" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040814144719/http://lucy.ukc.ac.uk/dz/connell/Mori/Moribundlngs.html">MORIBUND LANGUAGES OF THE NIGERIA-CAMEROON BORDERLAND</a></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Languages_of_Cameroon" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Cameroon" title="Template:Languages of Cameroon"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Cameroon" title="Template talk:Languages of Cameroon"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Languages_of_Cameroon" title="Special:EditPage/Template:Languages of Cameroon"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Languages_of_Cameroon" style="font-size:114%;margin:0 4em"><a href="/wiki/Languages_of_Cameroon" title="Languages of Cameroon">Languages of Cameroon</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/French_language" title="French language">French</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bamum_language" title="Bamum language">Bamum</a></li>
+<li><a href="/wiki/Bulu_language" title="Bulu language">Bulu</a></li>
+<li><a href="/wiki/Duala_language" title="Duala language">Duala</a></li>
+<li><a href="/wiki/Ewondo_language" title="Ewondo language">Ewondo</a></li>
+<li><a href="/wiki/Fula_language" title="Fula language">Fulfulde</a></li>
+<li><a href="/wiki/Kom_language_(Cameroon)" title="Kom language (Cameroon)">Kom</a></li>
+<li><a href="/wiki/Nso_language" title="Nso language">Lamnso</a></li>
+<li><a href="/wiki/Medumba_language" title="Medumba language">Medumba</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pidgins</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cameroonian_Pidgin_English" title="Cameroonian Pidgin English">Cameroonian Pidgin English</a></li>
+<li><a href="/wiki/Camfranglais" title="Camfranglais">Camfranglais</a></li>
+<li><a href="/wiki/Ewondo_Populaire" title="Ewondo Populaire">Ewondo Populaire</a></li>
+<li><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chadian_Arabic" title="Chadian Arabic">Chadian Arabic</a></li>
+<li><a href="/wiki/Abon_language" title="Abon language">Abon</a></li>
+<li><a href="/wiki/Afade_language" title="Afade language">Afade</a></li>
+<li><a href="/wiki/Aghem_language" title="Aghem language">Aghem</a></li>
+<li><a href="/wiki/Ambo_language_(Nigeria)" title="Ambo language (Nigeria)">Ambo</a></li>
+<li><a href="/wiki/Babanki_language" title="Babanki language">Babanki</a></li>
+<li><a href="/wiki/Bafaw-Balong_language" title="Bafaw-Balong language">Bafaw-Balong</a></li>
+<li><a href="/wiki/Bafia_language_(Cameroon)" title="Bafia language (Cameroon)">Bafia</a></li>
+<li><a href="/wiki/Baka_language" title="Baka language">Baka</a></li>
+<li><a href="/wiki/Baldemu_language" title="Baldemu language">Baldemu</a></li>
+<li><a href="/wiki/Bamali_language" title="Bamali language">Bamali</a></li>
+<li><a href="/wiki/Bambalang_language" title="Bambalang language">Bambalang</a></li>
+<li><a href="/wiki/Bana_language" title="Bana language">Bana</a></li>
+<li><a href="/wiki/Bangolan_language" title="Bangolan language">Bangolan</a></li>
+<li><a href="/wiki/Bankon_language" title="Bankon language">Bankon</a></li>
+<li><a href="/wiki/Basaa_language" title="Basaa language">Basaa</a></li>
+<li><a href="/wiki/Bata_language" title="Bata language">Bata</a></li>
+<li><a href="/wiki/Bati_language_(Cameroon)" title="Bati language (Cameroon)">Bati</a></li>
+<li><a href="/wiki/Batu_language" title="Batu language">Batu</a></li>
+<li><a href="/wiki/Bebele_language" title="Bebele language">Bebele</a></li>
+<li><a href="/wiki/Bebil_language" title="Bebil language">Bebil</a></li>
+<li><a href="/wiki/Beti_language" class="mw-redirect" title="Beti language">Beti</a></li>
+<li><a href="/wiki/Bikya_language" title="Bikya language">Bikya</a></li>
+<li><a href="/wiki/Bishuo_language" title="Bishuo language">Bishuo</a></li>
+<li><a href="/wiki/Bitare_language" title="Bitare language">Bitare</a></li>
+<li><a href="/wiki/Bomwali_language" title="Bomwali language">Bomwali</a></li>
+<li><a href="/wiki/Bonkeng_language" title="Bonkeng language">Bonkeng</a></li>
+<li><a href="/wiki/Bube_language" title="Bube language">Bube</a></li>
+<li><a href="/wiki/Bung_language" title="Bung language">Bung</a></li>
+<li><a href="/wiki/Buwal_language" title="Buwal language">Buwal</a></li>
+<li><a href="/wiki/Byep_language" title="Byep language">Byep</a></li>
+<li><a href="/wiki/Caka_language" title="Caka language">Caka</a></li>
+<li><a href="/wiki/Iceve-Maci_language" title="Iceve-Maci language">Ceve</a></li>
+<li><a href="/wiki/Chamba_Leko" title="Chamba Leko">Chamba Leko</a></li>
+<li><a href="/wiki/Cuvok_language" title="Cuvok language">Cuvok</a></li>
+<li><a href="/wiki/Daba_language" title="Daba language">Daba</a></li>
+<li><a href="/wiki/Doyayo_language" title="Doyayo language">Dowayo</a></li>
+<li><a href="/wiki/%C6%8Augwor_language" title="Ɗugwor language">Ɗugwor</a></li>
+<li><a href="/wiki/Duli_language" title="Duli language">Duli</a></li>
+<li><a href="/wiki/Eman_language" title="Eman language">Eman</a></li>
+<li><a href="/wiki/Esimbi_language" title="Esimbi language">Esimbi</a></li>
+<li><a href="/wiki/Eton_language" title="Eton language">Eton</a></li>
+<li><a href="/wiki/Evant_language" title="Evant language">Evant</a></li>
+<li><a href="/wiki/Fa%CA%BC_language" title="Faʼ language">Fa’</a></li>
+<li><a href="/wiki/Fang_language" title="Fang language">Fang</a></li>
+<li><a href="/wiki/Fanji_language" title="Fanji language">Fanji</a></li>
+<li><a href="/wiki/Fe%27fe%27_language" class="mw-redirect" title="Fe&#39;fe&#39; language">Fe'fe'</a></li>
+<li><a href="/wiki/Fut_language" title="Fut language">Fut</a></li>
+<li><a href="/wiki/Gawar_language" title="Gawar language">Gawar</a></li>
+<li><a href="/wiki/Gbanu_language" title="Gbanu language">Gbanu</a></li>
+<li><a href="/wiki/Gbanzili_language" title="Gbanzili language">Gbanzili</a></li>
+<li><a href="/wiki/Ghomala%27_language" class="mw-redirect" title="Ghomala&#39; language">Ghomala'</a></li>
+<li><a href="/wiki/Gidar_language" title="Gidar language">Gidar</a></li>
+<li><a href="/wiki/Glavda_language" title="Glavda language">Glavda</a></li>
+<li><a href="/wiki/Gude_language" title="Gude language">Gude</a></li>
+<li><a href="/wiki/Gunu_language" title="Gunu language">Gunu</a></li>
+<li><a href="/wiki/Gvoko_language" title="Gvoko language">Gvoko</a></li>
+<li><a href="/wiki/Hausa_language" title="Hausa language">Hausa</a></li>
+<li><a href="/wiki/Hdi_language" title="Hdi language">Hdi</a></li>
+<li><a href="/wiki/Hijuk_language" title="Hijuk language">Hijuk</a></li>
+<li><a href="/wiki/Hina_language" title="Hina language">Hina</a></li>
+<li><a href="/wiki/Hya_language" title="Hya language">Hya</a></li>
+<li><a href="/wiki/Ipulo_language" title="Ipulo language">Ipulo</a></li>
+<li><a href="/wiki/Iyive_language" title="Iyive language">Iyive</a></li>
+<li><a href="/wiki/Jimi_language_(Cameroon)" title="Jimi language (Cameroon)">Jimi</a></li>
+<li><a href="/wiki/Jina_language" title="Jina language">Jina</a></li>
+<li><a href="/wiki/Kaalong_language" title="Kaalong language">Kaalong</a></li>
+<li><a href="/wiki/Kabba_language" title="Kabba language">Kabba</a></li>
+<li><a href="/wiki/Kako_language" title="Kako language">Kako</a></li>
+<li><a href="/wiki/Kali_language" title="Kali language">Kali</a></li>
+<li><a href="/wiki/Kanuri_language" title="Kanuri language">Kanuri</a></li>
+<li><a href="/wiki/Kare_language_(Adamawa)" title="Kare language (Adamawa)">Kare</a></li>
+<li><a href="/wiki/Kasabe_language" title="Kasabe language">Kasabe</a></li>
+<li><a href="/wiki/Kera_language" title="Kera language">Kera</a></li>
+<li><a href="/wiki/Ki_language" title="Ki language">Ki</a></li>
+<li><a href="/wiki/Kogo_language" title="Kogo language">Kogo</a></li>
+<li><a href="/wiki/Kol_language_(Cameroon)" title="Kol language (Cameroon)">Kol</a></li>
+<li><a href="/wiki/Koma_language" title="Koma language">Koma</a></li>
+<li><a href="/wiki/Kpwe_language" title="Kpwe language">Kpwe</a></li>
+<li><a href="/wiki/Kuo_language" title="Kuo language">Kuo</a></li>
+<li><a href="/wiki/Kutin_language" title="Kutin language">Kutin</a></li>
+<li><a href="/wiki/Kwa%CA%BC_language" title="Kwaʼ language">Kwa’</a></li>
+<li><a href="/wiki/Kwakum_language" title="Kwakum language">Kwakum</a></li>
+<li><a href="/wiki/Kwasio_language" title="Kwasio language">Kwasio</a></li>
+<li><a href="/wiki/La%27bi_language" title="La&#39;bi language">La'bi</a></li>
+<li><a href="/wiki/Lagwan_language" title="Lagwan language">Lagwan</a></li>
+<li><a href="/wiki/Limba_language_(Cameroon)" title="Limba language (Cameroon)">Limba</a></li>
+<li><a href="/wiki/Limbum_language" title="Limbum language">Limbum</a></li>
+<li><a href="/wiki/Luo_language_(Cameroon)" title="Luo language (Cameroon)">Luo</a></li>
+<li><a href="/wiki/Ma%C9%97a_language" title="Maɗa language">Maɗa</a></li>
+<li><a href="/wiki/Mafa_language" title="Mafa language">Mafa</a></li>
+<li><a href="/wiki/Majera_language" title="Majera language">Majera</a></li>
+<li><a href="/wiki/Makaa_language" title="Makaa language">Makaa</a></li>
+<li><a href="/wiki/Malgbe_language" title="Malgbe language">Malgbe</a></li>
+<li><a href="/wiki/Manenguba_languages" title="Manenguba languages">Manenguba</a></li>
+<li><a href="/wiki/Mangbai_language" title="Mangbai language">Mangbai</a></li>
+<li><a href="/wiki/Manza_language" title="Manza language">Manza</a></li>
+<li><a href="/wiki/Maslam_language" title="Maslam language">Maslam</a></li>
+<li><a href="/wiki/Massa_language" title="Massa language">Massa</a></li>
+<li><a href="/wiki/Matal_language" title="Matal language">Matal</a></li>
+<li><a href="/wiki/Mazagway_language" title="Mazagway language">Mazagway</a></li>
+<li><a href="/wiki/Mb%C9%99%CA%BC_language" title="Mbəʼ language">Mbə’</a></li>
+<li><a href="/wiki/Mboa_language" title="Mboa language">Mboa</a></li>
+<li><a href="/wiki/Mbudum_language" title="Mbudum language">Mbudum</a></li>
+<li><a href="/wiki/Mbuko_language" title="Mbuko language">Mbuko</a></li>
+<li><a href="/wiki/Mbule_language" title="Mbule language">Mbule</a></li>
+<li><a href="/wiki/Mbum_language" title="Mbum language">Mbum</a></li>
+<li><a href="/wiki/Mefele_language" title="Mefele language">Mefele</a></li>
+<li><a href="/wiki/Mengaka_language" title="Mengaka language">Məgaka</a></li>
+<li><a href="/wiki/Leti_language_(Cameroon)" title="Leti language (Cameroon)">Mengisa</a></li>
+<li><a href="/wiki/Menyam_language" title="Menyam language">Menyam</a></li>
+<li><a href="/wiki/Merey_language" title="Merey language">Merey</a></li>
+<li><a href="/wiki/Mesaka_language" title="Mesaka language">Mesaka</a></li>
+<li><a href="/wiki/Mfumte_language" title="Mfumte language">Mfumte</a></li>
+<li><a href="/wiki/Mofu-Gudur_language" title="Mofu-Gudur language">Mofu-Gudur</a></li>
+<li><a href="/wiki/Moloko_language" title="Moloko language">Moloko</a></li>
+<li><a href="/wiki/Mono_language_(Cameroon)" title="Mono language (Cameroon)">Mono</a></li>
+<li><a href="/wiki/Mpade_language" title="Mpade language">Mpade</a></li>
+<li><a href="/wiki/Mpumpong_language" title="Mpumpong language">Mpumpong</a></li>
+<li><a href="/wiki/Mser_language" title="Mser language">Mser</a></li>
+<li><a href="/wiki/Mundang_language" title="Mundang language">Mundang</a></li>
+<li><a href="/wiki/Nga%27ka_language" class="mw-redirect" title="Nga&#39;ka language">Mungaka</a></li>
+<li><a href="/wiki/Musgu_language" title="Musgu language">Musgu</a></li>
+<li><a href="/wiki/Muyang_language" title="Muyang language">Muyang</a></li>
+<li><a href="/wiki/Nagumi_language" title="Nagumi language">Nagumi</a></li>
+<li><a href="/wiki/Nda%E2%80%99nda%E2%80%99_language" class="mw-redirect" title="Nda’nda’ language">Nda’nda’</a></li>
+<li><a href="/wiki/Ndai_language" title="Ndai language">Ndai</a></li>
+<li><a href="/wiki/Nen_language_(Cameroon)" title="Nen language (Cameroon)">Nen</a></li>
+<li><a href="/wiki/Nga%27ka_language" class="mw-redirect" title="Nga&#39;ka language">Nga'ka</a></li>
+<li><a href="/wiki/Ngambay_language" title="Ngambay language">Ngambay</a></li>
+<li><a href="/wiki/Ngiemboon_language" title="Ngiemboon language">Ngiemboon</a></li>
+<li><a href="/wiki/Ngomba_language" title="Ngomba language">Ngomba</a></li>
+<li><a href="/wiki/Ngombale_language" title="Ngombale language">Ngombale</a></li>
+<li><a href="/wiki/Ngwe_language" title="Ngwe language">Ngwe</a></li>
+<li><a href="/wiki/Nimbari_language" title="Nimbari language">Nimbari</a></li>
+<li><a href="/wiki/Njem_language" title="Njem language">Njem</a></li>
+<li><a href="/wiki/Njerep_language" title="Njerep language">Njerep</a></li>
+<li><a href="/wiki/Nkongho_language" title="Nkongho language">Nkongho</a></li>
+<li><a href="/wiki/Tanga_language" title="Tanga language">Noho</a></li>
+<li><a href="/wiki/Noni_language" title="Noni language">Noni</a></li>
+<li><a href="/wiki/North_Giziga_language" title="North Giziga language">North Giziga</a></li>
+<li><a href="/wiki/North_Mofu_language" title="North Mofu language">North Mofu</a></li>
+<li><a href="/wiki/Northwest_Gbaya_language" title="Northwest Gbaya language">Northwest Gbaya</a></li>
+<li><a href="/wiki/Nyokon_language" title="Nyokon language">Nyokon</a></li>
+<li><a href="/wiki/Nyong_language" title="Nyong language">Nyong</a></li>
+<li><a href="/wiki/Nzakambay_language" title="Nzakambay language">Nzakambay</a></li>
+<li><a href="/wiki/Nzanyi_language" title="Nzanyi language">Nzanyi</a></li>
+<li><a href="/wiki/Nzime_language" title="Nzime language">Nzime</a></li>
+<li><a href="/wiki/Oblo_language" title="Oblo language">Oblo</a></li>
+<li><a href="/wiki/Oroko_language" title="Oroko language">Oroko</a></li>
+<li><a href="/wiki/Otank_language" title="Otank language">Otank language</a></li>
+<li><a href="/wiki/Pam_language" title="Pam language">Pam</a></li>
+<li><a href="/wiki/Baba_language" title="Baba language">Papia</a></li>
+<li><a href="/wiki/Parkwa_language" title="Parkwa language">Parkwa</a></li>
+<li><a href="/wiki/Pinyin_language" title="Pinyin language">Pinyin</a></li>
+<li><a href="/wiki/Pol_language" title="Pol language">Pol</a></li>
+<li><a href="/wiki/Pongo_language" title="Pongo language">Pongo</a></li>
+<li><a href="/wiki/Psiky%C9%9B_dialect" title="Psikyɛ dialect">Psikyɛ</a></li>
+<li><a href="/wiki/Rombi_language" title="Rombi language">Rombi</a></li>
+<li><a href="/wiki/Sharwa_language" title="Sharwa language">Sharwa</a></li>
+<li><a href="/wiki/South_Giziga_language" title="South Giziga language">South Giziga</a></li>
+<li><a href="/wiki/Suwu_language" title="Suwu language">Suwu</a></li>
+<li><a href="/wiki/Swo_language" title="Swo language">Swo</a></li>
+<li><a href="/wiki/Tibea_language" title="Tibea language">Tibea</a></li>
+<li><a href="/wiki/Tikar_language" title="Tikar language">Tikar</a></li>
+<li><a href="/wiki/To_language" title="To language">To</a></li>
+<li><a href="/wiki/Tsuvan_language" title="Tsuvan language">Tsuvan</a></li>
+<li><a href="/wiki/Tupuri_language" title="Tupuri language">Tupuri</a></li>
+<li><a href="/wiki/Vame_language" title="Vame language">Vame</a></li>
+<li><a href="/wiki/Vemgo-Mabas_language" title="Vemgo-Mabas language">Vemgo-Mabas</a></li>
+<li><a href="/wiki/Vengo_language" title="Vengo language">Vengo</a></li>
+<li><a href="/wiki/Vere_language" title="Vere language">Vere</a></li>
+<li><a href="/wiki/Voko_language" title="Voko language">Voko</a></li>
+<li><a href="/wiki/Perema_language" title="Perema language">Wom</a></li>
+<li><a href="/wiki/Wuzlam_language" title="Wuzlam language">Wuzlam</a></li>
+<li><a href="/wiki/Yamba_language" title="Yamba language">Yamba</a></li>
+<li><a href="/wiki/Yambe_language" title="Yambe language">Yambe</a></li>
+<li><a href="/wiki/Yasa_language" title="Yasa language">Yasa</a></li>
+<li><a href="/wiki/Yedina_language" title="Yedina language">Yedina</a></li>
+<li><a href="/wiki/Yemba_language" title="Yemba language">Yemba</a></li>
+<li><a class="mw-selflink selflink">Yeni</a></li>
+<li><a href="/wiki/Zizilivakan_language" title="Zizilivakan language">Zizilivakan</a></li>
+<li><a href="/wiki/Zulgo-Gemzek_language" title="Zulgo-Gemzek language">Zulgo-Gemzek</a></li>
+<li><a href="/wiki/Zumaya_language" title="Zumaya language">Zumaya</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Varieties_of_American_Sign_Language#Francophone_African_Sign_Language" title="Varieties of American Sign Language">Francophone African Sign Language</a></li>
+<li><a href="/wiki/Maroua_Sign_Language" title="Maroua Sign Language">Maroua Sign Language</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Immigrant languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/French_language" title="French language">French</a></li>
+<li><a href="/wiki/Punjabi_language" title="Punjabi language">Punjabi</a></li>
+<li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+<li><a href="/wiki/German_language" title="German language">German</a></li>
+<li><a href="/wiki/Italian_language" title="Italian language">Italian</a></li>
+<li><a href="/wiki/Hindi_language" class="mw-redirect" title="Hindi language">Hindi</a></li>
+<li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></li>
+<li><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></li>
+<li><a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></li>
+<li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
+<li><a href="/wiki/Danish_language" title="Danish language">Danish</a></li>
+<li><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b>See also:</b> <a href="/wiki/General_Alphabet_of_Cameroon_Languages" title="General Alphabet of Cameroon Languages">General Alphabet of Cameroon Languages</a></div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:Langues_du_Cameroun_Carte.png" class="mw-file-description"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Langues_du_Cameroun_Carte.png/35px-Langues_du_Cameroun_Carte.png" decoding="async" width="35" height="46" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Langues_du_Cameroun_Carte.png/53px-Langues_du_Cameroun_Carte.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Langues_du_Cameroun_Carte.png/70px-Langues_du_Cameroun_Carte.png 2x" data-file-width="500" data-file-height="656" /></a></span></td><td><p class="asbox-body">This article about a language spoken in <a href="/wiki/Cameroon" title="Cameroon">Cameroon</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Yeni_language&amp;action=edit">expanding it</a>.</p></td></tr></tbody></table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cameroon-lang-stub" title="Template:Cameroon-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cameroon-lang-stub" title="Template talk:Cameroon-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Cameroon-lang-stub" title="Special:EditPage/Template:Cameroon-lang-stub"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1012311289"><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:HJ-1-P32.png" class="mw-file-description"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HJ-1-P32.png/30px-HJ-1-P32.png" decoding="async" width="30" height="44" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HJ-1-P32.png/45px-HJ-1-P32.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HJ-1-P32.png/60px-HJ-1-P32.png 2x" data-file-width="200" data-file-height="291" /></a></span></td><td><p class="asbox-body">This article about <a href="/wiki/Bantoid_languages" title="Bantoid languages">Bantoid languages</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Yeni_language&amp;action=edit">expanding it</a>.</p></td></tr></tbody></table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Bantoid-lang-stub" title="Template:Bantoid-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bantoid-lang-stub" title="Template talk:Bantoid-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Bantoid-lang-stub" title="Special:EditPage/Template:Bantoid-lang-stub"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐76f9fd579f‐qt57p
+Cached time: 20240213112012
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.236 seconds
+Real time usage: 0.324 seconds
+Preprocessor visited node count: 2276/1000000
+Post‐expand include size: 45984/2097152 bytes
+Template argument size: 1618/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 17639/5000000 bytes
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 2693890/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  253.489      1 -total
+ 30.93%   78.403      1 Template:Infobox_language
+ 30.19%   76.519      1 Template:Languages_of_Cameroon
+ 29.33%   74.336      1 Template:Navbox
+ 25.40%   64.393      1 Template:Short_description
+ 24.52%   62.163      1 Template:Infobox
+ 14.25%   36.132      2 Template:Pagetype
+ 10.02%   25.390      4 Template:Main_other
+  6.89%   17.463      2 Template:Asbox
+  6.85%   17.352      1 Template:Cameroon-lang-stub
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1251137-0!canonical and timestamp 20240213112011 and revision id 1064658508. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yeni_language&amp;oldid=1064658508">https://en.wikipedia.org/w/index.php?title=Yeni_language&amp;oldid=1064658508</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Extinct_languages_of_Africa" title="Category:Extinct languages of Africa">Extinct languages of Africa</a></li><li><a href="/wiki/Category:Languages_of_Cameroon" title="Category:Languages of Cameroon">Languages of Cameroon</a></li><li><a href="/wiki/Category:Mambiloid_languages" title="Category:Mambiloid languages">Mambiloid languages</a></li><li><a href="/wiki/Category:Cameroon_stubs" title="Category:Cameroon stubs">Cameroon stubs</a></li><li><a href="/wiki/Category:Benue%E2%80%93Congo_language_stubs" title="Category:Benue–Congo language stubs">Benue–Congo language stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Language_articles_with_unreferenced_extinction_date" title="Category:Language articles with unreferenced extinction date">Language articles with unreferenced extinction date</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 9 January 2022, at 15:06<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yeni_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1478","wgBackendResponseTime":132,"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.324","ppvisitednodes":{"value":2276,"limit":1000000},"postexpandincludesize":{"value":45984,"limit":2097152},"templateargumentsize":{"value":1618,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17639,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  253.489      1 -total"," 30.93%   78.403      1 Template:Infobox_language"," 30.19%   76.519      1 Template:Languages_of_Cameroon"," 29.33%   74.336      1 Template:Navbox"," 25.40%   64.393      1 Template:Short_description"," 24.52%   62.163      1 Template:Infobox"," 14.25%   36.132      2 Template:Pagetype"," 10.02%   25.390      4 Template:Main_other","  6.89%   17.463      2 Template:Asbox","  6.85%   17.352      1 Template:Cameroon-lang-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.117","limit":"10.000"},"limitreport-memusage":{"value":2693890,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-76f9fd579f-qt57p","timestamp":"20240213112012","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Yeni language","url":"https:\/\/en.wikipedia.org\/wiki\/Yeni_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q34213","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q34213","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-07T02:01:18Z","dateModified":"2022-01-09T15:06:43Z","headline":"extinct language of Cameroon, formerly spoken around Djeni Mountain in the Nyalang area"}</script>
+</body>
+</html>

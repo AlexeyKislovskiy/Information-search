@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Andamanese languages - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cf024722-546e-4f15-9c8a-3f6afe922bea","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Andamanese_languages","wgTitle":"Andamanese languages","wgCurRevisionId":1207768618,"wgRevisionId":1207768618,"wgArticleId":547482,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with J9U identifiers","Andamanese languages","Languages of India","Proposed language families"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andamanese_languages","wgRelevantArticleId":547482,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q32940","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.18">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Andamanese languages - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Andamanese_languages">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andamanese_languages&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andamanese_languages">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andamanese_languages rootpage-Andamanese_languages skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andamanese+languages" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Andamanese+languages" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andamanese+languages" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andamanese+languages" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Classification"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Classification">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Classification</div>
+		</a>
+		
+			<button aria-controls="toc-Classification-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Classification subsection</span>
+			</button>
+		
+		<ul id="toc-Classification-sublist" class="vector-toc-list">
+			<li id="toc-Controversial_classifications"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Controversial_classifications">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Controversial classifications</div>
+			</a>
+			
+			<ul id="toc-Controversial_classifications-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>History</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Lexicon"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Lexicon">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Lexicon</div>
+		</a>
+		
+		<ul id="toc-Lexicon-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Bibliography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Bibliography</div>
+		</a>
+		
+		<ul id="toc-Bibliography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Andamanese languages</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 37 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-37" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">37 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Andamanse_tale" title="Andamanse tale – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Lling%C3%BCes_de_les_islles_Andam%C3%A1n" title="Llingües de les islles Andamán – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BF_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9" title="আন্দামানি ভাষাসমূহ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Lleng%C3%BCes_de_les_illes_Andaman" title="Llengües de les illes Andaman – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Andamansk%C3%A9_jazyky" title="Andamanské jazyky – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Andamanische_Sprachen" title="Andamanische Sprachen – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Lenguas_de_las_islas_Andam%C3%A1n" title="Lenguas de las islas Andamán – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Andamanaj_lingvaroj" title="Andamanaj lingvaroj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D9%86%D8%AF%D8%A7%D9%85%D8%A7%D9%86%DB%8C" title="زبان‌های آندامانی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Langues_des_%C3%AEles_Andaman" title="Langues des îles Andaman – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%EB%8B%A4%EB%A7%8C_%EC%A0%9C%EC%96%B4" title="안다만 제어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%A4%D5%A1%D5%B4%D5%A1%D5%B6%D5%B5%D5%A1%D5%B6_%D5%AC%D5%A5%D5%A6%D5%B8%D6%82%D5%B6%D5%A5%D6%80" title="Անդամանյան լեզուներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%8F%E0%A4%81" title="अन्दमानी भाषाएँ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Andamanski_jezici" title="Andamanski jezici – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Lingue_andamanesi" title="Lingue andamanesi – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A1%E0%B2%AE%E0%B2%BE%E0%B2%A8%E0%B2%BF_%E0%B2%AD%E0%B2%BE%E0%B2%B7%E0%B3%86" title="ಅಂಡಮಾನಿ ಭಾಷೆ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Lugha_za_Kiandamani" title="Lugha za Kiandamani – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Linguae_Andamaniae" title="Linguae Andamaniae – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/Andamanese_spraoke" title="Andamanese spraoke – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B0%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D1%86%D0%B8" title="Андамански јазици – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Vondrom-piteny_any_Andam%C3%A0na" title="Vondrom-piteny any Andamàna – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E8%AB%B8%E8%AA%9E" title="アンダマン諸語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Andamanske_spr%C3%A5k" title="Andamanske språk – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Andamanspr%C3%A5k" title="Andamanspråk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Lengas_andamanesas" title="Lengas andamanesas – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenghe_andaman%C3%A8ise" title="Lenghe andamanèise – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyki_andama%C5%84skie" title="Języki andamańskie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/L%C3%ADnguas_andamanesas" title="Línguas andamanesas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B0%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Андаманские языки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Andamanese_leids" title="Andamanese leids – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Andamaanilaiset_kielet" title="Andamaanilaiset kielet – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Andamanesiska_spr%C3%A5k" title="Andamanesiska språk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B0%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%BE%D0%B2%D0%B8" title="Андаманські мови – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%DA%88%DB%8C%D9%85%D8%A7%D9%86%DB%8C_%D8%B2%D8%A8%D8%A7%D9%86%DB%8C%DA%BA" title="انڈیمانی زبانیں – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/C%C3%A1c_ng%C3%B4n_ng%E1%BB%AF_Andaman" title="Các ngôn ngữ Andaman – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zea mw-list-item"><a href="https://zea.wikipedia.org/wiki/Andamanse_taelen" title="Andamanse taelen – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target"><span>Zeêuws</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BE%BE%E6%9B%BC%E8%AF%AD%E7%B3%BB" title="安达曼语系 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q32940#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Andamanese_languages" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Andamanese_languages" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Andamanese_languages"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Andamanese_languages"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Andamanese_languages" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Andamanese_languages" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;oldid=1207768618" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andamanese_languages&amp;id=1207768618&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAndamanese_languages"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAndamanese_languages"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q32940" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Andamanese_languages&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Andamanese_languages&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Languages spoken by people of the Andaman Islands</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese languages</a>.</div><p>The <b>Andamanese languages</b> are the languages spoken by the indigenous <a href="/wiki/Andamanese_peoples" title="Andamanese peoples">Andamanese peoples</a> of the <a href="/wiki/Andaman_Islands" title="Andaman Islands">Andaman Islands</a> in the Indian Ocean. It contains two known language families, <a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a> and <a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a>, as well as two presumed but unattested languages, <a href="/wiki/Sentinelese_language" title="Sentinelese language">Sentinelese</a> and <a href="/wiki/Jangil" title="Jangil">Jangil</a>. 
+</p><p>Although all of the languages in the Andaman Islands were once thought to be the same language family, it is now widely accepted that Great Andamanese and Ongan have no <a href="/wiki/Genealogical_relationship_(linguistics)" class="mw-redirect" title="Genealogical relationship (linguistics)">genealogical relationship</a>. Thus, the term "Andamanese languages" is a strictly geographic label that covers several unrelated languages. 
+</p><p>Because Sentinelese and Jangil are unattested, almost nothing is known about their relationships with the other Andamanese languages. 
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=1" title="Edit section: Classification"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The attested Andamanese languages fall into two genetically unrelated families:<sup id="cite_ref-Manoh1_1-0" class="reference"><a href="#cite_note-Manoh1-1">&#91;1&#93;</a></sup><sup id="cite_ref-Abbi_2-0" class="reference"><a href="#cite_note-Abbi-2">&#91;2&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1116488514">.mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url("https://upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}</style><div class="treeview">
+<ul><li><b>Andamanese</b>
+<ul><li><b><a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a></b>: A moribund language family once spoken by <a href="/wiki/Great_Andamanese" title="Great Andamanese">Great Andamanese people</a>. Today, the first language of most Great Andamanese people is <a href="/wiki/Hindi" title="Hindi">Hindi</a>.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup> There are 10 Great Andamanese languages:
+<ul><li><a href="/wiki/Aka-Bea_language" title="Aka-Bea language">Aka-Bea</a></li>
+<li><a href="/wiki/Akar-Bale_language" title="Akar-Bale language">Akar-Bale</a></li>
+<li><a href="/wiki/A-Pucikwar_language" title="A-Pucikwar language">A-Pucikwar</a></li>
+<li><a href="/wiki/Oko-Juwoi_language" title="Oko-Juwoi language">Oko-Juwoi</a></li>
+<li><a href="/wiki/Aka-Kol_language" title="Aka-Kol language">Aka-Kol</a></li>
+<li><a href="/wiki/Aka-Kede_language" title="Aka-Kede language">Aka-Kede</a></li>
+<li><a href="/wiki/Aka-Jeru_language" title="Aka-Jeru language">Aka-Jeru</a>, three speakers in 2020<sup id="cite_ref-:2_4-0" class="reference"><a href="#cite_note-:2-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Aka-Bo_language" title="Aka-Bo language">Aka-Bo</a></li>
+<li><a href="/wiki/Aka-Kora_language" title="Aka-Kora language">Aka-Kora</a></li>
+<li><a href="/wiki/Aka-Cari_language" title="Aka-Cari language">Aka-Cari</a></li></ul></li>
+<li><b><a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a></b>: Two languages, <a href="/wiki/Jarawa_language_(Andaman_Islands)" title="Jarawa language (Andaman Islands)">Jarawa</a> and <a href="/wiki/Onge_language" title="Onge language">Onge</a>, spoken by roughly 670 people in 2020.<sup id="cite_ref-:2_4-1" class="reference"><a href="#cite_note-:2-4">&#91;4&#93;</a></sup></li></ul></li></ul>
+</div>
+<p>In addition, there are two unattested languages: 
+</p>
+<ul><li><b><a href="/wiki/Sentinelese_language" title="Sentinelese language">Sentinelese</a></b>: Because the <a href="/wiki/Sentinelese" title="Sentinelese">Sentinelese people</a> refuse contact with outsiders, their language and exact population are unknown. There are likely at least 50 speakers, and perhaps upwards of 250. <a href="/wiki/Anvita_Abbi" title="Anvita Abbi">Anvita Abbi</a> (2020) believes that Sentinelese is most likely Ongan.<sup id="cite_ref-:2_4-2" class="reference"><a href="#cite_note-:2-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Jangil" title="Jangil">Jangil</a></b>: Extinct by 1920s. No ethnically Jangil people survive today. <a href="/wiki/Maurice_Vidal_Portman" title="Maurice Vidal Portman">Maurice Vidal Portman</a> observed that Jangil shared similarities with Jarawa, and believed that they were at one point the same language.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul>
+<p>The languages of the Andaman Islands have frequently been assumed to be from the same single Andamanese language family. However, the similarities between Great Andamanese and Ongan are so far mainly of a typological <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">morphological</a> nature, with little common vocabulary. Abbi (2009) demonstrated that the Andaman Islands have two unrelated language families: Great Andamanese and Ongan.<sup id="cite_ref-Abbi_2-1" class="reference"><a href="#cite_note-Abbi-2">&#91;2&#93;</a></sup> 
+</p><p>Blevins (2007) summarizes,
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>a relationship between Jarawa and Onge and languages of the Great Andaman group is not widely accepted. Radcliffe-Brown (1914:40) found only seven potential cognates between Onge and Bea/Jeru, and noted that the difference between Onge and the Great Andaman languages "is such that it would not be possible from consideration of the vocabulary alone to prove that they belonged to the same language stock." [...] Abbi (2006:93) is agnostic, stating that "current linguistic analysis does not, with any certainty, indicate any genetic relationship between Great Andamanese and the other two languages." The only positive evidence offered in support of this relationship is a listing of 17 word pairs as proposed cognates in Manoharan (1989:16667). There are several problems with Manoharan's proposal [such as semantic mismatches and failing to identify loans. ...] Given evidence that shows these languages have been in contact, and the scarcity of data available at present on Great Andaman languages, there remains no persuasive evidence of a family relationship between Jarawa-Onge and the Great Andaman languages. [...] Greenberg (1971:810) is unconvinced of the relation between Great Andaman and Onge-Jarawa, agreeing with Radcliffe-Brown (1914) that "there are very few vocabulary resemblances between this language [Onge] and those of Great Andaman and the only real point of contact is typological.  A few citations from Onge have been included in the general Indo-Pacific vocabulary, but both its special relationship to the languages of the rest of the Andamans and its assignment to Indo-Pacific must be considered highly provisional."</p></blockquote>
+<h3><span class="mw-headline" id="Controversial_classifications">Controversial classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=2" title="Edit section: Controversial classifications"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Joseph_Greenberg" title="Joseph Greenberg">Joseph Greenberg</a> proposed that the Great Andamanese languages are related to western <a href="/wiki/Papuan_languages" title="Papuan languages">Papuan languages</a> as members of a phylum he called <a href="/wiki/Indo-Pacific_languages" title="Indo-Pacific languages">Indo-Pacific</a>,<sup id="cite_ref-Greenb_6-0" class="reference"><a href="#cite_note-Greenb-6">&#91;6&#93;</a></sup> but this is not generally accepted by other linguists. <a href="/wiki/Stephen_Wurm" title="Stephen Wurm">Stephen Wurm</a> states that the lexical similarities between Great Andamanese and the <a href="/wiki/West_Papuan_languages" title="West Papuan languages">West Papuan</a> and certain languages of <a href="/wiki/Timor" title="Timor">Timor</a> "are quite striking and amount to virtual formal identity […] in a number of instances", but considers this to be due to a linguistic <a href="/wiki/Substrata_(linguistics)" class="mw-redirect" title="Substrata (linguistics)">substratum</a> rather than a direct relationship.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> 
+</p><p>Blevins (2007) proposes that the Ongan languages are related to <a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a> in an <a href="/wiki/Austronesian%E2%80%93Ongan_languages" title="Austronesian–Ongan languages">Austronesian–Ongan</a> family, for which she has attempted to establish regular sound correspondences.<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup> The proposed connection between Austronesian and Ongan has not been supported by Austronesianists, and <a href="/wiki/Robert_Blust" title="Robert Blust">Robert Blust</a> (2014) finds that Blevins' conclusions are not supported by her data: Of her first 25 reconstructions, none are reproducible using the comparative method, and Blust concludes that the grammatical comparison does not hold up. Blust, in addition, cites non-linguistic (such as cultural, archaeological, and biological) evidence against Blevins' hypothesis.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=3" title="Edit section: History"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Andamanese_peoples" title="Andamanese peoples">Andamanese peoples</a></div>
+<p>The indigenous peoples of the Andaman Islands have lived there for thousands of years. Although the existence of the islands and their inhabitants was long known to maritime powers and traders of the <a href="/wiki/South_Asia" title="South Asia">South</a>– and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast–Asia</a> region, contact with these peoples was highly sporadic and very often hostile. As a result, almost nothing is recorded of them or their languages until the mid-18th century. 
+</p><p>By the late 18th century, when the <a href="/wiki/British_Empire" title="British Empire">British</a> first established a colonial presence on the Andaman Islands, there were an estimated 5,000 <a href="/wiki/Great_Andamanese" title="Great Andamanese">Great Andamanese</a> living on <a href="/wiki/Great_Andaman" title="Great Andaman">Great Andaman</a> and surrounding islands, comprising 10 distinct tribes with distinct but closely related languages. 
+</p><p>From the 1860s onwards, the British established a <a href="/wiki/Penal_colony" title="Penal colony">penal colony</a> on the islands, which led to the subsequent arrival of mainland settlers and indentured labourers, mainly from the <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">Indian subcontinent</a>. This coincided with the massive population reduction of the Andamanese due to outside diseases. 
+</p><p>One of the first accounts in English of the languages was by the early phonetician <a href="/wiki/Alexander_John_Ellis" title="Alexander John Ellis">Alexander John Ellis</a>, who presented to the Philological Society on the South Andamanese languages on his retirement. This presentation was later adapted into a <i>Report of Researches into the Language of the South Andaman Island</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>By the beginning of the 20th century most of these populations were greatly reduced in numbers, and the various linguistic and tribal divisions among the Great Andamanese effectively ceased to exist, despite a census of the time still classifying the groups as separate.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Their linguistic diversity also suffered as the surviving populations intermingled with one another, and some also intermarried with <a href="/wiki/Karen_people" title="Karen people">Karen (Burmese)</a> and <a href="/wiki/Demographics_of_India" title="Demographics of India">Indian</a> settlers.
+</p>
+<figure class="mw-halign-right" typeof="mw:File"><a href="/wiki/File:Andamanese_comparative_distribution.png" class="mw-file-description"><img alt="Precontact and current distribution of Anamanese languages" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Andamanese_comparative_distribution.png/440px-Andamanese_comparative_distribution.png" decoding="async" width="440" height="339" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Andamanese_comparative_distribution.png/660px-Andamanese_comparative_distribution.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c2/Andamanese_comparative_distribution.png 2x" data-file-width="737" data-file-height="567" /></a><figcaption></figcaption></figure>
+<p>By the latter part of the 20th century, the majority of Great Andamanese languages had become extinct.
+</p><p>At the start of the 21st century only about 50 or so individuals of Great Andamanese descent remained, resettled to a single small island (<a href="/wiki/Strait_Island" title="Strait Island">Strait I.</a>). About half of these individuals speak what may be considered a modified version (or <a href="/wiki/Creole_language" title="Creole language">creole</a>) of Great Andamanese, based mainly on <a href="/wiki/Aka-Jeru_language" title="Aka-Jeru language">Aka-Jeru</a>.<sup id="cite_ref-Abbi_2-2" class="reference"><a href="#cite_note-Abbi-2">&#91;2&#93;</a></sup> This modified version has been called "Present Great Andamanese" by some scholars,<sup id="cite_ref-Abbi06_12-0" class="reference"><a href="#cite_note-Abbi06-12">&#91;12&#93;</a></sup><sup id="cite_ref-Burenh_13-0" class="reference"><a href="#cite_note-Burenh-13">&#91;13&#93;</a></sup> but also may be referred to simply as "Jero" or "Great Andamanese". <a href="/wiki/Hindi" title="Hindi">Hindi</a> increasingly serves as their primary language, and is the only language for around half of them.<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup>
+</p><p>The Ongan languages survive mainly because of the greater isolation of the peoples who speak them. This isolation has been reinforced by an outright hostility towards outsiders and extreme reluctance to engage in contact with them by South Andamanese tribes, particularly the <a href="/wiki/Sentinelese_people" class="mw-redirect" title="Sentinelese people">Sentinelese</a> and <a href="/wiki/Jarawa_(Andaman_Islands)" class="mw-redirect" title="Jarawa (Andaman Islands)">Jarawa</a>. The Sentinelese have been so resistant that their language remains entirely unknown to outsiders.
+</p>
+<h2><span class="mw-headline" id="Lexicon">Lexicon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=4" title="Edit section: Lexicon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abbi (2009)<sup id="cite_ref-Abbi_2-3" class="reference"><a href="#cite_note-Abbi-2">&#91;2&#93;</a></sup> lists the following lexical items for <a href="/wiki/%C3%96nge_language" class="mw-redirect" title="Önge language">Onge</a>, <a href="/wiki/Jarawa_language_(Andaman_Islands)" title="Jarawa language (Andaman Islands)">Jarawa</a>, and <a href="/wiki/Aka-Jeru_language" title="Aka-Jeru language">Great Andamanese</a>, showing that <a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a> and <a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a> are distinct language families sharing few lexical similarities. 
+</p>
+<dl><dd><table class="wikitable sortable">
+<tbody><tr>
+<th>English</th>
+<th><a href="/wiki/%C3%96nge_language" class="mw-redirect" title="Önge language">Onge</a></th>
+<th><a href="/wiki/Jarawa_language_(Andaman_Islands)" title="Jarawa language (Andaman Islands)">Jarawa</a></th>
+<th><a href="/wiki/Aka-Jeru_language" title="Aka-Jeru language">Great Andamanese</a>
+</th></tr>
+<tr>
+<th>boat
+</th>
+<td>ɖaŋɛ cɨ</td>
+<td>(cagiya paɖa)-taŋ/daŋ</td>
+<td>rowa
+</td></tr>
+<tr>
+<th>bow
+</th>
+<td>ɪja</td>
+<td>aːw</td>
+<td>ko
+</td></tr>
+<tr>
+<th>child
+</th>
+<td>ɨcɨʐɨ</td>
+<td>ɨcɨʐə</td>
+<td>ʈʰire
+</td></tr>
+<tr>
+<th>crocodile
+</th>
+<td>ʈɔjəgɨ</td>
+<td>torogijəi</td>
+<td>sare-ka-teo
+</td></tr>
+<tr>
+<th>crows
+</th>
+<td>wawa-le</td>
+<td>waːraw</td>
+<td>pʰaʈka
+</td></tr>
+<tr>
+<th>dog
+</th>
+<td>wəːme, uame</td>
+<td>wɔm</td>
+<td>caːw
+</td></tr>
+<tr>
+<th>goat
+</th>
+<td>ʈikʷabuli</td>
+<td>tʰikʰwa-gopejajo</td>
+<td>–
+</td></tr>
+<tr>
+<th>laugh
+</th>
+<td>ɨɲja</td>
+<td>əniaː</td>
+<td>kʰole
+</td></tr>
+<tr>
+<th>water
+</th>
+<td>ɨɲe</td>
+<td>iːɲ</td>
+<td>ino
+</td></tr>
+<tr>
+<th>1SG (I)
+</th>
+<td>mi</td>
+<td>mi</td>
+<td>ʈʰu
+</td></tr>
+<tr>
+<th>2SG (you)
+</th>
+<td>ɲi</td>
+<td>ɲi</td>
+<td>ɲ
+</td></tr>
+<tr>
+<th>forehead
+</th>
+<td>-ejale</td>
+<td>-ejea</td>
+<td>-beŋ
+</td></tr>
+<tr>
+<th>eye
+</th>
+<td>-ejebo</td>
+<td>-ejebo</td>
+<td>-ulu
+</td></tr>
+<tr>
+<th>ear
+</th>
+<td>-ekʷagɨ</td>
+<td>-ikʰəwə</td>
+<td>-boa
+</td></tr>
+<tr>
+<th>elbow
+</th>
+<td>-ito-ge</td>
+<td>-itʰo-ha</td>
+<td>-bala-tara ɖole
+</td></tr>
+<tr>
+<th>wrist
+</th>
+<td>-moɲa-ge</td>
+<td>-eɲia</td>
+<td>-ʈʰo
+</td></tr>
+<tr>
+<th>palm
+</th>
+<td>-obanaŋ-ge</td>
+<td>-obaŋna</td>
+<td>-koro
+</td></tr>
+<tr>
+<th>thumb
+</th>
+<td>-oboʈa-ge</td>
+<td>-obotʰa</td>
+<td>-kənap
+</td></tr>
+<tr>
+<th>thigh
+</th>
+<td>-ibo</td>
+<td>-ibə</td>
+<td>-buco
+</td></tr>
+<tr>
+<th>knee
+</th>
+<td>-ola-ge</td>
+<td>-olak ~ -ola</td>
+<td>-curok
+</td></tr>
+<tr>
+<th>sole
+</th>
+<td>-ubtəga-me</td>
+<td>-ugɖaga</td>
+<td>-moʈora-ɖole
+</td></tr>
+<tr>
+<th>neck
+</th>
+<td>-aŋgiʈo</td>
+<td>-agiʈʰo</td>
+<td>-loŋɔ
+</td></tr></tbody></table></dd></dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=5" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Nicobarese_languages" title="Nicobarese languages">Nicobarese languages</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=6" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Manoh1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Manoh1_1-0">^</a></b></span> <span class="reference-text">Manoharan, S. (1983). "Subgrouping Andamanese group of
+languages." <i>International Journal of Dravidian Linguistics</i>
+XII(1): 82–95.</span>
+</li>
+<li id="cite_note-Abbi-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Abbi_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Abbi_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Abbi_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Abbi_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Abbi, Anvita (2008). "Is Great Andamanese genealogically and typologically distinct from Onge and Jarawa?" <i>Language Sciences</i>, <style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.langsci.2008.02.002">10.1016/j.langsci.2008.02.002</a></span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Abbi, Anvita, Bidisha Som, and Alok Das (2007). <a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Alok-Das-7/publication/329568851_Where_Have_All_The_Speakers_Gone_A_Sociolinguistic_Study_of_the_Great_Andamanese/links/5c0fd502299bf139c750f35c/Where-Have-All-The-Speakers-Gone-A-Sociolinguistic-Study-of-the-Great-Andamanese.pdf">"Where Have All The Speakers Gone? A Sociolinguistic Study of The Great Andamanese"</a>, <i>Indian Linguistics</i> 68.3–4:325–343. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210719025200/https://www.researchgate.net/profile/Alok-Das-7/publication/329568851_Where_Have_All_The_Speakers_Gone_A_Sociolinguistic_Study_of_the_Great_Andamanese/links/5c0fd502299bf139c750f35c/Where-Have-All-The-Speakers-Gone-A-Sociolinguistic-Study-of-the-Great-Andamanese.pdf">Archived</a> 2021-07-19 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-:2-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAbbi2020" class="citation news cs1">Abbi, Anvita (20 April 2020). <a rel="nofollow" class="external text" href="https://blogs.scientificamerican.com/voices/the-pandemic-also-threatens-endangered-languages/">"The Pandemic Also Threatens Endangered Languages"</a>. <i>Scientific American</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scientific+American&amp;rft.atitle=The+Pandemic+Also+Threatens+Endangered+Languages&amp;rft.date=2020-04-20&amp;rft.aulast=Abbi&amp;rft.aufirst=Anvita&amp;rft_id=https%3A%2F%2Fblogs.scientificamerican.com%2Fvoices%2Fthe-pandemic-also-threatens-endangered-languages%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWebber2013" class="citation web cs1">Webber, George (20 May 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130520161055/http://www.andaman.org/BOOK/chapter8/text8.htm#jangil">"George Webber's Lonely Islands, Chapter 8: The Tribes"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.andaman.org/BOOK/chapter8/text8.htm#jangil">the original</a> on 2013-05-20<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=George+Webber%27s+Lonely+Islands%2C+Chapter+8%3A+The+Tribes&amp;rft.date=2013-05-20&amp;rft.aulast=Webber&amp;rft.aufirst=George&amp;rft_id=http%3A%2F%2Fwww.andaman.org%2FBOOK%2Fchapter8%2Ftext8.htm%23jangil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Greenb-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Greenb_6-0">^</a></b></span> <span class="reference-text">Greenberg, Joseph (1971). "The Indo-Pacific hypothesis." <i>Current trends in linguistics vol. 8</i>, ed. by Thomas A. Sebeok, 807.71. The Hague: Mouton.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100620132933/http://papuaweb.org/dlib/bk/pl/C38/_toc.html">"Wurm, S.A. (1977: 929). <i>New Guinea Area Languages and Language Study, Volume 1: Papuan Languages and the New Guinea Linguistic Scene</i>. Pacific Linguistics, Research School of Pacific and Asian Studies, Australian National University, Canberra"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.papuaweb.org/dlib/bk/pl/C38/_toc.html">the original</a> on 2010-06-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wurm%2C+S.A.+%281977%3A+929%29.+New+Guinea+Area+Languages+and+Language+Study%2C+Volume+1%3A+Papuan+Languages+and+the+New+Guinea+Linguistic+Scene.+Pacific+Linguistics%2C+Research+School+of+Pacific+and+Asian+Studies%2C+Australian+National+University%2C+Canberra.&amp;rft_id=http%3A%2F%2Fwww.papuaweb.org%2Fdlib%2Fbk%2Fpl%2FC38%2F_toc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlevins2007" class="citation cs2">Blevins, Juliette (2007), <a rel="nofollow" class="external text" href="http://julietteblevins.ws.gc.cuny.edu/files/2016/10/Blevins2007a-Proto-Ongan.pdf">"A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands"</a> <span class="cs1-format">(PDF)</span>, <i>Oceanic Linguistics</i>, <b>46</b> (1): 154–198, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1353%2Fol.2007.0015">10.1353/ol.2007.0015</a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:143141296">143141296</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Oceanic+Linguistics&amp;rft.atitle=A+Long+Lost+Sister+of+Proto-Austronesian%3F+Proto-Ongan%2C+Mother+of+Jarawa+and+Onge+of+the+Andaman+Islands&amp;rft.volume=46&amp;rft.issue=1&amp;rft.pages=154-198&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1353%2Fol.2007.0015&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A143141296%23id-name%3DS2CID&amp;rft.aulast=Blevins&amp;rft.aufirst=Juliette&amp;rft_id=http%3A%2F%2Fjulietteblevins.ws.gc.cuny.edu%2Ffiles%2F2016%2F10%2FBlevins2007a-Proto-Ongan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Robert Blust (2014) "Some Recent Proposals Concerning the Classification of the Austronesian Languages", <i>Oceanic Linguistics</i> 53:2:300-391.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Appendix in <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMan1885" class="citation book cs1">Man, Edward Horace (1885). <a rel="nofollow" class="external text" href="https://archive.org/details/b24764413"><i>On the aboriginal inhabitants of the Andaman Islands</i></a>. London: Royal Anthropological Institute.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On+the+aboriginal+inhabitants+of+the+Andaman+Islands&amp;rft.place=London&amp;rft.pub=Royal+Anthropological+Institute&amp;rft.date=1885&amp;rft.aulast=Man&amp;rft.aufirst=Edward+Horace&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fb24764413&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Radcliffe-Brown, A. R. (1922). <i>The Andaman Islanders: A study in social anthropology.</i> Cambridge: Cambridge University Press.</span>
+</li>
+<li id="cite_note-Abbi06-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Abbi06_12-0">^</a></b></span> <span class="reference-text">Abbi, Anvita (2006). <i>Endangered Languages of the Andaman Islands.</i> Germany: Lincom GmbH.</span>
+</li>
+<li id="cite_note-Burenh-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Burenh_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050425054740/http://www.ling.lu.se/disseminations/pdf/45/Burenhult.pdf">"Burenhult, Niclas (1996). "Deep linguistic prehistory with particular reference to Andamanese." <i>Working Papers</i> 45, 5–24. Lund University: Department of Linguistics"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.ling.lu.se/disseminations/pdf/45/Burenhult.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2005-04-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burenhult%2C+Niclas+%281996%29.+%22Deep+linguistic+prehistory+with+particular+reference+to+Andamanese.%22+Working+Papers+45%2C+5%E2%80%9324.+Lund+University%3A+Department+of+Linguistics&amp;rft_id=http%3A%2F%2Fwww.ling.lu.se%2Fdisseminations%2Fpdf%2F45%2FBurenhult.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndamanese+languages" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=7" title="Edit section: Bibliography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Abbi, Anvita. 2006. <i>Endangered Languages of the Andaman Islands</i>. LINCOM Studies in Asian Linguistics, 64. München: Lincom Europa. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-89586-866-3" title="Special:BookSources/3-89586-866-3">3-89586-866-3</a></li>
+<li>Burenhult, Niclas. 1996. <i>Deep linguistic prehistory with particular reference to Andamanese. </i> Working Papers 45, 5–24. Lund University: Department of Linguistics.</li>
+<li>Man, E.H.
+<ul><li><i>Dictionary of the South Andaman Language</i>, British India Press: Bombay 1923.</li>
+<li>On the Aboriginal Inhabitants of the Andaman Islands. <i>The Journal of the Anthropological Institute of Great Britain and Ireland</i>, Vol. 12, 1883.</li></ul></li>
+<li>Manoharan, S. 1997. "Pronominal Prefixes and Formative Affixes in Andamanese Language." <a href="/wiki/Anvita_Abbi" title="Anvita Abbi">Anvita Abbi</a> (ed.). <i>The Languages of Tribal and Indigenous Peoples of India. The Ethnic Space</i>. Delhi: Motilal Benarsidass.</li>
+<li>Portman, M.V. 1887. <i>A Manual of the Andamanese Languages.</i> London: W.H. Allen &amp; Co.</li>
+<li>Temple, Richard C. <i>A Grammar of the Andamanese Languages, being Chapter IV of Part I of the Census Report on the Andaman and Nicobar Islands</i>, Superintendent's Printing Press: <a href="/wiki/Port_Blair" title="Port Blair">Port Blair</a> 1902.</li>
+<li>Zide, Norman Herbert &amp; V. Pandya. 1989. "A Bibliographical Introduction to Andamanese Linguistics." <i>Journal of the American Oriental Society</i> 109: 639–51.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andamanese_languages&amp;action=edit&amp;section=8" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040405014303/http://www.southasiabibliography.de/Bibliography/Andamanese/andamanese.html">South Asia Bibliography – Andamanese</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131020185236/http://www.andaman.org/">Andaman Association</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.andamanese.net/">Vanishing Voices of the Great Andamanese</a> Anvita Abbi, <a href="/wiki/Jawaharlal_Nehru_University,_Delhi" class="mw-redirect" title="Jawaharlal Nehru University, Delhi">Jawaharlal Nehru University</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090712142731/http://erewhon.ticonuno.it/arch/rivi/popoli/andama1.htm">The Andamanese Language Family (I) &amp; (II)</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050425054740/http://www.ling.lu.se/disseminations/pdf/45/Burenhult.pdf">Burenhult's Paper on Andamanese</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130530042537/http://www.andaman.org/BOOK/reprints/burenhult/buhult-prehist/rep-burenhult.htm#1">Another link to Burenhult on Andamanese</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Andamanese_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Andamanese_languages" title="Template:Andamanese languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Andamanese_languages" title="Template talk:Andamanese languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Andamanese_languages" title="Special:EditPage/Template:Andamanese languages"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Andamanese_languages" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Andamanese languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Aka-Cari_language" title="Aka-Cari language">Aka-Cari</a></i></li>
+<li><i><a href="/wiki/Aka-Kora_language" title="Aka-Kora language">Aka-Kora</a></i></li>
+<li><a href="/wiki/Aka-Jeru_language" title="Aka-Jeru language">Aka-Jeru</a></li>
+<li><i><a href="/wiki/Aka-Bo_language" title="Aka-Bo language">Aka-Bo</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Central</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Aka-Kede_language" title="Aka-Kede language">Aka-Kede</a></i></li>
+<li><i><a href="/wiki/Aka-Kol_language" title="Aka-Kol language">Aka-Kol</a></i></li>
+<li><i><a href="/wiki/Oko-Juwoi_language" title="Oko-Juwoi language">Oko-Juwoi</a></i></li>
+<li><i><a href="/wiki/A-Pucikwar_language" title="A-Pucikwar language">A-Pucikwar</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Aka-Bea_language" title="Aka-Bea language">Aka-Bea</a></i></li>
+<li><i><a href="/wiki/Akar-Bale_language" title="Akar-Bale language">Akar-Bale</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ongan_languages" title="Ongan languages">Ongan<br />(South Andamanese)</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jarawa_language_(Andaman_Islands)" title="Jarawa language (Andaman Islands)">Jarawa</a></li>
+<li><a href="/wiki/%C3%96nge_language" class="mw-redirect" title="Önge language">Önge</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified (presumed to be <a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a>)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sentinelese_language" title="Sentinelese language">Sentinelese</a></li>
+<li><i><a href="/wiki/Jangil" title="Jangil">Jangil</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"></div><div role="navigation" class="navbox" aria-labelledby="Language_families_of_Eurasia" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Eurasian_languages" title="Template:Eurasian languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Eurasian_languages" title="Template talk:Eurasian languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Eurasian_languages" title="Special:EditPage/Template:Eurasian languages"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Language_families_of_Eurasia" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_language_families" title="List of language families">Language families</a> of <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_Europe" title="Languages of Europe">Europe</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a></b></li>
+<li><b><a href="/wiki/Uralic_languages" title="Uralic languages">Uralic</a></b></li>
+<li><a href="/wiki/Basque_language" title="Basque language">Basque</a></li>
+<li><i><a href="/wiki/Iberian_language" title="Iberian language">Iberian</a></i></li>
+<li><i><a href="/wiki/Tartessian_language" title="Tartessian language">Tartessian</a></i></li>
+<li><i><a href="/wiki/Paleo-Corsican_language" title="Paleo-Corsican language">Paleo-Corsican</a></i></li>
+<li><i><a href="/wiki/Paleo-Sardinian_language" title="Paleo-Sardinian language">Paleo-Sardinian</a></i></li>
+<li><i><a href="/wiki/Camunic_language" title="Camunic language">Camunic</a></i></li>
+<li><i><a href="/wiki/Ligurian_(ancient_language)" title="Ligurian (ancient language)">Ligurian</a></i></li>
+<li><i><a href="/wiki/North_Picene_language" title="North Picene language">North Picene</a></i></li>
+<li><i><a href="/wiki/Sicani" title="Sicani">Sicani</a></i></li>
+<li><i><a href="/wiki/Tyrsenian_languages" title="Tyrsenian languages">Tyrsenian</a></i></li>
+<li><i><a href="/wiki/Eteocretan_language" title="Eteocretan language">Eteocretan</a></i></li>
+<li><i><a href="/wiki/Eteocypriot_language" title="Eteocypriot language">Eteocypriot</a></i></li>
+<li><i><a href="/wiki/Minoan_language" title="Minoan language">Minoan</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Western_Asia" class="mw-redirect" title="Western Asia">West Asia</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a></b></li>
+<li><b><a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afroasiatic</a></b></li>
+<li><i><a href="/wiki/Hattic_language" title="Hattic language">Hattic</a></i></li>
+<li><i><a href="/wiki/Kaskian_language" title="Kaskian language">Kaskian</a></i></li>
+<li><i><a href="/wiki/Hurro-Urartian_languages" title="Hurro-Urartian languages">Hurro-Urartian</a></i></li>
+<li><i><a href="/wiki/Kassite_language" title="Kassite language">Kassite</a></i></li>
+<li><i><a href="/wiki/Gutian_language" title="Gutian language">Gutian</a></i></li>
+<li><i><a href="/wiki/Philistine_language" title="Philistine language">Philistine</a></i></li>
+<li><i><a href="/wiki/Sumerian_language" title="Sumerian language">Sumerian</a></i></li>
+<li><i><a href="/wiki/Proto-Euphratean_language" title="Proto-Euphratean language">Proto-Euphratean</a></i>&#160;?</li>
+<li><i><a href="/wiki/Elamite_language" title="Elamite language">Elamite</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_the_Caucasus" title="Languages of the Caucasus">Caucasus</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Kartvelian_languages" title="Kartvelian languages">Kartvelian</a></li>
+<li><b><a href="/wiki/North_Caucasian_languages" title="North Caucasian languages">North Caucasian</a></b>
+<ul><li><a href="/wiki/Northeast_Caucasian_languages" title="Northeast Caucasian languages">Northeast Caucasian</a></li>
+<li><a href="/wiki/Northwest_Caucasian_languages" title="Northwest Caucasian languages">Northwest Caucasian</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_South_Asia" title="Languages of South Asia">South Asia</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a></b></li>
+<li><b><a href="/wiki/Dravidian_languages" title="Dravidian languages">Dravidian</a></b></li>
+<li><b><a href="/wiki/Sino-Tibetan_languages" title="Sino-Tibetan languages">Sino-Tibetan</a></b></li>
+<li><b><a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">Austroasiatic</a></b></li>
+<li><a href="/wiki/Nihali_language" title="Nihali language">Nihali</a></li>
+<li><a href="/wiki/Burushaski" title="Burushaski">Burushaski</a></li>
+<li><a href="/wiki/Kusunda_language" title="Kusunda language">Kusunda</a></li>
+<li><i><a href="/wiki/Harappan_language" title="Harappan language">Harappan</a></i>&#160;?</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_East_Asia" title="Languages of East Asia">East Asia</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Sino-Tibetan_languages" title="Sino-Tibetan languages">Sino-Tibetan</a></b></li>
+<li><b><a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">Austroasiatic</a></b></li>
+<li><b><a href="/wiki/Hmong%E2%80%93Mien_languages" title="Hmong–Mien languages">Hmong–Mien</a></b></li>
+<li><b><a href="/wiki/Kra%E2%80%93Dai_languages" title="Kra–Dai languages">Kra–Dai</a></b></li>
+<li><b><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></b></li>
+<li><b><a href="/wiki/Turkic_languages" title="Turkic languages">Turkic</a></b></li>
+<li><a href="/wiki/Mongolic_languages" title="Mongolic languages">Mongolic</a></li>
+<li><a href="/wiki/Tungusic_languages" title="Tungusic languages">Tungusic</a></li>
+<li><a href="/wiki/Koreanic_languages" title="Koreanic languages">Koreanic</a></li>
+<li><a href="/wiki/Japonic_languages" title="Japonic languages">Japonic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> rim</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a></li>
+<li><a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a></li>
+<li><a href="/wiki/Sentinelese_language" title="Sentinelese language">Sentinelese</a></li>
+<li><i><a href="/wiki/Kenaboi_language" title="Kenaboi language">Kenaboi</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Asia" title="North Asia">North Asia</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="&amp;quot;Paleosiberian&amp;quot;" scope="row" class="navbox-group" style="width:1%">"<a href="/wiki/Paleosiberian_languages" class="mw-redirect" title="Paleosiberian languages">Paleosiberian</a>"</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ainu_languages" title="Ainu languages">Ainu</a></li>
+<li><a href="/wiki/Nivkh_languages" title="Nivkh languages">Nivkh</a></li>
+<li><a href="/wiki/Chukotko-Kamchatkan_languages" title="Chukotko-Kamchatkan languages">Chukotko-Kamchatkan</a></li>
+<li><a href="/wiki/Yukaghir_languages" title="Yukaghir languages">Yukaghir</a></li>
+<li><a href="/wiki/Yeniseian_languages" title="Yeniseian languages">Yeniseian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other <a href="/wiki/North_Asia" title="North Asia">North Asia</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Uralic_languages" title="Uralic languages">Uralic</a></b></li>
+<li><i><a href="/wiki/Rouran_language" title="Rouran language">Rouran</a></i>&#160;?</li>
+<li><a href="/wiki/Eskaleut_languages" title="Eskaleut languages">Eskaleut</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proposed groupings</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alarodian_languages" title="Alarodian languages">Alarodian</a></li>
+<li><a href="/wiki/Altaic_languages" title="Altaic languages">Altaic</a></li>
+<li><a href="/wiki/Borean_languages" title="Borean languages">Borean</a>
+<ul><li><a href="/wiki/Nostratic_languages" title="Nostratic languages">Nostratic</a></li>
+<li><a href="/wiki/Den%C3%A9%E2%80%93Caucasian_languages" title="Dené–Caucasian languages">Dené–Caucasian</a></li>
+<li><a href="/wiki/Eurasiatic_languages" title="Eurasiatic languages">Eurasiatic</a></li></ul></li>
+<li><a href="/wiki/Den%C3%A9%E2%80%93Yeniseian_languages" title="Dené–Yeniseian languages">Dené–Yeniseian</a></li>
+<li><a href="/wiki/Dravido-Korean_languages" title="Dravido-Korean languages">Dravido-Korean</a></li>
+<li><a href="/wiki/Elamo-Dravidian_languages" title="Elamo-Dravidian languages">Elamo-Dravidian</a></li>
+<li><a href="/wiki/Ibero-Caucasian_languages" title="Ibero-Caucasian languages">Ibero-Caucasian</a></li>
+<li><a href="/wiki/Indo-Hittite" title="Indo-Hittite">Indo-Hittite</a></li>
+<li><a href="/wiki/Indo-Pacific_languages" title="Indo-Pacific languages">Indo-Pacific</a></li>
+<li><a href="/wiki/Indo-Semitic_languages" title="Indo-Semitic languages">Indo-Semitic</a></li>
+<li><a href="/wiki/Indo-Uralic_languages" title="Indo-Uralic languages">Indo-Uralic</a></li>
+<li><a href="/wiki/Karasuk_languages" title="Karasuk languages">Karasuk</a></li>
+<li><a href="/wiki/Serbi%E2%80%93Mongolic_languages" title="Serbi–Mongolic languages">Serbi–Mongolic</a></li>
+<li><a href="/wiki/Pontic_languages" title="Pontic languages">Pontic</a></li>
+<li><a href="/wiki/Turanian_languages" title="Turanian languages">Turanian</a></li>
+<li><a href="/wiki/Ural-Altaic_languages" title="Ural-Altaic languages">Ural-Altaic</a></li>
+<li><a href="/wiki/Uralo-Siberian_languages" title="Uralo-Siberian languages">Uralo-Siberian</a></li>
+<li><a href="/wiki/Uralic%E2%80%93Yukaghir_languages" title="Uralic–Yukaghir languages">Uralic–Yukaghir</a></li>
+<li><a href="/wiki/Eskimo%E2%80%93Uralic_languages" title="Eskimo–Uralic languages">Eskimo–Uralic</a></li>
+<li><a href="/wiki/Chukotko-Kamchatkan%E2%80%93Amuric_languages" title="Chukotko-Kamchatkan–Amuric languages">Chukotko-Kamchatkan–Amuric</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Language_isolates_and_independent_language_families_in_Arunachal" class="mw-redirect" title="Language isolates and independent language families in Arunachal">Arunachal</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Greater_Siangic_languages" title="Greater Siangic languages">Greater Siangic</a>
+<ul><li><a href="/wiki/Siangic_languages" title="Siangic languages">Siangic</a></li>
+<li><a href="/wiki/Digaro_languages" title="Digaro languages">Digaro</a></li></ul></li>
+<li><a href="/wiki/Mijiic_languages" title="Mijiic languages">Mijiic</a></li>
+<li><a href="/wiki/Miju_languages" title="Miju languages">Miju</a></li>
+<li><a href="/wiki/Hrusish_languages" title="Hrusish languages">Hrusish</a></li>
+<li><a href="/wiki/Kho-Bwa_languages" title="Kho-Bwa languages">Kho-Bwa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Classification_of_Southeast_Asian_languages" title="Classification of Southeast Asian languages">East and Southeast Asia</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Andamanese</a></li>
+<li><a href="/wiki/Austric_languages" title="Austric languages">Austric</a></li>
+<li><a href="/wiki/Austro-Tai_languages" title="Austro-Tai languages">Austro-Tai</a></li>
+<li><a href="/wiki/Austronesian%E2%80%93Ongan_languages" title="Austronesian–Ongan languages">Austronesian–Ongan</a></li>
+<li><a href="/wiki/East_Asian_languages" title="East Asian languages">East Asian</a></li>
+<li><a href="/wiki/Sino-Austronesian_languages" title="Sino-Austronesian languages">Sino-Austronesian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stratum_(linguistics)" title="Stratum (linguistics)">Substrata</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Atlantic_(Semitic)_languages" title="Atlantic (Semitic) languages">Atlantic</a></li>
+<li><a href="/wiki/Pre-Celtic" class="mw-redirect" title="Pre-Celtic">Pre-Celtic</a></li>
+<li><a href="/wiki/Germanic_substrate_hypothesis" title="Germanic substrate hypothesis">Pre-Germanic</a></li>
+<li><a href="/wiki/Goidelic_substrate_hypothesis" title="Goidelic substrate hypothesis">Pre-Goidelic</a></li>
+<li><a href="/wiki/Pre-Greek_substrate" title="Pre-Greek substrate">Pre-Greek</a></li>
+<li><a href="/wiki/Vasconic_substrate_hypothesis" title="Vasconic substrate hypothesis">Vasconic</a></li>
+<li><a href="/wiki/Substratum_in_Vedic_Sanskrit" title="Substratum in Vedic Sanskrit">Pre-Vedic</a></li>
+<li><a href="/wiki/Pre-Finno-Ugric_substrate" title="Pre-Finno-Ugric substrate">Pre-Finno-Ugric</a></li>
+<li><a href="/wiki/Paleo-Laplandic_languages" title="Paleo-Laplandic languages">Paleo-Laplandic</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist"><ul><li>Families in <i>italics</i> have no living members.</li><li>Families with more than 30 languages are in <b>bold</b>.</li></ul></div></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q32940#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://olduli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007294728105171">Israel</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐7c9f596886‐ddnzk
+Cached time: 20240215173954
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.565 seconds
+Real time usage: 0.715 seconds
+Preprocessor visited node count: 1258/1000000
+Post‐expand include size: 53100/2097152 bytes
+Template argument size: 2573/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50669/5000000 bytes
+Lua time usage: 0.336/10.000 seconds
+Lua memory usage: 5474816/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  606.988      1 -total
+ 30.66%  186.083      1 Template:Reflist
+ 23.22%  140.917      1 Template:Andamanese_languages
+ 23.19%  140.774      2 Template:Navbox
+ 16.27%   98.767      1 Template:Short_description
+ 11.51%   69.891      1 Template:Cite_news
+ 10.67%   64.775      2 Template:Catalog_lookup_link
+  8.17%   49.581      2 Template:Pagetype
+  8.05%   48.868      1 Template:Doi
+  7.31%   44.366      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:547482-0!canonical and timestamp 20240215173953 and revision id 1207768618. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andamanese_languages&amp;oldid=1207768618">https://en.wikipedia.org/w/index.php?title=Andamanese_languages&amp;oldid=1207768618</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Andamanese_languages" title="Category:Andamanese languages">Andamanese languages</a></li><li><a href="/wiki/Category:Languages_of_India" title="Category:Languages of India">Languages of India</a></li><li><a href="/wiki/Category:Proposed_language_families" title="Category:Proposed language families">Proposed language families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_J9U_identifiers" title="Category:Articles with J9U identifiers">Articles with J9U identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 15 February 2024, at 17:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andamanese_languages&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7cc97dcfbc-2jxfc","wgBackendResponseTime":121,"wgPageParseReport":{"limitreport":{"cputime":"0.565","walltime":"0.715","ppvisitednodes":{"value":1258,"limit":1000000},"postexpandincludesize":{"value":53100,"limit":2097152},"templateargumentsize":{"value":2573,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50669,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  606.988      1 -total"," 30.66%  186.083      1 Template:Reflist"," 23.22%  140.917      1 Template:Andamanese_languages"," 23.19%  140.774      2 Template:Navbox"," 16.27%   98.767      1 Template:Short_description"," 11.51%   69.891      1 Template:Cite_news"," 10.67%   64.775      2 Template:Catalog_lookup_link","  8.17%   49.581      2 Template:Pagetype","  8.05%   48.868      1 Template:Doi","  7.31%   44.366      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.336","limit":"10.000"},"limitreport-memusage":{"value":5474816,"limit":52428800}},"cachereport":{"origin":"mw-api-int.codfw.main-7c9f596886-ddnzk","timestamp":"20240215173954","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andamanese languages","url":"https:\/\/en.wikipedia.org\/wiki\/Andamanese_languages","sameAs":"http:\/\/www.wikidata.org\/entity\/Q32940","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q32940","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-23T23:47:04Z","dateModified":"2024-02-15T17:39:50Z","headline":"language family of Andaman"}</script>
+</body>
+</html>
