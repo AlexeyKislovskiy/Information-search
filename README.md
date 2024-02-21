@@ -3,5 +3,5 @@
  
  Выполните для установки необходимых зависимостей:
  ```
- pip install requirements.txt
+ pip install -r requirements.txt
  ```
