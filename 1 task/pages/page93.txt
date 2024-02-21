@@ -2,12 +2,12 @@
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
-<title>Madí language - Wikipedia</title>
+<title>Tregami language - Wikipedia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
-"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a8856c4f-f8cc-4991-8a32-051bb4cb72fb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Madí_language","wgTitle":"Madí language","wgCurRevisionId":1163653162,"wgRevisionId":1163653162,"wgArticleId":327634,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 21","Articles with short description","Short description is different from Wikidata","ISO language articles citing sources other than Ethnologue","Pages with plain IPA","Arawan languages","Object–subject–verb languages","Languages of Brazil"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Madí_language",
-"wgRelevantArticleId":327634,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3053275","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],
-"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher",
-"ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"68d49429-827b-4300-af82-cb250257ca8b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tregami_language","wgTitle":"Tregami language","wgCurRevisionId":1209140598,"wgRevisionId":1209140598,"wgArticleId":5533546,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Language articles citing Ethnologue 18","Articles with short description","Short description is different from Wikidata","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from May 2015","All stub articles","Nuristani languages of Afghanistan","Nuristani languages","Indo-European language stubs"],
+"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tregami_language","wgRelevantArticleId":5533546,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q34081",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
@@ -19,32 +19,23 @@
 <meta name="referrer" content="origin-when-cross-origin">
 <meta name="robots" content="max-image-preview:standard">
 <meta name="format-detection" content="telephone=no">
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/75/Jarawara_and_Jamamad%C3%AD.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="1472">
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jarawara_and_Jamamad%C3%AD.png/800px-Jarawara_and_Jamamad%C3%AD.png">
-<meta property="og:image:width" content="800">
-<meta property="og:image:height" content="981">
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jarawara_and_Jamamad%C3%AD.png/640px-Jarawara_and_Jamamad%C3%AD.png">
-<meta property="og:image:width" content="640">
-<meta property="og:image:height" content="785">
 <meta name="viewport" content="width=1000">
-<meta property="og:title" content="Madí language - Wikipedia">
+<meta property="og:title" content="Tregami language - Wikipedia">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="//upload.wikimedia.org">
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Mad%C3%AD_language">
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Tregami_language">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tregami_language&amp;action=edit">
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
 <link rel="icon" href="/static/favicon/wikipedia.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Mad%C3%AD_language">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tregami_language">
 <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="//login.wikimedia.org">
 </head>
-<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Madí_language rootpage-Madí_language skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tregami_language rootpage-Tregami_language skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header">
 		<div class="vector-header-start">
@@ -206,9 +197,9 @@
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
-			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mad%C3%AD+language" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tregami+language" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
 </li>
-<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mad%C3%AD+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tregami+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
 </li>
 
 			
@@ -234,7 +225,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mad%C3%AD+language" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mad%C3%AD+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tregami+language" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tregami+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
 		</ul>
 		
 	</div>
@@ -302,254 +293,79 @@
 				<div class="vector-toc-text">(Top)</div>
 			</a>
 		</li>
-		<li id="toc-Dialects"
+		<li id="toc-Name"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Dialects">
+		<a class="vector-toc-link" href="#Name">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">1</span>Dialects</div>
+			<span class="vector-toc-numb">1</span>Name</div>
 		</a>
 		
-		<ul id="toc-Dialects-sublist" class="vector-toc-list">
+		<ul id="toc-Name-sublist" class="vector-toc-list">
 		</ul>
 	</li>
-	<li id="toc-Phonology_and_orthography"
+	<li id="toc-Sociolinguistic_situation"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Phonology_and_orthography">
+		<a class="vector-toc-link" href="#Sociolinguistic_situation">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">2</span>Phonology and orthography</div>
+			<span class="vector-toc-numb">2</span>Sociolinguistic situation</div>
 		</a>
 		
-			<button aria-controls="toc-Phonology_and_orthography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
-				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
-				<span>Toggle Phonology and orthography subsection</span>
-			</button>
-		
-		<ul id="toc-Phonology_and_orthography-sublist" class="vector-toc-list">
-			<li id="toc-Vowels"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Vowels">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.1</span>Vowels</div>
-			</a>
-			
-			<ul id="toc-Vowels-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Consonants"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Consonants">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.2</span>Consonants</div>
-			</a>
-			
-			<ul id="toc-Consonants-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Syllables_and_stress"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Syllables_and_stress">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.3</span>Syllables and stress</div>
-			</a>
-			
-			<ul id="toc-Syllables_and_stress-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Orthography"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Orthography">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.4</span>Orthography</div>
-			</a>
-			
-			<ul id="toc-Orthography-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
+		<ul id="toc-Sociolinguistic_situation-sublist" class="vector-toc-list">
+		</ul>
 	</li>
-	<li id="toc-Grammar"
+	<li id="toc-Vocabulary"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Grammar">
+		<a class="vector-toc-link" href="#Vocabulary">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">3</span>Grammar</div>
+			<span class="vector-toc-numb">3</span>Vocabulary</div>
 		</a>
 		
-			<button aria-controls="toc-Grammar-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+			<button aria-controls="toc-Vocabulary-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
 				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
-				<span>Toggle Grammar subsection</span>
+				<span>Toggle Vocabulary subsection</span>
 			</button>
 		
-		<ul id="toc-Grammar-sublist" class="vector-toc-list">
-			<li id="toc-Grammatical_profile"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Grammatical_profile">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.1</span>Grammatical profile</div>
-			</a>
-			
-			<ul id="toc-Grammatical_profile-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Gender"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Gender">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.2</span>Gender</div>
-			</a>
-			
-			<ul id="toc-Gender-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Verbs"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Verbs">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3</span>Verbs</div>
-			</a>
-			
-			<ul id="toc-Verbs-sublist" class="vector-toc-list">
-				<li id="toc-Prefixes"
-			class="vector-toc-list-item vector-toc-level-3">
-			<a class="vector-toc-link" href="#Prefixes">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.1</span>Prefixes</div>
-			</a>
-			
-			<ul id="toc-Prefixes-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Verb_roots"
-			class="vector-toc-list-item vector-toc-level-3">
-			<a class="vector-toc-link" href="#Verb_roots">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.2</span>Verb roots</div>
-			</a>
-			
-			<ul id="toc-Verb_roots-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Suffixes"
-			class="vector-toc-list-item vector-toc-level-3">
-			<a class="vector-toc-link" href="#Suffixes">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.3</span>Suffixes</div>
-			</a>
-			
-			<ul id="toc-Suffixes-sublist" class="vector-toc-list">
-				<li id="toc-Auxiliary_roots_and_secondary_verbs"
-			class="vector-toc-list-item vector-toc-level-4">
-			<a class="vector-toc-link" href="#Auxiliary_roots_and_secondary_verbs">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.3.1</span>Auxiliary roots and secondary verbs</div>
-			</a>
-			
-			<ul id="toc-Auxiliary_roots_and_secondary_verbs-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Tense-modal_suffixes"
-			class="vector-toc-list-item vector-toc-level-4">
-			<a class="vector-toc-link" href="#Tense-modal_suffixes">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.3.2</span>Tense-modal suffixes</div>
-			</a>
-			
-			<ul id="toc-Tense-modal_suffixes-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Mood_and_post-mood"
-			class="vector-toc-list-item vector-toc-level-4">
-			<a class="vector-toc-link" href="#Mood_and_post-mood">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.3.3</span>Mood and post-mood</div>
-			</a>
-			
-			<ul id="toc-Mood_and_post-mood-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Other_suffixes"
-			class="vector-toc-list-item vector-toc-level-4">
-			<a class="vector-toc-link" href="#Other_suffixes">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.3.4</span>Other suffixes</div>
-			</a>
-			
-			<ul id="toc-Other_suffixes-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
-		</li>
-		<li id="toc-Copula"
-			class="vector-toc-list-item vector-toc-level-3">
-			<a class="vector-toc-link" href="#Copula">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.3.4</span>Copula</div>
-			</a>
-			
-			<ul id="toc-Copula-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
-		</li>
-		<li id="toc-Nouns"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Nouns">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.4</span>Nouns</div>
-			</a>
-			
-			<ul id="toc-Nouns-sublist" class="vector-toc-list">
-				<li id="toc-Possession"
-			class="vector-toc-list-item vector-toc-level-3">
-			<a class="vector-toc-link" href="#Possession">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.4.1</span>Possession</div>
-			</a>
-			
-			<ul id="toc-Possession-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
-		</li>
-		<li id="toc-Pronouns"
+		<ul id="toc-Vocabulary-sublist" class="vector-toc-list">
+			<li id="toc-Pronouns"
 			class="vector-toc-list-item vector-toc-level-2">
 			<a class="vector-toc-link" href="#Pronouns">
 				<div class="vector-toc-text">
-				<span class="vector-toc-numb">3.5</span>Pronouns</div>
+				<span class="vector-toc-numb">3.1</span>Pronouns</div>
 			</a>
 			
 			<ul id="toc-Pronouns-sublist" class="vector-toc-list">
 			</ul>
 		</li>
+		<li id="toc-Numbers"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Numbers">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Numbers</div>
+			</a>
+			
+			<ul id="toc-Numbers-sublist" class="vector-toc-list">
+			</ul>
+		</li>
 	</ul>
-	</li>
-	<li id="toc-Bibliography"
-		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Bibliography">
-			<div class="vector-toc-text">
-			<span class="vector-toc-numb">4</span>Bibliography</div>
-		</a>
-		
-		<ul id="toc-Bibliography-sublist" class="vector-toc-list">
-		</ul>
 	</li>
 	<li id="toc-References"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
 		<a class="vector-toc-link" href="#References">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">5</span>References</div>
+			<span class="vector-toc-numb">4</span>References</div>
 		</a>
 		
 		<ul id="toc-References-sublist" class="vector-toc-list">
 		</ul>
 	</li>
-	<li id="toc-External_links"
+	<li id="toc-Further_reading"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#External_links">
+		<a class="vector-toc-link" href="#Further_reading">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">6</span>External links</div>
+			<span class="vector-toc-numb">5</span>Further reading</div>
 		</a>
 		
-		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
 		</ul>
 	</li>
 </ul>
@@ -580,13 +396,13 @@
 </div>
 
 					</nav>
-					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Madí language</span></h1>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Tregami language</span></h1>
 							
 <div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
-	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 9 languages"   >
-	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-9" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 20 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-20" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
 
-<span class="vector-dropdown-label-text">9 languages</span>
+<span class="vector-dropdown-label-text">20 languages</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -594,9 +410,9 @@
 			
 			<ul class="vector-menu-content-list">
 				
-				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Jamamad%C3%AD" title="Jamamadí – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Jamamadi_keel" title="Jamamadi keel – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Jamamad%C3%AD" title="Jamamadí – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Jamamad%C3%AD_jezik" title="Jamamadí jezik – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%88%D0%B0%D0%BC%D0%B0%D0%BC%D0%B0%D0%B4%D0%B8%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Јамамадиски јазик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenga_jamamad%C3%AD" title="Lenga jamamadí – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_jamamadi" title="Língua jamamadi – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BC%D0%B0%D0%BC%D0%B0%D0%B4%D0%B8" title="Жамамади – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BC%D0%B0%D0%BC%D0%B0%D0%B4%D1%96" title="Жамамаді – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+				<li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BF_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE" title="ত্রিগামি ভাষা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8" title="Трегами – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Idioma_tregami" title="Idioma tregami – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%AA%D8%B1%DA%AF%D8%A7%D9%85%DB%8C" title="زبان ترگامی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Lingua_tregam%C3%AD" title="Lingua tregamí – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE" title="त्रेगामी भाषा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Bahasa_Tregami" title="Bahasa Tregami – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Lingua_tregami" title="Lingua tregami – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Kitregami" title="Kitregami – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-lez mw-list-item"><a href="https://lez.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8_%D1%87%D3%80%D0%B0%D0%BB" title="Трегами чӀал – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target"><span>Лезги</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%AC%E3%83%A0%E8%AA%9E" title="トレガム語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Tregami" title="Tregami – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Tregami" title="Tregami – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenga_tregami" title="Lenga tregami – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyk_tregami" title="Język tregami – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8" title="Трегами – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tregami" title="Tregami – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8_%D1%82%D0%B5%D0%BB%D0%B5" title="Трегами теле – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B5" title="ภาษาเตรกามี – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B3%D0%B0%D0%BC%D1%96" title="Трегамі – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
 			</ul>
-			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3053275#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34081#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 		</div>
 
 	</div>
@@ -612,7 +428,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Mad%C3%AD_language" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Mad%C3%AD_language" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Tregami_language" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Tregami_language" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
 		</ul>
 		
 	</div>
@@ -652,7 +468,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Mad%C3%AD_language"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Tregami_language"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -693,7 +509,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Mad%C3%AD_language"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=history"><span>View history</span></a></li>
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Tregami_language"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;action=history"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -707,7 +523,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Mad%C3%AD_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Mad%C3%AD_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;oldid=1163653162" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mad%C3%AD_language&amp;id=1163653162&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMad%25C3%25AD_language"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMad%25C3%25AD_language"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3053275" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Tregami_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Tregami_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;oldid=1209140598" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tregami_language&amp;id=1209140598&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTregami_language"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTregami_language"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34081" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
 		</ul>
 		
 	</div>
@@ -721,7 +537,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Mad%C3%AD_language&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Mad%C3%AD_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Tregami_language&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Tregami_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
 		</ul>
 		
 	</div>
@@ -759,685 +575,184 @@
 					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
 					
 					
-					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Arawan language spoken in Brazil</div>
-<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above above" style="font-size:125%; color: black; background-color:  #c0dde6;">Madí</th></tr><tr><td colspan="2" class="infobox-subheader" style="font-size:110%; color: black; background-color:  #c0dde6;">Jamamadí</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Native&#160;to</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Amazonas_(Brazilian_state)" title="Amazonas (Brazilian state)">Amazonas State</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Ethnicity</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Jamamadi_people" class="mw-redirect" title="Jamamadi people">Jamamadi</a>, <a href="/wiki/Banaw%C3%A1_people" class="mw-redirect" title="Banawá people">Banawá</a>, Jarawara</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Native speakers</div></th><td class="infobox-data" style="line-height:1.3em;">1,080&#160;(2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Arawan_languages" title="Arawan languages">Arawan</a>
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Nuristani language spoken in Afghanistan</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above above" style="font-size:125%; color: black; background-color:  #c9ffd9;">Tregami</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Native&#160;to</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Region</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Nuristan_Province" title="Nuristan Province">Nuristan Province</a>, <a href="/wiki/Kunar_Province" title="Kunar Province">Kunar Province</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Native speakers</div></th><td class="infobox-data" style="line-height:1.3em;">3,500&#160;(2011)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a>
 <ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
-<b>Madí</b></li></ul></div></td></tr><tr class="plainlist"><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Dialects</th><td class="infobox-data" style="line-height:1.3em;">
-<ul><li>Jarawara</li>
-<li>Banawa</li>
-<li>Jamamadi</li></ul>
-</td></tr><tr><th colspan="2" class="infobox-header" style="color: black; background-color:  #c0dde6;">Language codes</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td class="infobox-data" style="line-height:1.3em;"><code><a href="https://iso639-3.sil.org/code/jaa" class="extiw" title="iso639-3:jaa">jaa</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><i><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></i></th><td class="infobox-data" style="line-height:1.3em;"><code><a rel="nofollow" class="external text" href="https://glottolog.org/resource/languoid/id/jama1261">jama1261</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Endangered_Languages_Project" title="Endangered Languages Project">ELP</a></th><td class="infobox-data" style="line-height:1.3em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><a rel="nofollow" class="external text" href="http://www.endangeredlanguages.com/lang/2924">Jamamadí</a></li><li><a rel="nofollow" class="external text" href="http://www.endangeredlanguages.com/lang/1792">Banawá</a></li></ul></div></td></tr><tr><td colspan="2" class="infobox-full-data" style="line-height:1.3em;"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Jarawara_and_Jamamad%C3%AD.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jarawara_and_Jamamad%C3%AD.png/320px-Jarawara_and_Jamamad%C3%AD.png" decoding="async" width="320" height="393" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jarawara_and_Jamamad%C3%AD.png/480px-Jarawara_and_Jamamad%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jarawara_and_Jamamad%C3%AD.png/640px-Jarawara_and_Jamamad%C3%AD.png 2x" data-file-width="807" data-file-height="990" /></a></span><div style="text-align:left;">The approximate location of the Jamamadí and Jarawara dialects of Madí.</div></td></tr></tbody></table>
-<p><b>Madí</b>—also known as <b>Jamamadí</b> after one of its dialects, and also <b>Kapaná</b> or Kanamanti (Canamanti)—is an <a href="/wiki/Arawan_language" class="mw-redirect" title="Arawan language">Arawan language</a> spoken by about 1,000 <a href="/wiki/Jamamadi_people" class="mw-redirect" title="Jamamadi people">Jamamadi</a>, <a href="/wiki/Banaw%C3%A1_people" class="mw-redirect" title="Banawá people">Banawá</a>, and Jarawara people scattered over <a href="/wiki/Amazonas_State,_Brazil" class="mw-redirect" title="Amazonas State, Brazil">Amazonas</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>.
-</p><p>The language has an <a href="/wiki/Active%E2%80%93stative" class="mw-redirect" title="Active–stative">active–stative</a> clause structure with an <a href="/wiki/Agent%E2%80%93object%E2%80%93verb" class="mw-redirect" title="Agent–object–verb">agent–object–verb</a> or <a href="/wiki/Object%E2%80%93agent%E2%80%93verb" class="mw-redirect" title="Object–agent–verb">object–agent–verb</a> word order, depending on whether the agent or object is the topic of discussion (AOV appears to be the default).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+<a href="/wiki/Indo-Iranian_languages" title="Indo-Iranian languages">Indo-Iranian</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Nuristani_languages" title="Nuristani languages">Nuristani</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Southern<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Tregami</b></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Early forms</div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">Proto-Indo-European</a>
+<ul style="line-height:100%; margin-left:1.35em; padding-left:0"><li><a href="/wiki/Proto-Indo-Iranian_language" title="Proto-Indo-Iranian language">Proto-Indo-Iranian</a>
+<ul style="line-height:100%; margin-left:0.45em; padding-left:0"><li><a href="/wiki/Proto-Nuristani_language" class="mw-redirect" title="Proto-Nuristani language">Proto-Nuristani</a>
+
+</li></ul>
+</li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="color: black; background-color:  #c9ffd9;">Language codes</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td class="infobox-data" style="line-height:1.3em;"><code><a href="https://iso639-3.sil.org/code/trm" class="extiw" title="iso639-3:trm">trm</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><i><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></i></th><td class="infobox-data" style="line-height:1.3em;"><code><a rel="nofollow" class="external text" href="https://glottolog.org/resource/languoid/id/treg1243">treg1243</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Endangered_Languages_Project" title="Endangered Languages Project">ELP</a></th><td class="infobox-data" style="line-height:1.3em;"><a rel="nofollow" class="external text" href="http://www.endangeredlanguages.com/lang/3505">Tregami</a></td></tr></tbody></table>
+<p><b>Tregami</b> (Trigami), or <i>Katar Gambiri</i>, is a language spoken in the villages of <a href="/w/index.php?title=Gambir_(Afghanistan)&amp;action=edit&amp;redlink=1" class="new" title="Gambir (Afghanistan) (page does not exist)">Gambir</a>, <a href="/w/index.php?title=Katar_(Afghanistan)&amp;action=edit&amp;redlink=1" class="new" title="Katar (Afghanistan) (page does not exist)">Kaṭâr</a>, and Devoz in the Tregâm Valley off the lower <a href="/wiki/Pech_River" title="Pech River">Pech River</a><sup id="cite_ref-nuristani_2-0" class="reference"><a href="#cite_note-nuristani-2">&#91;2&#93;</a></sup> in the <a href="/wiki/Watapur_District" title="Watapur District">Watapur District</a> of Kunar Province in Afghanistan. The area is in the <a href="/wiki/Hindu_Kush" title="Hindu Kush">Hindu Kush</a> along the border with Pakistan. Tregami belongs to the <a href="/wiki/Nuristani_languages" title="Nuristani languages">Nuristani</a> group of the <a href="/wiki/Indo-Iranian_languages" title="Indo-Iranian languages">Indo-Iranian</a> language family. It is spoken by approximately 3,500 people (2011).  Most individuals speak <a href="/wiki/Pashto" title="Pashto">Pashto</a> in addition to Tregami.<sup id="cite_ref-e18_1-1" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup>
+</p><p>Tregami is a close relative of <a href="/wiki/Waigali_language" class="mw-redirect" title="Waigali language">Waigali</a>, spoken in <a href="/wiki/Ghaziabad_District,_Kunar" title="Ghaziabad District, Kunar">Ghaziabad District</a> to the east, with which it has a lexical similarity of 75% to 80%.<sup id="cite_ref-e18_1-2" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup> Although Tregami villages are close in proximity, there is a slight difference between the dialects of Katar and Gambir.<sup id="cite_ref-strand_3-0" class="reference"><a href="#cite_note-strand-3">&#91;3&#93;</a></sup> The language has been influenced by the neighboring Indo-Aryan languages<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (May 2015)">which?</span></a></i>&#93;</sup> and by the Nuristani <a href="/wiki/Kata-vari_dialect" title="Kata-vari dialect">Kata-vari dialect</a>.<sup id="cite_ref-iranic_4-0" class="reference"><a href="#cite_note-iranic-4">&#91;4&#93;</a></sup>
 </p>
 <meta property="mw:PageProp/toc" />
-<h2><span class="mw-headline" id="Dialects">Dialects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=1" title="Edit section: Dialects"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Madí (meaning simply "people") has three extant dialects, corresponding to three distinct tribal groups. Dialectal differences are an important part of tribal self-identification, and although all three dialects are mutually intelligible Madí speakers refer to them as separate languages. The dialects and the tribes they represent are as follows:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=1" title="Edit section: Name"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The native name is unknown. The <a href="/wiki/Exonym" class="mw-redirect" title="Exonym">exonym</a> <i>Tregâm</i>, from <a href="/wiki/Wotapuri-Katarqalai_language" title="Wotapuri-Katarqalai language">Wotapuri-Katarqalai</a>, literally means "three villages", referencing Gambir, Kaṭâr, and Devoz.
 </p>
-<ol><li><b>Jamamadí</b>, spoken by 250 people to the northwest. As the most widely spoken dialect, "Jamamadí" is sometimes used to refer to the whole Madí-speaking population by outsiders and the neighboring Paumarí. The term, used by the Jamamadí people themselves, is a compound of <i>jama</i> "forest" and <i>madi</i> "people". This tribe is occasionally confused with another self-identified "Jamamadí" living further up the <a href="/wiki/Purus_River" title="Purus River">Purus River</a>, who in fact speak a dialect of <a href="/wiki/Kulina_language" title="Kulina language">Kulina.</a> The Jarawara use the word <i>wahati</i> and the Banawá <i>wati</i> to refer to the Jamamadí, both possibly meaning "liver".</li>
-<li><b>Jarawara</b>, spoken by about 170 in seven villages to the south. This term - which was originally used only by outsiders, but today used in self-reference when speaking to non-Madí - is a compound of the <a href="/wiki/Lingua_Geral_Amazonica" class="mw-redirect" title="Lingua Geral Amazonica">Lingua Geral</a> <i>jara</i> "white person" and <i>wara</i> "to eat". The Jarawara refer to themselves as <i>Ee jokana</i>, "us real people". The Banawá refer to them as <i>jarawa-mee</i>; the Jamamadí call them <i>amara</i>, "palm-tree".</li>
-<li><b><a href="/wiki/Banaw%C3%A1" title="Banawá">Banawá</a></b>, spoken by about 120 to the northeast. This term is simply the Brazilian-Portuguese name for the river the tribe now lives on; they themselves refer to the river as <i>Kitia</i>, and the tribe as <i>Kitia-ka-mee</i>, "those who belong to the Kitia". The Banawá only recently migrated to the river area, in about 1950; prior to this they were known as the <i>Munia</i>. Both the Jarawara and Jamamadí refer to the Banawá as <i>bato-jafi</i>.</li></ol>
-<p>These three dialects share 95% of their vocabulary, and their grammars are nearly identical. Dixon characterizes Jarawara and Banawá as somewhat closer to each other than either is to Jamamadí, analogous to the standard British, Australian and American varieties of English. The three tribes have relatively little long-term interaction with one another; close personal relations, social events, and marriages generally occur only within a given tribe. As a result, there is no particular <a href="/wiki/Prestige_(sociolinguistics)" title="Prestige (sociolinguistics)">prestige dialect</a> of Madí, and in fact all the native terms for other dialects described above are slightly derogatory.
-</p><p>Of the three Madí dialects, Jarawara is the most thoroughly documented; as such, this article will refer to Jarawara unless otherwise indicated.
+<h2><span class="mw-headline" id="Sociolinguistic_situation">Sociolinguistic situation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=2" title="Edit section: Sociolinguistic situation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tregami is an unwritten<sup id="cite_ref-e18_1-3" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup> <a href="/wiki/Moribund_language" class="mw-redirect" title="Moribund language">moribund</a> language in the process of being <a href="/wiki/Language_shift" title="Language shift">replaced</a> by <a href="/wiki/Pashto" title="Pashto">Pashto</a>, the predominant language of the region. Most Tregami are bilingual in Pashto, and the Tregami people don't have the resources to revive their language.
 </p>
-<h2><span class="mw-headline" id="Phonology_and_orthography">Phonology and orthography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=2" title="Edit section: Phonology and orthography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Madí has a relatively small phonemic inventory, distinguishing four vowel qualities and twelve consonants.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Vowels">Vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=3" title="Edit section: Vowels"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable" style="text-align: center;">
-<tbody><tr>
-<th>
-</th>
-<th><a href="/wiki/Front_vowel" title="Front vowel">Front</a>
-</th>
-<th><a href="/wiki/Back_vowel" title="Back vowel">Back</a>
-</th></tr>
-<tr>
-<th><a href="/wiki/High_vowel" class="mw-redirect" title="High vowel">High</a>
-</th>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Length_(phonetics)" title="Length (phonetics)">i iː</a></span>
-</td>
-<td>
-</td></tr>
-<tr>
-<th><a href="/wiki/Mid_vowel" title="Mid vowel">Mid</a>
-</th>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Length_(phonetics)" title="Length (phonetics)">e eː</a></span>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Length_(phonetics)" title="Length (phonetics)">o oː</a></span><sup>1</sup>
-</td></tr>
-<tr>
-<th><a href="/wiki/Low_vowel" class="mw-redirect" title="Low vowel">Low</a>
-</th>
-<td colspan="2"><span class="IPA" lang="und-fonipa"><a href="/wiki/Length_(phonetics)" title="Length (phonetics)">a aː</a></span>
-</td></tr></tbody></table>
-<ol><li>The back vowel here represented as /o oː/ is unrounded; its most common realization is mid-back [ɤ ɤː], but this varies freely with close-back [ɯ ɯː].</li></ol>
-<p>All vowel qualities may occur short or long, but the distinction is fairly limited and has a low <a href="/wiki/Functional_load" title="Functional load">functional load</a>. All monosyllabic words have a long vowel: /baː/ "to hit", /soː/ "to urinate". In polysyllabic words, however, vowel length is occasionally contrastive, as shown in the <a href="/wiki/Minimal_pair" title="Minimal pair">minimal pair</a> /ˈaba/ "fish" and /ˈaːba/ "to be finished, dead". Many instances of long vowels developed historically from the loss of /h/ preceding an unstressed syllable, a process that is still ongoing; for example, the citation form /ˈ<span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɸ</span>aha/ "water" may be pronounced /<span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɸ</span>aː/ in casual speech.
-</p><p>Vowels are allophonically <a href="/wiki/Nasalized" class="mw-redirect" title="Nasalized">nasalized</a> when adjacent to nasal consonants /m n h/, and at the end of main clauses.
-</p>
-<h3><span class="mw-headline" id="Consonants">Consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=4" title="Edit section: Consonants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable" style="text-align: center;">
-<tbody><tr>
-<th>
-</th>
-<th><a href="/wiki/Bilabial_consonant" title="Bilabial consonant">Bilabial</a>
-</th>
-<th><a href="/wiki/Dental_consonant" title="Dental consonant">Dental</a>
-</th>
-<th><a href="/wiki/Alveolar_consonant" title="Alveolar consonant">Alveolar</a>
-</th>
-<th><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
-</th>
-<th><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a>
-</th>
-<th><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a>
-</th></tr>
-<tr>
-<th><a href="/wiki/Plosive" title="Plosive">Plosive</a>
-</th>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_bilabial_plosive" title="Voiced bilabial plosive">b</a></span>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_alveolar_plosive" class="mw-redirect" title="Voiceless alveolar plosive">t</a></span> <span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_plosive" class="mw-redirect" title="Voiced alveolar plosive">d</a></span><sup>1</sup>
-</td>
-<td>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_palatal_plosive" title="Voiced palatal plosive">ɟ</a></span><sup>2</sup>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_velar_plosive" title="Voiceless velar plosive">k</a></span>
-</td>
-<td>(<span class="IPA" lang="und-fonipa"><a href="/wiki/Glottal_stop" title="Glottal stop">ʔ</a></span>)<sup>3</sup>
-</td></tr>
-<tr>
-<th><a href="/wiki/Nasal_stop" class="mw-redirect" title="Nasal stop">Nasal</a>
-</th>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_bilabial_nasal" title="Voiced bilabial nasal">m</a></span>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_nasal" class="mw-redirect" title="Voiced alveolar nasal">n</a></span>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<th><a href="/wiki/Fricative_consonant" class="mw-redirect" title="Fricative consonant">Fricative</a>
-</th>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_bilabial_fricative" title="Voiceless bilabial fricative">ɸ</a></span>
-</td>
-<td>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_alveolar_fricative" title="Voiceless alveolar fricative">s</a></span>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_nasal_glottal_approximant" title="Voiceless nasal glottal approximant">h̃</a></span><sup>4</sup>
-</td></tr>
-<tr>
-<th><a href="/wiki/Liquid_consonant" title="Liquid consonant">Liquid</a>
-</th>
-<td>
-</td>
-<td>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_trill" class="mw-redirect" title="Voiced alveolar trill">r</a></span><sup>5</sup>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<th><a href="/wiki/Semivowel" title="Semivowel">Semivowel</a>
-</th>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_labial%E2%80%93velar_approximant" title="Voiced labial–velar approximant">w</a></span><sup>6</sup>
-</td>
-<td>
-</td></tr></tbody></table>
-<ol><li>The voiced alveolar stop /d/ occurs in the Jamamadí and Banawá dialects; in Jarawara it has merged with /t/.</li>
-<li>The palatal stop <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">/ɟ/</span> may be realized as a semivowel <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">[j]</span> in rapid speech, and especially before /i/.</li>
-<li>The <a href="/wiki/Glottal_stop" title="Glottal stop">glottal stop</a> <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">[ʔ]</span> has a limited distribution. It occurs between the elements of a compound where the second element begins with a vowel, e.g. /iso-ete/ "leg-stalk" &gt; [isoʔete] "shin". Similarly, it occurs after reduplication when the reduplicated stem begins with a vowel: /ata-atabo/ "be muddy all over" is realized as [ataʔatabo]. Dixon therefore argues that the glottal stop is not a phoneme in its own right, but rather marks a <i>phonological</i> word boundary occurring within a <i>grammatical</i> word, when the following phonological word begins in a vowel.</li>
-<li>The glottal fricative /h/ is nasalized - that is, air escapes from both the mouth and nose while it is articulated - and is therefore represented here as &lt;<span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">h̃</span>&gt;. This causes the allophonic nasalization of surrounding vowels mentioned above (see <a href="/wiki/Rhinoglottophilia" title="Rhinoglottophilia">rhinoglottophilia</a>).</li>
-<li>The most common realization of the liquid /r/ in Jarawara is a "darkish" lateral approximant [l~ɫ]; a <a href="/wiki/Dental_and_alveolar_flaps" class="mw-redirect" title="Dental and alveolar flaps">tap</a> [ɾ] occurs as an allophone, most commonly before /i/.  In Jamamadí and Banawá, however, this consonant is realized as [ɾ] in most contexts.</li>
-<li>The <a href="/wiki/Semivowel" title="Semivowel">semivowel</a> /w/ cannot occur, or is non-distinctive, before or after the back vowel /o oː/. As a result, it is often analysed as a non-syllabic allophone of /o/.</li></ol>
-<p>The Jarawara dialect does not distinguish <a href="/wiki/Voice_(phonetics)" title="Voice (phonetics)">voicing</a> in any of its consonants. It is cross-linguistically unusual, however, in that voicing in its stop series is asymmetrical; /t k/ are underlyingly voiceless, whereas /b ɟ/ are underlyingly voiced. All except /ɟ/ have occasional voiced or voiceless allophones, i.e. /p d g/; voiced allophones often occur word-initially, and voiceless allophones tend to occur word-medially. This system is the result of several mergers occurring in the transition from Proto-Arawan, which had a much larger consonant inventory. The latter system is mostly preserved in the modern Arawan language <a href="/wiki/Paumar%C3%AD_language" title="Paumarí language">Paumarí.</a>
-</p>
-<h3><span class="mw-headline" id="Syllables_and_stress">Syllables and stress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=5" title="Edit section: Syllables and stress"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In common with many other <a href="/wiki/Amazonian_languages" title="Amazonian languages">Amazonian languages</a>, Madí has a very simple syllable structure (C)V; that is, a syllable must consist of a vowel, which may be preceded by a consonant. All consonant-vowel sequences are permitted except /wo/. VV sequences are heavily restricted; aside from /oV Vo/ (which may also be transcribed /owV Vwo/, with an intervening consonant), sequences where /h/ is deleted before an unstressed vowel, and the recent loanword /<span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɟ</span>ia/ "day" (from Portuguese <i>dia),</i> the only permitted sequence is /ai/. Words cannot begin with VV sequences, except when /h/ is deleted from the sequence /VhV-/.
-</p><p>In the Jarawara dialect, <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">stress</a> is assigned to every second mora counting from the end of the phonological word, beginning with the penultimate, e.g. /ˌkaraˈ<span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɸ</span>ato/ "tape recorder". Since long vowels bear two moras, they are always stressed: /ˌbatiˈriː/ "priest".
-</p><p>In Banawá, however, stress is counted from the beginning of the word: the first (in words of two moras) or second (in words of three or more) mora is stressed, along with every second mora following. Jamamadi may share this system.
-</p>
-<h3><span class="mw-headline" id="Orthography">Orthography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=6" title="Edit section: Orthography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Like all indigenous languages of South America, Madí was not written prior to Euro-American contact; moreover, no officially standardized orthography yet exists for the language, and most native speakers are illiterate. The basis for written representation of the language today, both among native and non-native speakers, is a practical orthography devised by <a href="/wiki/SIL_International" title="SIL International">SIL</a> for the Jamamadí dialect. The differences between the <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">International Phonetic Alphabet</a> (IPA), the SIL orthography for Jamamadí, and Dixon's orthography for Jarawara are listed below.
-</p>
+<h2><span class="mw-headline" id="Vocabulary">Vocabulary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=3" title="Edit section: Vocabulary"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pronouns">Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=4" title="Edit section: Pronouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
-<caption>
-</caption>
 <tbody><tr>
-<th>IPA
+<th colspan="2">Person
 </th>
-<th>SIL
+<th>Nominative
 </th>
-<th>Dixon
+<th>Accusative
 </th>
-<th>Comment
+<th>Genitive
 </th></tr>
 <tr>
-<td>ɟ
+<th rowspan="2">1st
+</th>
+<th>sg.
+</th>
+<td><i>e</i>
 </td>
-<td>y
-</td>
-<td>j
-</td>
-<td>Dixon's preference. Native speakers of all dialects, including Jarawara, use &lt;y&gt;.
+<td colspan="2"><i>žũ</i>
 </td></tr>
 <tr>
-<td>Vː
+<th>pl.
+</th>
+<td><i>âva</i>
 </td>
-<td colspan="2">VV
-</td>
-<td>Long vowels are represented as double: /baː/ "to hit" corresponds to &lt;baa&gt;
+<td colspan="2"><i>žâmâ</i>
 </td></tr>
 <tr>
-<td><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɸ</span>
+<th rowspan="2">2nd
+</th>
+<th>sg.
+</th>
+<td><i>tu</i>
 </td>
-<td colspan="2">f
-</td>
-<td>Phonetic [f] and [ɸ] do not contrast; Portuguese loanwords with /f/ regularly surface with /ɸ/ in Madí.
+<td colspan="2"><i>to</i>
 </td></tr>
 <tr>
-<td>ʔ
+<th>pl.
+</th>
+<td><i>vi</i>
 </td>
-<td colspan="2">'
+<td><i>eme</i>
 </td>
-<td>Rarely represented.
-</td></tr>
-<tr>
-<td>ɾ~l
-</td>
-<td colspan="2">r
-</td>
-<td>[l] is the primary allophone in Jarawara, [ɾ] in Jamamadí and Banawá; Dixon retains &lt;r&gt; for cross-linguistic convenience.
-</td></tr>
-<tr>
-<td>owV, Vwo
-</td>
-<td colspan="2">oV, Vo
-</td>
-<td>/w/ is not contrastive before or after /o/, but native speakers will nonetheless occasionally write /ow/ and /wo/.
+<td><i>imârâ</i>
 </td></tr></tbody></table>
-<p>This article, which focuses mostly on the Jarawara dialect, will henceforth use Dixon's practical orthography even when discussing Jamamadí and Banawá.
-</p>
-<h2><span class="mw-headline" id="Grammar">Grammar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=7" title="Edit section: Grammar"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Grammatical_profile">Grammatical profile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=8" title="Edit section: Grammatical profile"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Like many indigenous languages of the Americas, Madí is grammatically <a href="/wiki/Agglutinative_language" title="Agglutinative language">agglutinative</a>, primarily suffixing, and "verb-heavy"; that is, a great deal of grammatical information is conveyed through verbal affixes, with each affix generally corresponding to a single morpheme. Dixon, for example, counts six prefixes and over eighty affixes. The Jarawara sentence below provides an example of a highly inflected verb, with six affixes corresponding to eight independent words in English (lexical roots are highlighted in bold):<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
-</p>
-<div class="interlinear" style="margin-left:3em"><div style="float: left; margin-bottom: 0.3em;margin-right: 1em;"><p style="margin: 0px;font-style: italic;"><b>katoma</b></p><p style="margin: 0px;">temper</p></div><div style="float: left; margin-bottom: 0.3em;margin-right: 1em;"><p style="margin: 0px;font-style: italic;">ka-<b>ki</b>-joma-me-mata-mona-ka</p><p style="margin: 0px;"><span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">APPLIC</span>-in.motion-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">THROUGH</span>.<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">GAP</span>-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">BACK</span>-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">FAR</span>.<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">PAST</span>/<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">NON</span>-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">EYEWITNESS</span>-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">REPORTED</span>-<span class="gloss-abbr" style="font-variant: small-caps; font-variant-numeric: oldstyle-nums; text-transform: lowercase;">DECLARATIVE</span></p></div><p style="display: none;"><b>katoma</b> ka-<b>ki</b>-joma-me-mata-mona-ka</p><p style="display: none;">temper APPLIC-in.motion-THROUGH.GAP-BACK-FAR.PAST/NON-EYEWITNESS-REPORTED-DECLARATIVE</p><p style="clear: left;">"He is said to have gone back in angrily." (<abbr style="font-size:85%" title="literal translation">lit.</abbr> "with temper")</p><div style="clear: left; display: block;"></div>
-</div>
-<p>On the other hand, all verbal affixes are optional, and many verbs occur in speech with three affixes or fewer; as a result, the actual morpheme-per-word ratio is lower than the large inventory of affixes might suggest. Other word classes, moreover, inflect with far less regularity and variety than verbs do. As a result, while theoretically possible, single-word sentences such as those characteristic of <a href="/wiki/Polysynthetic_language" title="Polysynthetic language">polysynthetic</a> languages are rare in Madí.
-</p><p>Madí displays a "fluid-S" <a href="/wiki/Active%E2%80%93stative_alignment" title="Active–stative alignment">active-stative alignment</a> system<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and a basic <a href="/wiki/Object%E2%80%93subject%E2%80%93verb" class="mw-redirect" title="Object–subject–verb">object-subject-verb</a> (OSV) word order. The latter feature is shared by other regional languages (e.g. <a href="/wiki/Apurin%C3%A3_language" title="Apurinã language">Apurinã</a>) but is very rare cross-linguistically.
-</p>
-<h3><span class="mw-headline" id="Gender">Gender</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=9" title="Edit section: Gender"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Madí has a two-way gender system, distinguishing between masculine and feminine. All nouns carry gender, but not overtly; instead, the gender of a noun is shown by its verbal agreement, specifically in affixes. Affixes which mark for gender generally do so by a vowel alternation: -<i>a</i> for masculine, <i>-e</i> for feminine. For example, the declarative suffix <i>-kV</i> surfaces as <i>-ka</i> when the verb it applies to references a masculine subject, but as <i>-ke</i> when feminine.
-</p><p>The default, unmarked gender is feminine, and all subject pronouns (regardless of the sex of their referent) require feminine gender agreement.
-</p>
-<h3><span class="mw-headline" id="Verbs">Verbs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=10" title="Edit section: Verbs"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>As mentioned above, the verb is by far the most morphologically complex part of speech in Madí. However, the precise delineation of a "single verb" is difficult, since certain grammatically bound inflections can nonetheless form independent phonological words. For example, the masculine declarative suffix -<i>ke</i> is phonologically bound to the verb root in the word <i>ka<b>ke</b></i> "he is coming", but part of a phonologically independent word in the sentence <i>okofawa o<b>ke</b></i> "I drink (something) with it". For this reason, Dixon prefers to analyse Madí in terms of "predicates" and "<a href="/wiki/Copula_(linguistics)" title="Copula (linguistics)">copulas</a>" - sentence-level grammatical units which includes the verb root, personal pronouns in any position, and inflectional affixes, but excludes noun phrases.
-</p><p>This section discusses the notable features of Madí verbal morphology.
-</p>
-<h4><span class="mw-headline" id="Prefixes">Prefixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=11" title="Edit section: Prefixes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>In contrast to suffixation, prefixation is relatively limited. There are only three prefix slots (relative positions which can only be occupied by a single member of the corresponding set), and only six unique prefixes in total. All of these are, however, extremely common:
-</p>
-<table class="wikitable">
-<caption>
-</caption>
-<tbody><tr>
-<th>Slot
-</th>
-<th>Prefix
-</th>
-<th>Meaning and comment
-</th></tr>
-<tr>
-<td rowspan="4">1
-</td>
-<td><i>o-</i>
-</td>
-<td>First-person singular subject.
-</td></tr>
-<tr>
-<td><i>ti-</i>
-</td>
-<td>Second-person singular subject.
-</td></tr>
-<tr>
-<td><i>hi-</i>
-</td>
-<td>Marks an O-construction ("passive") when both subject and object are third-person.
-</td></tr>
-<tr>
-<td><i>to-</i>
-</td>
-<td>"Away" (directional).
-</td></tr>
-<tr>
-<td>2
-</td>
-<td><i>ka-</i>
-</td>
-<td><a href="/wiki/Applicative_voice" title="Applicative voice">Applicative</a>.
-</td></tr>
-<tr>
-<td rowspan="3">3
-</td>
-<td><i>na-</i>
-</td>
-<td><a href="/wiki/Causative" title="Causative">Causative</a>.
-</td></tr>
-<tr>
-<td><i>niha-</i>
-</td>
-<td>Allomorph of <i>na</i>- when the following verb would inflect with auxiliaries <i>-na</i>, <i>-ha.</i> Deletes said suffixes. Also occurs with copular verb <i>-ha</i> "to become".
-</td></tr>
-<tr>
-<td><i>ni-</i>
-</td>
-<td>Allomorph of <i>niha</i>- when its second syllable <i>-ha-</i> is unstressed.
-</td></tr></tbody></table>
-<p>The use and meaning of the applicative prefix <i>ka-</i> are somewhat complex, and vary from verb to verb. For some intransitive verbs the applicative, in its prototypical linguistic function, adds a degree of <a href="/wiki/Valency_(linguistics)" title="Valency (linguistics)">valency</a> and turns a peripheral argument into a core object (O); for example, the sentence <i>jomee habo naka owa ni-jaa</i> "the dog (S) barks <b>at me</b> (periph.)" becomes <i>jomee owa</i> <i>habo kanaka</i> "the dog (S) <b>barks-at</b> me (O)". However, there are many instances in which the applicative does not necessarily perform this syntactic role, and instead signals some semantic function (e.g. when the subject S is a sick person or a full container).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
-</p>
-<h4><span class="mw-headline" id="Verb_roots">Verb roots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=12" title="Edit section: Verb roots"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>The verb root is a single invariant morpheme to which inflection is applied. All verb roots are obligatory and cannot be deleted, with the single exception of the verb <i>-ati-na</i> "to say, ask", whose root <i>ati-</i> is omitted if its auxiliary is prefixed with a pronoun <i>o-, ti-</i> or <i>hi-;</i> it surfaces therefore as merely the auxiliary <i>-na</i>.
-</p><p>Because of the variety and productivity of derivation in Madí, as well as the high degree of <a href="/wiki/Homophony" title="Homophony">homophony</a> resulting from sound change, there are somewhat fewer verb roots than would be expected in a more isolating language, and a single Madí verb root can correspond to several in English. The root <i>-wina-</i>, for example, can be translated as "be hanging", "lie (in a hammock)", "live (in a place)", "be located", or "stay".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Such ambiguity is resolved through inflection and pragmatic context.
-</p>
-<h4><span class="mw-headline" id="Suffixes">Suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=13" title="Edit section: Suffixes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>The vast majority of verbal inflection in Madí takes place through suffixation. Because of the variety and complexity of suffixes as a whole, this section will describe them in specific categories.
-</p>
-<h5><span class="mw-headline" id="Auxiliary_roots_and_secondary_verbs">Auxiliary roots and secondary verbs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=14" title="Edit section: Auxiliary roots and secondary verbs"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h5>
-<p>Certain verb roots in Madí cannot themselves take inflection, but require the auxiliary <i>-na</i> / <i>-ha</i> to do so.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The semantic distinction between the two is mostly opaque, but those taking <i>-ha</i> seem to be vaguely associated with "becoming" - e.g. <i>tanako-ha</i> "to be(come) sweaty". While <i>-na-</i> is deleted under several conditions (mostly the addition of certain suffixes), <i>-ha-</i> is not except when preceded by the causative prefix <i>niha-</i> (see above). The auxiliary <i>-ha</i> must always be preceded by the prefix <i>to-</i> "away", except when another Slot 1 prefix takes its place.
-</p><p>Occasionally, the absence of an auxiliary may occur on semantic criteria. Dixon records the sentence <i>biti weje-ke</i> "she is carrying her son on her back" (with declarative marker <i>-ke</i>). The root <i>-weje-</i>, "to carry on one's back", is usually non-inflecting, and so a sentence containing an auxiliary might be expected. However, the sentence in question was made in reference to a photograph, indicating a semantic rule that an ordinarily non-inflecting verb can take inflection without an auxiliary if it describes a statement of timeless fact, rather than an ongoing event.
-</p><p>Despite being grammatically bound to the root verb, these auxiliary roots form a new phonological word, taking with them all suffixes following. For example, the inflected form <i>weje-ke</i> above is a single phonological word, but Dixon's expected form with an auxiliary - <i>weje</i> <i>nineke</i> - is two.
-</p><p>There are two "secondary verbs" in Madí: <i>ama</i> "continuous(ly)" and <i>awine/awa</i> "(it) seems". Like auxiliary roots, these form a new phonological word, but are optional. These take place after the auxiliary root, "miscellaneous suffixes" (the slot comprising the majority of suffixes), and tense-modal suffixes, as well as third-position pronouns, but before mood and post-mood suffixes.
-</p>
-<h5><span class="mw-headline" id="Tense-modal_suffixes">Tense-modal suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=15" title="Edit section: Tense-modal suffixes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h5>
-<p>These suffixes mark the <a href="/wiki/Grammatical_tense" title="Grammatical tense">tense</a> of the verb, <a href="/wiki/Evidentiality" title="Evidentiality">evidentiality</a>, and <a href="/wiki/Linguistic_modality" class="mw-redirect" title="Linguistic modality">modality</a>. There is only a single degree of future tense, but three degrees of past: immediate, recent, and far past. The past tense forms are also fused with evidentiality (eyewitness vs. non-eyewitness), for a total of six past suffixes. The other suffixes in this category mark intentional, irrealis, hypothetical and reported ("it is said"...) modality respectively.
-</p><p>Tense-modal suffixes share a single slot relative to the verb root, but are not necessarily exclusive; for example, the past non-eyewitness suffixes are very often followed by the reported modal suffix.
-</p>
-<h5><span class="mw-headline" id="Mood_and_post-mood">Mood and post-mood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=16" title="Edit section: Mood and post-mood"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h5>
-<p>Towards the end of the predicate are attached suffixes conveying <a href="/wiki/Grammatical_mood" title="Grammatical mood">grammatical mood</a>. These are <b>indicative</b> (divided into declarative and "backgrounding"; both optional), <b>imperative</b> (marked for proximity and positive vs. negative, for a total of four), <b>interrogative</b> (content, polar, and polar-future), as well as several single suffixes relating to a narrative (e.g. a climactic sentence).
-</p><p>These can only be followed within the predicate by "post-mood" suffixes - namely, the negative <i>-ra</i> or a recapitulated tense form.
-</p>
-<h5><span class="mw-headline" id="Other_suffixes">Other suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=17" title="Edit section: Other suffixes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h5>
-<p>The majority of Madí suffixes, however, are inserted into a slot after the verb root (or auxiliary root, if there is one) and before the tense-modal suffixes. Dixon characterizes members of this slot as "miscellaneous suffixes", a group consisting of at least fifty-six distinct suffixes, all of these are strictly optional. Examples include <i>-bisa</i> "also", <i>-mata</i> "for a short time", and <i>-rama</i> "unusual, unexpected". In general, these suffixes can combine with one another freely, although multiple subgroups exist whose members appear to be mutually exclusive.
-</p>
-<h4><span class="mw-headline" id="Copula">Copula</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=18" title="Edit section: Copula"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>The copula <i>ama</i> has a much more limited range of inflection than predicative verbs. The only suffixes which can follow it are negative <i>-ra</i>, declarative <i>-ke / -ka,</i> backgrounding <i>-ni / -ne</i>, and interrogatives <i>-ni(hi) / -re / -ra</i>. If the subject of the copula is a prefixed first- or second-person singular <i>o- / ti-</i>, moreover, this will attach to the negative <i>-ra</i> rather than the verb itself: <i>ama ti-ra-haa</i> "is it not you?"
-</p><p>Unlike in English, a copula in Madí can be formed without a complement. Such sentences can be translated as either "it is" or "there is, exists"; for example, <i>sire amake</i> "it is cold" (lit. "cold is") but <i>bosaro amake</i> "there is a sore" (or indeed, "it is a sore").<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> In general, the copula <i>ama</i> "to be" can be omitted without a suffix - e.g. <i>towisawa-bona tike waha</i> "you are going to be a chief now", lit. "chief you now" - but this is rare.
-</p><p>Like many languages, Madí lacks a verb corresponding to "to have". Instead, the possessed noun is used within a copula: <i>oko sirakaa amaka</i> "I have some rubber" (lit. "my rubber is".)
-</p>
-<h3><span class="mw-headline" id="Nouns">Nouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=19" title="Edit section: Nouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Nominal morphology is very simple. The only affix which can apply to a noun is the accusative suffix <i>-ra</i>, which is essentially extinct in Jarawara (although still common in Jamamadí and Banawá); a remnant of this can be seen, however, in the non-singular object pronouns <i>era, otara, tera, mera</i>.
-</p><p>There is also a grammatically bound but phonologically independent marker <i>taa</i>, which signifies contrast with a previous noun (not X "but Y"). This inflection follows the noun, but precedes the accusative <i>-ra</i> in Jamamadí and Banawá.
-</p>
-<h4><span class="mw-headline" id="Possession">Possession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=20" title="Edit section: Possession"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>Madí contrasts <a href="/wiki/Alienable_and_inalienable_possession" class="mw-redirect" title="Alienable and inalienable possession">alienable and inalienable possession</a>: kinship terms ("my father") and parts of a whole ("my arm") are considered inalienably possessed, whereas other possessions are alienable. Most inalienable possession is marked simply by sequence, with the possessed following the possessor. An alienably possessed noun, on the other hand, must be preceded with <i>kaa</i>: <i>Okomobi kaa kanawaa</i> "Okomobi's canoe".
-</p>
-<h3><span class="mw-headline" id="Pronouns">Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=21" title="Edit section: Pronouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Madí has a rich inventory of personal pronouns. All personal pronouns mark for <a href="/wiki/Grammatical_number" title="Grammatical number">number</a>; the first person plural also marks (as in many Amazonian languages) for <a href="/wiki/Clusivity" title="Clusivity">clusivity</a>. Unlike <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European languages</a> such as English, Madí pronouns do not mark for <a href="/wiki/Grammatical_case" title="Grammatical case">case</a> (e.g. "I" vs. "me"), but instead for the pronouns' position in relation to the verb (which itself signals the grammatical <a href="/wiki/Argument_(linguistics)" title="Argument (linguistics)">argument</a>). The table below lists the pronominal forms cited by Dixon:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
-</p>
-<table class="wikitable">
-<caption>Personal Pronouns
-</caption>
-<tbody><tr>
-<th>
-</th>
-<th>Position 1 ("object")
-</th>
-<th>Positions 2 and 3 ("subject")
-</th>
-<th>Cardinal pronoun
-</th>
-<th>Alienable possessor
-</th>
-<th>Inalienable possessor
-</th></tr>
-<tr>
-<td>First person singular ("I")
-</td>
-<td>owa
-</td>
-<td>o-<sup>1</sup>
-</td>
-<td>owa
-</td>
-<td>oko<sup>2</sup>
-</td>
-<td>o-, oko<sup>2</sup>
-</td></tr>
-<tr>
-<td>Second person singular ("you")
-</td>
-<td>tiwa
-</td>
-<td>ti-<sup>1</sup>
-</td>
-<td>tiwa
-</td>
-<td>tika<sup>2</sup>
-</td>
-<td>ti-, tika<sup>2</sup>
-</td></tr>
-<tr>
-<td>Third person singular, animate ("he, she")<sup>3</sup>
-</td>
-<td>Ø
-</td>
-<td>Ø
-</td>
-<td>Ø
-</td>
-<td>hinaka
-</td>
-<td>fee ~ hee<sup>4</sup>
-</td></tr>
-<tr>
-<td>Third person singular, inanimate ("it")<sup>3</sup>
-</td>
-<td>Ø
-</td>
-<td>Ø
-</td>
-<td>Ø
-</td>
-<td>-
-</td>
-<td>-
-</td></tr>
-<tr>
-<td>First person non-singular, inclusive ("you and I", etc.)
-</td>
-<td>era
-</td>
-<td>ee
-</td>
-<td>ee
-</td>
-<td>ee kaa
-</td>
-<td>ee
-</td></tr>
-<tr>
-<td>First person non-singular, exclusive ("he and I", etc.)
-</td>
-<td>otara
-</td>
-<td>otaa
-</td>
-<td>otaa
-</td>
-<td>otaa kaa
-</td>
-<td>otaa
-</td></tr>
-<tr>
-<td>Second person non-singular ("you all")
-</td>
-<td>tera
-</td>
-<td>tee
-</td>
-<td>tee
-</td>
-<td>tee kaa
-</td>
-<td>tee
-</td></tr>
-<tr>
-<td>Third person non-singular animate ("they")
-</td>
-<td>mee, mera
-</td>
-<td>mee
-</td>
-<td>mee, mati
-</td>
-<td>mee kaa
-</td>
-<td>mee
-</td></tr></tbody></table>
-<ol><li>The first- and second-person singular pronouns in positions 2 and 3 are not independent grammatical or phonological words; rather, they surface as prefixes to the verb.</li>
-<li>The forms <i>oko</i> and <i>tika</i> are historical contractions of <i>o+kaa</i> and <i>ti+kaa</i> respectively. Despite this, some inalienable nouns (i.e. those whose possessor is <b>not</b> marked with <i>kaa</i> otherwise), mostly referring to body parts, must take <i>oko</i> and <i>tika</i> as possessors.</li>
-<li>Aside from animate possessors, the third-person singular pronouns do not surface in speech. Instead, a sentence is assumed to have a third-person singular subject or object by the <i>absence</i> of a pronoun in its respective position. However, actual omission a third-person position 2 pronoun when the other positions are unfilled (i.e. a sentence composed entirely of a verb) seems to be rare or nonexistent.</li>
-<li>The initial consonant of these forms is in free variation.</li></ol>
-<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=22" title="Edit section: Bibliography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCampbell1997" class="citation book cs1"><a href="/wiki/Lyle_Campbell" title="Lyle Campbell">Campbell, Lyle</a> (1997). <i>American Indian languages: The historical linguistics of Native America</i>. New York: Oxford University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-509427-1" title="Special:BookSources/0-19-509427-1"><bdi>0-19-509427-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=American+Indian+languages%3A+The+historical+linguistics+of+Native+America&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.date=1997&amp;rft.isbn=0-19-509427-1&amp;rft.aulast=Campbell&amp;rft.aufirst=Lyle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon1995" class="citation journal cs1"><a href="/wiki/R._M._W._Dixon" class="mw-redirect" title="R. M. W. Dixon">Dixon, R. M. W.</a> (1995). "Fusional development of gender marking in Jarawara possessed nouns". <i>International Journal of American Linguistics</i>. <b>61</b> (3): 263–294. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F466256">10.1086/466256</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:144765085">144765085</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=Fusional+development+of+gender+marking+in+Jarawara+possessed+nouns&amp;rft.volume=61&amp;rft.issue=3&amp;rft.pages=263-294&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1086%2F466256&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A144765085%23id-name%3DS2CID&amp;rft.aulast=Dixon&amp;rft.aufirst=R.+M.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon2000" class="citation journal cs1"><a href="/wiki/R._M._W._Dixon" class="mw-redirect" title="R. M. W. Dixon">Dixon, R. M. W.</a> (2000). "A-constructions and O-constructions in Jarawara". <i>International Journal of American Linguistics</i>. <b>66</b>: 22–56. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F466405">10.1086/466405</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:145422985">145422985</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=A-constructions+and+O-constructions+in+Jarawara&amp;rft.volume=66&amp;rft.pages=22-56&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1086%2F466405&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A145422985%23id-name%3DS2CID&amp;rft.aulast=Dixon&amp;rft.aufirst=R.+M.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon2003" class="citation book cs1"><a href="/wiki/R._M._W._Dixon" class="mw-redirect" title="R. M. W. Dixon">Dixon, R. M. W.</a> (2003). "The eclectic morphology of Jarawara, and the status of word". In R. M. W. Dixon &amp; Alexandra Y. Alkhenvald (ed.). <i>Word: A Cross-Linguistic Typology</i>. Cambridge: Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+eclectic+morphology+of+Jarawara%2C+and+the+status+of+word&amp;rft.btitle=Word%3A+A+Cross-Linguistic+Typology&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2003&amp;rft.aulast=Dixon&amp;rft.aufirst=R.+M.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixon2004" class="citation book cs1"><a href="/wiki/R._M._W._Dixon" class="mw-redirect" title="R. M. W. Dixon">Dixon, R. M. W.</a> (2004). <i>The Jarawara language of Southern Amazonia</i>. Oxford: Oxford University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-927067-8" title="Special:BookSources/0-19-927067-8"><bdi>0-19-927067-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Jarawara+language+of+Southern+Amazonia&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=2004&amp;rft.isbn=0-19-927067-8&amp;rft.aulast=Dixon&amp;rft.aufirst=R.+M.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDixonVogel,_A._R.1996" class="citation journal cs1"><a href="/wiki/R._M._W._Dixon" class="mw-redirect" title="R. M. W. Dixon">Dixon, R. M. W.</a>; Vogel, A. R. (1996). "Reduplication in Jarawara". <i>Languages of the World</i>. <b>10</b>: 24–31.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Languages+of+the+World&amp;rft.atitle=Reduplication+in+Jarawara&amp;rft.volume=10&amp;rft.pages=24-31&amp;rft.date=1996&amp;rft.aulast=Dixon&amp;rft.aufirst=R.+M.+W.&amp;rft.au=Vogel%2C+A.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEverett2012" class="citation journal cs1">Everett, Caleb (2012). "A Closer Look at a Supposedly Anumeric Language". <i>International Journal of American Linguistics</i>. <b>78</b> (4): 575–590. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F667452">10.1086/667452</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:143080342">143080342</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=A+Closer+Look+at+a+Supposedly+Anumeric+Language&amp;rft.volume=78&amp;rft.issue=4&amp;rft.pages=575-590&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1086%2F667452&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A143080342%23id-name%3DS2CID&amp;rft.aulast=Everett&amp;rft.aufirst=Caleb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKaufman1994" class="citation book cs1">Kaufman, Terrence (1994). "The native languages of South America". In C. Mosley &amp; R. E. Asher (ed.). <i>Atlas of the world's languages</i>. London: Routledge. pp.&#160;46–76.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+native+languages+of+South+America&amp;rft.btitle=Atlas+of+the+world%27s+languages&amp;rft.place=London&amp;rft.pages=46-76&amp;rft.pub=Routledge&amp;rft.date=1994&amp;rft.aulast=Kaufman&amp;rft.aufirst=Terrence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li>
-<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFVogel2009" class="citation journal cs1">Vogel, Alan (2009). <a rel="nofollow" class="external text" href="https://doi.org/10.1349%2FPS1.1537-0852.A.333">"Covert Tense in Jarawara"</a>. <i>Linguistic Discovery</i>. <b>7</b>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1349%2FPS1.1537-0852.A.333">10.1349/PS1.1537-0852.A.333</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Linguistic+Discovery&amp;rft.atitle=Covert+Tense+in+Jarawara&amp;rft.volume=7&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1349%2FPS1.1537-0852.A.333&amp;rft.aulast=Vogel&amp;rft.aufirst=Alan&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1349%252FPS1.1537-0852.A.333&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMad%C3%AD+language" class="Z3988"></span></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=23" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Numbers">Numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=5" title="Edit section: Numbers"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li><i>yo</i></li>
+<li><i>du</i></li>
+<li><i>tre</i></li>
+<li><i>čâtâ</i></li>
+<li><i>põč</i></li>
+<li><i>ṣu</i></li>
+<li><i>sut</i></li>
+<li><i>voṣṭ</i></li>
+<li><i>nũ</i></li>
+<li><i>dåš</i></li></ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=6" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
 <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/21/language/Jamamadí">Madí language</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (21st ed., 2018) <span style="position:relative; top: -2px;"><span typeof="mw:File"><a href="/wiki/Paywall" title="closed access publication – behind paywall"><img alt="Closed access icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/9px-Closed_Access_logo_transparent.svg.png" decoding="async" width="9" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/14px-Closed_Access_logo_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/18px-Closed_Access_logo_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span></span>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-e18_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-e18_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-e18_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-e18_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/trm/">Tregami</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015) <span style="font-size:0.95em; font-size:95%; color: var( --color-subtle, #555 )">(subscription required)</span></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Dixon, "Arawá", in Dixon &amp; Aikhenvald, eds., <i>The Amazonian Languages</i>, 1999.</span>
+<li id="cite_note-nuristani-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-nuristani_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iranicaonline.org/articles/nurestani-languages">Iranica Online</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Dixon, <i>The Jarawara Language of Southern Amazonia</i>, 2004, p. 8.</span>
+<li id="cite_note-strand-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-strand_3-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFStrand1973" class="citation journal cs1">Strand, Richard F. (1973). <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/599462">"Notes on the Nūristāni and Dardic Languages"</a>. <i>Journal of the American Oriental Society</i>. <b>93</b> (3): 297–305. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F599462">10.2307/599462</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/599462">599462</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Oriental+Society&amp;rft.atitle=Notes+on+the+N%C5%ABrist%C4%81ni+and+Dardic+Languages&amp;rft.volume=93&amp;rft.issue=3&amp;rft.pages=297-305&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.2307%2F599462&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F599462%23id-name%3DJSTOR&amp;rft.aulast=Strand&amp;rft.aufirst=Richard+F.&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F599462&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATregami+language" class="Z3988"></span></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Dixon 2004, pp. 16-68.</span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Dixon 2004, p. 256.</span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Dixon 2004, pp. 417-446.</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Dixon 2004, pp. 254-266.</span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Dixon 2004, p. 629.</span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Dixon 2004, p. 155.</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Dixon 2004, pp. 377-386.</span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Dixon 2004, p. 77.</span>
+<li id="cite_note-iranic-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-iranic_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110429194906/http://www.iranicaonline.org/articles/nurestani-languages">"Encyclopædia Iranica | Articles"</a>. <i>www.iranicaonline.org</i>. Archived from <a rel="nofollow" class="external text" href="http://www.iranicaonline.org/articles/nurestani-languages">the original</a> on 2011-04-29.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.iranicaonline.org&amp;rft.atitle=Encyclop%C3%A6dia+Iranica+%7C+Articles&amp;rft_id=http%3A%2F%2Fwww.iranicaonline.org%2Farticles%2Fnurestani-languages&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATregami+language" class="Z3988"></span> </span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mad%C3%AD_language&amp;action=edit&amp;section=24" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Proel: <a rel="nofollow" class="external text" href="http://www.proel.org/index.php?pagina=mundo/amerindia/arawak/jarawara">Lengua Jarawara</a></li></ul>
-<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Languages_of_Brazil" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Brazil" title="Template:Languages of Brazil"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Brazil" title="Template talk:Languages of Brazil"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Languages_of_Brazil" title="Special:EditPage/Template:Languages of Brazil"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Languages_of_Brazil" style="font-size:114%;margin:0 4em"><a href="/wiki/Languages_of_Brazil" title="Languages of Brazil">Languages of Brazil</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">Portuguese</a></li>
-<li><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Brazilian Sign Language</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Brazilian_German" title="Brazilian German">German</a>
-<ul><li><a href="/wiki/East_Pomeranian_dialect" title="East Pomeranian dialect">Pomeranian</a></li></ul></li>
-<li><a href="/wiki/Hunsrik" title="Hunsrik">Hunsrik</a></li>
-<li><a href="/wiki/Italian_language" title="Italian language">Italian</a>
-<ul><li><a href="/wiki/Talian_dialect" title="Talian dialect">Talian</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous<br />languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Ash%C3%A1ninka_language" title="Asháninka language">Asháninka</a></li>
-<li><a href="/wiki/Atorada_language" title="Atorada language">Atorada</a></li>
-<li><a href="/wiki/Baniwa_language_(disambiguation)" class="mw-redirect mw-disambig" title="Baniwa language (disambiguation)">Baniwa</a></li>
-<li><a href="/wiki/Barawana_language" title="Barawana language">Barawana</a></li>
-<li><a href="/wiki/Bar%C3%A9_language" class="mw-redirect" title="Baré language">Baré</a></li>
-<li><a href="/wiki/Enawen%C3%AA-Naw%C3%AA_language" class="mw-redirect" title="Enawenê-Nawê language">Enawenê-Nawê</a></li>
-<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mapidian</a></li>
-<li><a href="/wiki/Mehinaku_language" title="Mehinaku language">Mehinaku</a></li>
-<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
-<li><a href="/wiki/Paresi_language" title="Paresi language">Paresi</a></li>
-<li><a href="/wiki/Tariana_language" title="Tariana language">Tariana</a></li>
-<li><a href="/wiki/Ter%C3%AAna_language" title="Terêna language">Terêna</a></li>
-<li><a href="/wiki/Wapishana_language" title="Wapishana language">Wapishana</a></li>
-<li><a href="/wiki/Warekena_language" title="Warekena language">Warekena</a></li>
-<li><a href="/wiki/Waur%C3%A1_language" title="Waurá language">Waurá</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawan_languages" title="Arawan languages">Arawan</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Deni_language" title="Deni language">Deni</a></li>
-<li><a class="mw-selflink selflink">Jamamadí</a></li>
-<li><a href="/wiki/Kulina_language" title="Kulina language">Kulina</a></li>
-<li><a href="/wiki/Paumar%C3%AD_language" title="Paumarí language">Paumarí</a></li>
-<li><a href="/wiki/Zuruah%C3%A1_language" title="Zuruahá language">Zuruahá</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Amonap_language" title="Amonap language">Amonap</a></li>
-<li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
-<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairi</a></li>
-<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
-<li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
-<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpeng</a></li>
-<li><a href="/wiki/Macushi_language" title="Macushi language">Macushi</a></li>
-<li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Pará Arára</a></li>
-<li><a href="/wiki/Salum%C3%A1_language" title="Salumá language">Salumá</a></li>
-<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
-<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
-<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Panoan_languages" title="Panoan languages">Panoan</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Amawaka_language" title="Amawaka language">Amawaka</a></li>
-<li><a href="/wiki/Kashinawa_language" title="Kashinawa language">Kashinawa</a></li>
-<li><a href="/wiki/Shipibo_language" title="Shipibo language">Shipibo</a></li>
-<li><a href="/wiki/Yaminawa_language" title="Yaminawa language">Yaminawa</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Macro-J%C3%AA_languages" title="Macro-Jê languages">Macro-Jê</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Xer%C3%A9nte_language" title="Xerénte language">Akwẽ-Xerénte</a></li>
-<li><a href="/wiki/Apinay%C3%A9_language" title="Apinayé language">Apinajé</a></li>
-<li><a href="/wiki/Arikap%C3%BA_language" title="Arikapú language">Arikapú</a></li>
-<li><a href="/wiki/Bororo_language" title="Bororo language">Bororo</a></li>
-<li><a href="/wiki/Chiquitano_language" title="Chiquitano language">Chiquitano</a></li>
-<li><a href="/wiki/Djeoromitx%C3%AD_language" title="Djeoromitxí language">Djeoromitxí</a></li>
-<li><a href="/wiki/Kaingang_language" title="Kaingang language">Kaingang</a></li>
-<li><a href="/wiki/Karaj%C3%A1_language" title="Karajá language">Karajá</a></li>
-<li><a href="/wiki/K%C4%A9s%C3%AAdj%C3%AA_language" class="mw-redirect" title="Kĩsêdjê language">Kĩsêdjê</a></li>
-<li><a href="/wiki/Krenak_language" title="Krenak language">Krenak</a></li>
-<li><a href="/wiki/Xokleng_language" title="Xokleng language">Laklãnõ (Xokléng)</a></li>
-<li><a href="/wiki/Maxakal%C3%AD_language" title="Maxakalí language">Maxakalí</a></li>
-<li><a href="/wiki/Kayap%C3%B3_language" class="mw-redirect" title="Kayapó language">Mẽbêngôkre</a></li>
-<li><a href="/wiki/Ofay%C3%A9_language" title="Ofayé language">Ofayé</a></li>
-<li><a href="/wiki/Panar%C3%A1_language" title="Panará language">Panará</a></li>
-<li><a href="/wiki/Rikbaktsa_language" title="Rikbaktsa language">Rikbaktsa</a></li>
-<li><a href="/wiki/Tapayuna_language" title="Tapayuna language">Tapayúna</a></li>
-<li><a href="/wiki/Timbira_languages" class="mw-redirect" title="Timbira languages">Timbira</a></li>
-<li><a href="/wiki/Xavante_language" title="Xavante language">Xavante</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nadahup_languages" title="Nadahup languages">Nadahup</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/D%C3%A2w_language" title="Dâw language">Dâw</a></li>
-<li><a href="/wiki/Hup_language" title="Hup language">Hup</a></li>
-<li><a href="/wiki/Kakwa_language" title="Kakwa language">Kakwa</a></li>
-<li><a href="/wiki/Nad%C3%ABb_language" title="Nadëb language">Nadëb</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tupian_languages" title="Tupian languages">Tupian</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Akw%C3%A1wa_language" title="Akwáwa language">Akwáwa</a></li>
-<li><a href="/wiki/Juruna_language" title="Juruna language">Juruna</a></li>
-<li><a href="/wiki/Kagwahiva_language" title="Kagwahiva language">Kagwahiva</a></li>
-<li><a href="/wiki/Kaiw%C3%A1_language" title="Kaiwá language">Kaiwá</a></li>
-<li><a href="/wiki/Munduruku_language" title="Munduruku language">Munduruku</a></li>
-<li><a href="/wiki/Nheengatu" class="mw-redirect" title="Nheengatu">Nheengatu</a></li>
-<li><a href="/wiki/Omagua_language" title="Omagua language">Omagua</a></li>
-<li><a href="/wiki/Tapirap%C3%A9_language" title="Tapirapé language">Tapirapé</a></li>
-<li><a href="/wiki/Tenetehara_language" title="Tenetehara language">Tenetehara</a></li>
-<li><a href="/wiki/Xeta_language" title="Xeta language">Xeta</a></li>
-<li><a href="/wiki/Xipaya_language" title="Xipaya language">Xipaya</a></li>
-<li><a href="/wiki/Zo%27%C3%A9_language" title="Zo&#39;é language">Zo'é</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chapacuran_languages" title="Chapacuran languages">Chapacuran</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Oro_Win_language" title="Oro Win language">Oro Win</a></li>
-<li><a href="/wiki/Wari%CA%BC_language" title="Wariʼ language">Wariʼ</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tukanoan_languages" class="mw-redirect" title="Tukanoan languages">Tukanoan</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Cubeo_language" title="Cubeo language">Cubeo</a></li>
-<li><a href="/wiki/Tucano_language" title="Tucano language">Tukano</a></li>
-<li><a href="/wiki/Tuyuca_language" title="Tuyuca language">Tuyuca</a></li>
-<li><a href="/wiki/Wanano_language" title="Wanano language">Wanano</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nambikwaran_languages" title="Nambikwaran languages">Nambikwaran</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Mamaind%C3%AA_language" title="Mamaindê language">Mamaindê</a></li>
-<li><a href="/wiki/Nambikwara_language" title="Nambikwara language">Nambikwara</a></li>
-<li><a href="/wiki/Saban%C3%AA_language" title="Sabanê language">Sabanê</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Aikan%C3%A3_language" title="Aikanã language">Aikanã</a></li>
-<li><a href="/wiki/Arutani_language" title="Arutani language">Arutani</a></li>
-<li><a href="/wiki/Guat%C3%B3_language" title="Guató language">Guató</a></li>
-<li><a href="/wiki/Irantxe_language" title="Irantxe language">Irantxe</a></li>
-<li><a href="/wiki/Kadiweu_language" class="mw-redirect" title="Kadiweu language">Kadiwéu</a></li>
-<li><a href="/wiki/Kanamar%C3%AD_language" title="Kanamarí language">Kanamarí</a></li>
-<li><a href="/wiki/Katawixi_language" title="Katawixi language">Katawixi</a></li>
-<li><a href="/wiki/Kwaza_language" title="Kwaza language">Kwaza</a></li>
-<li><a href="/wiki/Ninam_language" title="Ninam language">Ninam</a></li>
-<li><a href="/wiki/Pirah%C3%A3_language" title="Pirahã language">Pirahã</a></li>
-<li><a href="/wiki/Ticuna_language" title="Ticuna language">Ticuna</a></li>
-<li><a href="/wiki/Xukuru_language" title="Xukuru language">Xukuru</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Interlanguages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Cafund%C3%B3_language" title="Cafundó language">Cafundó</a></li>
-<li><a href="/wiki/Karip%C3%BAna_French_Creole" title="Karipúna French Creole">Lanc-Patuá</a></li>
-<li><a href="/wiki/Macarr%C3%B4nico" class="mw-redirect" title="Macarrônico">Macarrônico</a></li>
-<li><a href="/wiki/Uruguayan_Portuguese" title="Uruguayan Portuguese">Portunhol fronteiriço</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Brazilian Sign</a></li>
-<li><a href="/wiki/Ka%27apor_Sign_Language" title="Ka&#39;apor Sign Language">Ka'apor Sign</a></li>
-<li><a href="/wiki/Terena_Sign_Language" title="Terena Sign Language">Terena Sign</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-official</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></li>
-<li><a href="/wiki/Romani_language" title="Romani language">Vlax Romani</a></li>
-<li><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a></li>
-<li><a href="/wiki/Arabic" title="Arabic">Arabic</a></li>
-<li><a href="/wiki/French_language" title="French language">French</a></li>
-<li><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></li>
-<li><a href="/wiki/Haitian_Creole" title="Haitian Creole">Haitian Creole</a></li>
-<li><a href="/wiki/Greek_language" title="Greek language">Greek</a></li>
-<li><a href="/wiki/Polish_language" title="Polish language">Polish</a></li>
-<li><a href="/wiki/Romanian_language" title="Romanian language">Romanian</a></li>
-<li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
-<li><a href="/wiki/Tagalog_language" title="Tagalog language">Tagalog</a></li>
-<li><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a></li>
-<li><a href="/wiki/Korean_language" title="Korean language">Korean</a></li>
-<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
-<li><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tregami_language&amp;action=edit&amp;section=7" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStrand" class="citation web cs1">Strand, Richard. <a rel="nofollow" class="external text" href="http://nuristan.info/Nuristani/Tregami/tregami.html">"The Trêgami"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Tr%C3%AAgami&amp;rft.aulast=Strand&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fnuristan.info%2FNuristani%2FTregami%2Ftregami.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATregami+language" class="Z3988"></span></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Nuristani_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Nuristani_languages" title="Template:Nuristani languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nuristani_languages" title="Template talk:Nuristani languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Nuristani_languages" title="Special:EditPage/Template:Nuristani languages"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Nuristani_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Nuristani_languages" title="Nuristani languages">Nuristani languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Kamkata-vari_language" title="Kamkata-vari language">Kamkata-vari</a>
+<ul><li><a href="/wiki/Kamviri_dialect" title="Kamviri dialect">Kamviri</a></li>
+<li><a href="/wiki/Kata-vari_dialect" title="Kata-vari dialect">Kata-vari</a></li>
+<li><a href="/wiki/Shekhani_dialect" title="Shekhani dialect">Shekhani</a></li>
+<li><a href="/wiki/Mumviri_dialect" title="Mumviri dialect">Mumviri</a></li></ul></li>
+<li><a href="/wiki/Wasi-wari" title="Wasi-wari">Wasi-wari</a> (Prasun)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Askunu_language" title="Askunu language">Askunu</a> (Ashkun)</li>
+<li><a href="/wiki/Kalasha-ala" title="Kalasha-ala">Waigali</a> (Kalasha-ala)</li>
+<li><a class="mw-selflink selflink">Tregami</a></li>
+<li><a href="/wiki/Zemiaki_language" title="Zemiaki language">Zemiaki</a></li></ul>
 </div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1132942124">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:solid #aaa 1px;padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</style></div><div role="navigation" class="navbox" aria-labelledby="Languages_of_Afghanistan" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Afghanistan" title="Template:Languages of Afghanistan"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Afghanistan" title="Template talk:Languages of Afghanistan"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Languages_of_Afghanistan" title="Special:EditPage/Template:Languages of Afghanistan"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Languages_of_Afghanistan" style="font-size:114%;margin:0 4em"><a href="/wiki/Languages_of_Afghanistan" title="Languages of Afghanistan">Languages of Afghanistan</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dari" title="Dari">Dari</a></li>
+<li><a href="/wiki/Pashto" title="Pashto">Pashto</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0 0 0 2px"><div><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="mw-image-border noviewer" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/32px-Flag_of_the_Taliban.svg.png" decoding="async" width="32" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/48px-Flag_of_the_Taliban.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/64px-Flag_of_the_Taliban.svg.png 2x" data-file-width="1000" data-file-height="500" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:Afghanistan" title="Portal:Afghanistan">Afghanistan portal</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Balochi_language" title="Balochi language">Balochi</a></li>
+<li><a href="/wiki/Kyrgyz_language" title="Kyrgyz language">Kyrgyz</a></li>
+<li><a href="/wiki/Nuristani_languages" title="Nuristani languages">Nuristani</a> (language family)</li>
+<li><a href="/wiki/Pashayi_languages" title="Pashayi languages">Pashayi</a></li>
+<li><a href="/wiki/Tajik_language" title="Tajik language">Tajiki</a></li>
+<li><a href="/wiki/Turkmen_language" title="Turkmen language">Turkmen</a></li>
+<li><a href="/wiki/Uzbek_language" title="Uzbek language">Uzbek</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minority languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Askunu_language" title="Askunu language">Ashkun</a></li>
+<li><a href="/wiki/Brahui_language" title="Brahui language">Brahui</a></li>
+<li><a href="/wiki/Kamkata-vari_language" title="Kamkata-vari language">Kamkata-vari</a></li>
+<li><a href="/wiki/Khowar_language" class="mw-redirect" title="Khowar language">Khowar</a></li>
+<li><a href="/wiki/Kyrgyz_language" title="Kyrgyz language">Kyrgyz</a></li>
+<li><a href="/wiki/Pamir_languages" title="Pamir languages">Pamiri</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Ishkashimi_language" title="Ishkashimi language">Ishkashimi</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Munji_language" title="Munji language">Munji</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Shughni_language" title="Shughni language">Shughni</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Yidgha_language" title="Yidgha language">Yidgha</a></span></li></ul></li>
+<li><a href="/wiki/Wasi-wari" title="Wasi-wari">Prasun</a></li>
+<li><a class="mw-selflink selflink">Tregami</a></li>
+<li><a href="/wiki/Kalasha-ala" title="Kalasha-ala">Waigali</a></li>
+<li><a href="/wiki/Wakhi_language" title="Wakhi language">Wakhi</a></li>
+<li><a href="/wiki/Zemiaki_language" title="Zemiaki language">Zemiaki</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Afghan_Sign_Language" title="Afghan Sign Language">Afghan Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:Indo-European_branches_map.svg" class="mw-file-description"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Indo-European_branches_map.svg/45px-Indo-European_branches_map.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Indo-European_branches_map.svg/68px-Indo-European_branches_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Indo-European_branches_map.svg/90px-Indo-European_branches_map.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span></td><td><p class="asbox-body">This <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European languages</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Tregami_language&amp;action=edit">expanding it</a>.</p></td></tr></tbody></table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:IndoEuropean-lang-stub" title="Template:IndoEuropean-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:IndoEuropean-lang-stub" title="Template talk:IndoEuropean-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:IndoEuropean-lang-stub" title="Special:EditPage/Template:IndoEuropean-lang-stub"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐859cdfb956‐f4rpd
-Cached time: 20240213084914
+Parsed by mw1481
+Cached time: 20240221203635
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.471 seconds
-Real time usage: 0.611 seconds
-Preprocessor visited node count: 3001/1000000
-Post‐expand include size: 77971/2097152 bytes
-Template argument size: 2150/2097152 bytes
-Highest expansion depth: 15/100
-Expensive parser function count: 0/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28518/5000000 bytes
-Lua time usage: 0.295/10.000 seconds
-Lua memory usage: 22435336/52428800 bytes
+CPU time usage: 0.295 seconds
+Real time usage: 0.442 seconds
+Preprocessor visited node count: 2775/1000000
+Post‐expand include size: 45854/2097152 bytes
+Template argument size: 3162/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30769/5000000 bytes
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 5230171/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  512.740      1 -total
- 20.11%  103.105      1 Template:Infobox_language
- 16.73%   85.805      1 Template:Infobox
- 16.06%   82.354      1 Template:Interlinear
- 15.02%   77.018      2 Template:Navbox
- 14.96%   76.693      1 Template:Languages_of_Brazil
- 14.15%   72.577      1 Template:Short_description
- 13.54%   69.411      4 Template:Cite_book
-  9.88%   50.663      2 Template:Pagetype
-  6.25%   32.051      1 Template:Endangered_Languages_Project
+100.00%  404.134      1 -total
+ 24.69%   99.781      2 Template:Navbox
+ 20.96%   84.698      1 Template:Infobox_language
+ 20.88%   84.369      1 Template:Reflist
+ 17.49%   70.674      1 Template:Infobox
+ 16.65%   67.278      1 Template:Short_description
+ 16.45%   66.465      1 Template:Nuristani_languages
+ 16.44%   66.431      1 Template:Cite_journal
+  9.65%   39.011      1 Template:Which
+  9.29%   37.551      1 Template:Languages_of_Afghanistan
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:327634-0!canonical and timestamp 20240213084913 and revision id 1163653162. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5533546-0!canonical and timestamp 20240221203635 and revision id 1209140598. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
-<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Madí_language&amp;oldid=1163653162">https://en.wikipedia.org/w/index.php?title=Madí_language&amp;oldid=1163653162</a>"</div></div>
-					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arawan_languages" title="Category:Arawan languages">Arawan languages</a></li><li><a href="/wiki/Category:Object%E2%80%93subject%E2%80%93verb_languages" title="Category:Object–subject–verb languages">Object–subject–verb languages</a></li><li><a href="/wiki/Category:Languages_of_Brazil" title="Category:Languages of Brazil">Languages of Brazil</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_21" title="Category:Language articles citing Ethnologue 21">Language articles citing Ethnologue 21</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:ISO_language_articles_citing_sources_other_than_Ethnologue" title="Category:ISO language articles citing sources other than Ethnologue">ISO language articles citing sources other than Ethnologue</a></li><li><a href="/wiki/Category:Pages_with_plain_IPA" title="Category:Pages with plain IPA">Pages with plain IPA</a></li></ul></div></div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tregami_language&amp;oldid=1209140598">https://en.wikipedia.org/w/index.php?title=Tregami_language&amp;oldid=1209140598</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nuristani_languages_of_Afghanistan" title="Category:Nuristani languages of Afghanistan">Nuristani languages of Afghanistan</a></li><li><a href="/wiki/Category:Nuristani_languages" title="Category:Nuristani languages">Nuristani languages</a></li><li><a href="/wiki/Category:Indo-European_language_stubs" title="Category:Indo-European language stubs">Indo-European language stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_May_2015" title="Category:Articles with specifically marked weasel-worded phrases from May 2015">Articles with specifically marked weasel-worded phrases from May 2015</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 				</div>
 			</main>
 			
@@ -1446,7 +761,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info">
-	<li id="footer-info-lastmod"> This page was last edited on 5 July 2023, at 23:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-lastmod"> This page was last edited on 20 February 2024, at 14:18<span class="anonymous-show">&#160;(UTC)</span>.</li>
 	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>
@@ -1460,7 +775,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mad%C3%AD_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tregami_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -1483,7 +798,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1351","wgBackendResponseTime":137,"wgPageParseReport":{"limitreport":{"cputime":"0.471","walltime":"0.611","ppvisitednodes":{"value":3001,"limit":1000000},"postexpandincludesize":{"value":77971,"limit":2097152},"templateargumentsize":{"value":2150,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28518,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  512.740      1 -total"," 20.11%  103.105      1 Template:Infobox_language"," 16.73%   85.805      1 Template:Infobox"," 16.06%   82.354      1 Template:Interlinear"," 15.02%   77.018      2 Template:Navbox"," 14.96%   76.693      1 Template:Languages_of_Brazil"," 14.15%   72.577      1 Template:Short_description"," 13.54%   69.411      4 Template:Cite_book","  9.88%   50.663      2 Template:Pagetype","  6.25%   32.051      1 Template:Endangered_Languages_Project"]},"scribunto":{"limitreport-timeusage":{"value":"0.295","limit":"10.000"},"limitreport-memusage":{"value":22435336,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-859cdfb956-f4rpd","timestamp":"20240213084914","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mad\u00ed language","url":"https:\/\/en.wikipedia.org\/wiki\/Mad%C3%AD_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3053275","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3053275","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-26T14:06:23Z","dateModified":"2023-07-05T23:04:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/75\/Jarawara_and_Jamamad%C3%AD.png","headline":"Arawan language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5874f94b9f-f77gd","wgBackendResponseTime":161,"wgPageParseReport":{"limitreport":{"cputime":"0.295","walltime":"0.442","ppvisitednodes":{"value":2775,"limit":1000000},"postexpandincludesize":{"value":45854,"limit":2097152},"templateargumentsize":{"value":3162,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30769,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  404.134      1 -total"," 24.69%   99.781      2 Template:Navbox"," 20.96%   84.698      1 Template:Infobox_language"," 20.88%   84.369      1 Template:Reflist"," 17.49%   70.674      1 Template:Infobox"," 16.65%   67.278      1 Template:Short_description"," 16.45%   66.465      1 Template:Nuristani_languages"," 16.44%   66.431      1 Template:Cite_journal","  9.65%   39.011      1 Template:Which","  9.29%   37.551      1 Template:Languages_of_Afghanistan"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5230171,"limit":52428800}},"cachereport":{"origin":"mw1481","timestamp":"20240221203635","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tregami language","url":"https:\/\/en.wikipedia.org\/wiki\/Tregami_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q34081","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q34081","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-12T17:26:47Z","dateModified":"2024-02-20T14:18:45Z","headline":"language"}</script>
 </body>
 </html>

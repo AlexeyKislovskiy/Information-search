@@ -27,16 +27,20 @@ if not os.path.exists('pages'):
 page_links = get_page_links()
 link_number = 100
 i = 1
+saved_links = []
 for page_link in page_links:
     content = requests.get(page_link).text
     filename = f'pages/page{i}.txt'
     with open(filename, 'w', encoding='utf-8') as file:
         file.write(content)
+    saved_links.append(page_link)
     if i >= link_number:
         break
     i += 1
 
 # Создание файла index.txt
 with open('index.txt', 'w', encoding='utf-8') as index_file:
-    for i in range(link_number):
-        index_file.write(f'{i + 1}: pages/page{i + 1}.txt\n')
+    i = 1
+    for link in saved_links:
+        index_file.write(f'{i}: {link}\n')
+        i += 1

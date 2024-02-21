@@ -2,12 +2,12 @@
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
-<title>Sucite language - Wikipedia</title>
+<title>Even language - Wikipedia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
-"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3358732f-972d-4ef2-9221-fef80f2bc807","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sucite_language","wgTitle":"Sucite language","wgCurRevisionId":1123200739,"wgRevisionId":1123200739,"wgArticleId":1342360,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Language articles citing Ethnologue 18","Articles with short description","Short description is different from Wikidata","Language articles with old Ethnologue 18 speaker data","Pages with plain IPA","Articles containing Sìcìté Sénoufo-language text","Suppire–Mamara languages","Languages of Burkina Faso"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en",
-"wgPageContentModel":"wikitext","wgRelevantPageName":"Sucite_language","wgRelevantArticleId":1342360,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q56787","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands",
-"fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp",
-"ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"54b77d86-57cd-4859-9cd9-94a1a438daf1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Even_language","wgTitle":"Even language","wgCurRevisionId":1208740177,"wgRevisionId":1208740177,"wgArticleId":3022991,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Language articles citing Ethnologue 18","Articles with short description","Short description is different from Wikidata","Articles containing Russian-language text","Pages with plain IPA","CS1 maint: location missing publisher","Articles with NKC identifiers","Agglutinative languages","Languages of Russia","Severely endangered languages","Tungusic languages"],
+"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Even_language","wgRelevantArticleId":3022991,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q29960",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
@@ -20,21 +20,22 @@
 <meta name="robots" content="max-image-preview:standard">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=1000">
-<meta property="og:title" content="Sucite language - Wikipedia">
+<meta property="og:title" content="Even language - Wikipedia">
 <meta property="og:type" content="website">
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Sucite_language">
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sucite_language&amp;action=edit">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Even_language">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Even_language&amp;action=edit">
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
 <link rel="icon" href="/static/favicon/wikipedia.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Sucite_language">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Even_language">
 <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="//login.wikimedia.org">
 </head>
-<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sucite_language rootpage-Sucite_language skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Even_language rootpage-Even_language skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header">
 		<div class="vector-header-start">
@@ -196,9 +197,9 @@
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
-			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sucite+language" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Even+language" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
 </li>
-<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sucite+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Even+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
 </li>
 
 			
@@ -224,7 +225,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sucite+language" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sucite+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Even+language" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Even+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
 		</ul>
 		
 	</div>
@@ -292,114 +293,64 @@
 				<div class="vector-toc-text">(Top)</div>
 			</a>
 		</li>
-		<li id="toc-Sounds"
+		<li id="toc-Language_contact"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Sounds">
+		<a class="vector-toc-link" href="#Language_contact">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">1</span>Sounds</div>
+			<span class="vector-toc-numb">1</span>Language contact</div>
 		</a>
 		
-			<button aria-controls="toc-Sounds-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
-				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
-				<span>Toggle Sounds subsection</span>
-			</button>
-		
-		<ul id="toc-Sounds-sublist" class="vector-toc-list">
-			<li id="toc-Vowels"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Vowels">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">1.1</span>Vowels</div>
-			</a>
-			
-			<ul id="toc-Vowels-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Consonants"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Consonants">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">1.2</span>Consonants</div>
-			</a>
-			
-			<ul id="toc-Consonants-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Tone"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Tone">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">1.3</span>Tone</div>
-			</a>
-			
-			<ul id="toc-Tone-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
+		<ul id="toc-Language_contact-sublist" class="vector-toc-list">
+		</ul>
 	</li>
-	<li id="toc-Grammar"
+	<li id="toc-Phonology"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Grammar">
+		<a class="vector-toc-link" href="#Phonology">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">2</span>Grammar</div>
+			<span class="vector-toc-numb">2</span>Phonology</div>
 		</a>
 		
-			<button aria-controls="toc-Grammar-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
-				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
-				<span>Toggle Grammar subsection</span>
-			</button>
+		<ul id="toc-Phonology-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Morphology_and_syntax"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Morphology_and_syntax">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Morphology and syntax</div>
+		</a>
 		
-		<ul id="toc-Grammar-sublist" class="vector-toc-list">
-			<li id="toc-Nouns"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Nouns">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.1</span>Nouns</div>
-			</a>
-			
-			<ul id="toc-Nouns-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-		<li id="toc-Pronouns"
-			class="vector-toc-list-item vector-toc-level-2">
-			<a class="vector-toc-link" href="#Pronouns">
-				<div class="vector-toc-text">
-				<span class="vector-toc-numb">2.2</span>Pronouns</div>
-			</a>
-			
-			<ul id="toc-Pronouns-sublist" class="vector-toc-list">
-			</ul>
-		</li>
-	</ul>
+		<ul id="toc-Morphology_and_syntax-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Orthography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Orthography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Orthography</div>
+		</a>
+		
+		<ul id="toc-Orthography-sublist" class="vector-toc-list">
+		</ul>
 	</li>
 	<li id="toc-References"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
 		<a class="vector-toc-link" href="#References">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">3</span>References</div>
+			<span class="vector-toc-numb">5</span>References</div>
 		</a>
 		
 		<ul id="toc-References-sublist" class="vector-toc-list">
 		</ul>
 	</li>
-	<li id="toc-Sources"
+	<li id="toc-External_links"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#Sources">
+		<a class="vector-toc-link" href="#External_links">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">4</span>Sources</div>
+			<span class="vector-toc-numb">6</span>External links</div>
 		</a>
 		
-		<ul id="toc-Sources-sublist" class="vector-toc-list">
-		</ul>
-	</li>
-	<li id="toc-See_also"
-		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#See_also">
-			<div class="vector-toc-text">
-			<span class="vector-toc-numb">5</span>See also</div>
-		</a>
-		
-		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
 		</ul>
 	</li>
 </ul>
@@ -430,13 +381,13 @@
 </div>
 
 					</nav>
-					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Sucite language</span></h1>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Even language</span></h1>
 							
 <div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
-	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 4 languages"   >
-	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 48 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-48" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
 
-<span class="vector-dropdown-label-text">4 languages</span>
+<span class="vector-dropdown-label-text">48 languages</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -444,9 +395,9 @@
 			
 			<ul class="vector-menu-content-list">
 				
-				<li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Sisiteg" title="Sisiteg – Breton" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Kisenoufo-Sicite" title="Kisenoufo-Sicite – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Sucite" title="Sucite – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenga_Senoufo_Sicit%C3%A9" title="Lenga Senoufo Sicité – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li>
+				<li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Idioma_even" title="Idioma even – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Even_dili" title="Even dili – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%D9%86_%D8%AF%DB%8C%D9%84%DB%8C" title="اون دیلی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA" title="Евенски език – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Eveneg" title="Eveneg – Breton" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Even" title="Even – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ewenische_Sprache" title="Ewenische Sprache – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Eveeni_keel" title="Eveeni keel – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%BB%CF%8E%CF%83%CF%83%CE%B1_%CE%95%CE%B2%CE%AD%CE%BD" title="Γλώσσα Εβέν – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Idioma_even" title="Idioma even – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Evena_lingvo" title="Evena lingvo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%A7%D9%88%D9%86" title="زبان اون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/%C3%89v%C3%A8ne" title="Évène – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%B2%A4%EC%96%B4" title="에벤어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B7%D5%BE%D5%A5%D5%B6%D5%A5%D6%80%D5%A5%D5%B6" title="Էվեներեն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Lamutski_jezik" title="Lamutski jezik – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Bahasa_Even" title="Bahasa Even – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Lingua_even" title="Lingua even – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Kieven" title="Kieven – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-kv mw-list-item"><a href="https://kv.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD_%D0%BA%D1%8B%D0%B2" title="Эвен кыв – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target"><span>Коми</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD_%D1%82%D0%B8%D0%BB%D0%B8" title="Эвен тили – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Lingua_Evenensis" title="Lingua Evenensis – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Evenu_valoda" title="Evenu valoda – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Even%C5%B3_kalba" title="Evenų kalba – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Even_nyelv" title="Even nyelv – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%95%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Евенски јазик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Bahasa_Even" title="Bahasa Even – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Eveens" title="Eveens – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B4%E3%82%A7%E3%83%B3%E8%AA%9E" title="エヴェン語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%D0%BD_%D0%BC%D0%BE%D1%82%D1%82" title="Эвенийн мотт – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Evensk" title="Evensk – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Evensk" title="Evensk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Even" title="Even – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD_%D0%B9%D1%8B%D0%BB%D0%BC%D0%B5" title="Эвен йылме – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Even_tili" title="Even tili – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lenga_even" title="Lenga even – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyk_ewe%C5%84ski" title="Język eweński – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_even" title="Língua even – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Эвенский язык – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/%D0%AD%D0%B1%D1%8D%D1%8D%D0%BD_%D1%82%D1%8B%D0%BB%D0%B0" title="Эбээн тыла – Yakut" lang="sah" hreflang="sah" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Even%C4%8Dina" title="Evenčina – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/Ewe%C5%84sk%C5%8F_g%C5%8Fdka" title="Eweńskŏ gŏdka – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Evenin_kieli" title="Evenin kieli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD_%D1%82%D0%B5%D0%BB%D0%B5" title="Эвен теле – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Evence" title="Evence – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%B2%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0" title="Евенська мова – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/Evenan_kel%27" title="Evenan kel&#039; – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%84%82%E6%BA%AB%E8%AA%9E" title="鄂溫語 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
 			</ul>
-			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56787#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29960#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 		</div>
 
 	</div>
@@ -462,7 +413,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sucite_language" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Sucite_language" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Even_language" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Even_language" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
 		</ul>
 		
 	</div>
@@ -502,7 +453,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sucite_language"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Even_language"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Even_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Even_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -543,7 +494,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Sucite_language"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;action=history"><span>View history</span></a></li>
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Even_language"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Even_language&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Even_language&amp;action=history"><span>View history</span></a></li>
 		</ul>
 		
 	</div>
@@ -557,7 +508,7 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Sucite_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Sucite_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;oldid=1123200739" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sucite_language&amp;id=1123200739&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSucite_language"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSucite_language"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56787" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Even_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Even_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Even_language&amp;oldid=1208740177" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Even_language&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Even_language&amp;id=1208740177&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEven_language"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEven_language"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29960" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
 		</ul>
 		
 	</div>
@@ -571,7 +522,21 @@
 		
 		<ul class="vector-menu-content-list">
 			
-			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Sucite_language&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Sucite_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Even_language&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Even_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://en.wiktionary.org/wiki/Wiktionary:About_Even" hreflang="en"><span>Wiktionary</span></a></li>
 		</ul>
 		
 	</div>
@@ -609,560 +574,428 @@
 					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
 					
 					
-					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Senufo language spoken in West Africa</div>
-<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above above" style="font-size:125%; color: black; background-color:  #ffddaa;">Siccité</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Native&#160;to</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a>, <a href="/wiki/Mali" title="Mali">Mali</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Region</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Sikasso_Region" title="Sikasso Region">Sikasso Region</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Native speakers</div></th><td class="infobox-data" style="line-height:1.3em;">(38,000 cited 1999–2007)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Niger%E2%80%93Congo_languages" title="Niger–Congo languages">Niger–Congo</a>?
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Tungusic language</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Evenki_language" title="Evenki language">Evenki language</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above above" style="font-size:125%; color: black; background-color: yellowgreen;">Even</th></tr><tr><td colspan="2" class="infobox-subheader" style="font-size:110%; color: black; background-color: yellowgreen;">эвэды торэн (evedy toren)</td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Native&#160;to</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Russia" title="Russia">Russia</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Region</th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Russian_Far_East" title="Russian Far East">Russian Far East</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;">Ethnicity</th><td class="infobox-data" style="line-height:1.3em;">21,800 <a href="/wiki/Evens" title="Evens">Evens</a> (2010 census)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Native speakers</div></th><td class="infobox-data" style="line-height:1.3em;">5,700&#160;(2010 census)<sup id="cite_ref-e18_1-1" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Tungusic_languages" title="Tungusic languages">Tungusic</a>
 <ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
-<a href="/wiki/Atlantic%E2%80%93Congo_languages" title="Atlantic–Congo languages">Atlantic–Congo</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Senufo_languages" title="Senufo languages">Senufo</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Suppire%E2%80%93Mamara_languages" title="Suppire–Mamara languages">Suppire–Mamara</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Siccité</b></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="color: black; background-color:  #ffddaa;">Language codes</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td class="infobox-data" style="line-height:1.3em;"><code><a href="https://iso639-3.sil.org/code/sep" class="extiw" title="iso639-3:sep">sep</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><i><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></i></th><td class="infobox-data" style="line-height:1.3em;"><code><a rel="nofollow" class="external text" href="https://glottolog.org/resource/languoid/id/sici1249">sici1249</a></code></td></tr><tr><td colspan="2" class="infobox-below noprint selfref" style="background-color:#E7E7FF;padding:0.3em 0.5em;text-align:left;line-height:1.3;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Specials_(Unicode_block)#Replacement_character" title="Specials (Unicode block)">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table> 
-<p>The <b>Sucite language</b> or <b>Sicite</b> is a <a href="/wiki/Senufo_languages" title="Senufo languages">Senufo</a> language spoken in southwestern <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> and <a href="/wiki/Mali" title="Mali">Mali</a> by approximately 35,000 people. Sucite is a close neighbour of the <a href="/wiki/Supyire_language" title="Supyire language">Supyire language</a>, spoken in southeastern Mali. Sucite is sometimes regarded as the northern extension of the Supyire language. The two dialects are, according to Garber (1987), ‘quite mutually intelligible’. Sometimes speakers of Sucite will even refer to themselves as speaking Supyire. Another closely related lect is <a href="/wiki/Mamara_language" class="mw-redirect" title="Mamara language">Mamara</a> (also known as Minyanka).
-</p><p>Some other Senufo groups refers to the Sùcìté people as Tagba, because they live on the Tagouara plateau. There are various ways to spell the dialect names. Variants of Sucite include Sicite, Sipiite, and Sicire. The <a href="/wiki/SIL_International" title="SIL International">SIL</a> language code is SEP.
+Northern<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Even</b></li></ul></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><span class="wrap"><a href="/wiki/Writing_system" title="Writing system">Writing system</a></span></div></th><td class="infobox-data" style="line-height:1.3em;"><a href="/wiki/Cyrillic" class="mw-redirect" title="Cyrillic">Cyrillic</a></td></tr><tr><th colspan="2" class="infobox-header" style="color: black; background-color: yellowgreen;">Language codes</th></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td class="infobox-data" style="line-height:1.3em;"><code><a href="https://iso639-3.sil.org/code/eve" class="extiw" title="iso639-3:eve">eve</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><i><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></i></th><td class="infobox-data" style="line-height:1.3em;"><code><a rel="nofollow" class="external text" href="https://glottolog.org/resource/languoid/id/even1260">even1260</a></code></td></tr><tr><th scope="row" class="infobox-label" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Endangered_Languages_Project" title="Endangered Languages Project">ELP</a></th><td class="infobox-data" style="line-height:1.3em;"><a rel="nofollow" class="external text" href="http://www.endangeredlanguages.com/lang/4142">Even</a></td></tr><tr><td colspan="2" class="infobox-full-data" style="line-height:1.3em;"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Lang_Status_40-SE.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lang_Status_40-SE.svg/320px-Lang_Status_40-SE.svg.png" decoding="async" width="320" height="96" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lang_Status_40-SE.svg/480px-Lang_Status_40-SE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lang_Status_40-SE.svg/640px-Lang_Status_40-SE.svg.png 2x" data-file-width="512" data-file-height="153" /></a></span><div style="text-align:left;"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><span style="font-size:85%;">Even is classified as Severely Endangered by the <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/Atlas_of_the_World%27s_Languages_in_Danger" title="Atlas of the World&#39;s Languages in Danger">Atlas of the World's Languages in Danger</a></span></div></div></td></tr><tr><td colspan="2" class="infobox-below noprint selfref" style="background-color:#E7E7FF;padding:0.3em 0.5em;text-align:left;line-height:1.3;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Specials_(Unicode_block)#Replacement_character" title="Specials (Unicode block)">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table>
+<p>The <b>Even language</b> <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;v&#39; in &#39;vie&#39;">v</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">ə-<span style="font-size:90%">VEN</span></i></a>, also known as <b>Lamut</b>, <b>Ewen</b>, <b>Eben</b>, <b>Orich</b>, <b>Ilqan</b> (<a href="/wiki/Russian_language" title="Russian language">Russian</a>: <span lang="ru">Эве́нский язы́к</span>, <small><a href="/wiki/Romanization_of_Russian" title="Romanization of Russian">romanized</a>:&#160;</small><span title="Russian-language romanization"><i lang="ru-Latn">Evénsky yazýk</i></span>, historically also <span title="Russian-language text"><span lang="ru">Ламутский язы́к</span></span>, <span title="Russian-language romanization"><i lang="ru-Latn">Lamutsky yazýk</i></span>), is a <a href="/wiki/Tungusic_languages" title="Tungusic languages">Tungusic</a> language spoken by the <a href="/wiki/Evens" title="Evens">Evens</a> in <a href="/wiki/Siberia" title="Siberia">Siberia</a>. It is spoken by widely scattered communities of <a href="/wiki/Reindeer_herding" title="Reindeer herding">reindeer herders</a> from <a href="/wiki/Kamchatka" class="mw-redirect" title="Kamchatka">Kamchatka</a> and the <a href="/wiki/Sea_of_Okhotsk" title="Sea of Okhotsk">Sea of Okhotsk</a> in the east to the <a href="/wiki/Lena_River" class="mw-redirect" title="Lena River">Lena</a> river in the west and from the <a href="/wiki/Arctic_coast" class="mw-redirect" title="Arctic coast">Arctic coast</a> in the north to the <a href="/wiki/Aldan_River" class="mw-redirect" title="Aldan River">Aldan</a> river in the south. Even is an <a href="/wiki/Endangered_language" title="Endangered language">endangered language</a> with only some 5,700 speakers (Russian census, 2010). These speakers are specifically from the <a href="/wiki/Magadan" title="Magadan">Magadan</a> region, the <a href="/wiki/Chukotka_Autonomous_Okrug" title="Chukotka Autonomous Okrug">Chukot</a> region and the <a href="/wiki/Koryaks" title="Koryaks">Koryak</a> region.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The dialects are Arman, Indigirka, Kamchatka, Kolyma-Omolon, Okhotsk, Ola, Tompon, Upper Kolyma, Sakkyryr and Lamunkhin.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>In the regions where the Evens primarily reside, the Even language is generally taught in pre-school and elementary school alongside the national language, <a href="/wiki/Russian_language" title="Russian language">Russian</a>. Where Even functioned primarily as an <a href="/wiki/Oral_language" class="mw-redirect" title="Oral language">oral language</a> for communication between reindeer herding brigades, textbooks began circulating throughout these educational institutions from around 1925 to 1995.<sup id="cite_ref-lingsib.iea.ras.ru_4-0" class="reference"><a href="#cite_note-lingsib.iea.ras.ru-4">&#91;4&#93;</a></sup>
+</p><p>The syntax of the Even language follows the <a href="/wiki/Nominative_case" title="Nominative case">nominative case</a> and subject-object-verb (SOV) word order, with the attribute preceding the dependent member.<sup id="cite_ref-lingsib.iea.ras.ru_4-1" class="reference"><a href="#cite_note-lingsib.iea.ras.ru-4">&#91;4&#93;</a></sup>
 </p>
 <meta property="mw:PageProp/toc" />
-<h2><span class="mw-headline" id="Sounds">Sounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=1" title="Edit section: Sounds"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Vowels">Vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=2" title="Edit section: Vowels"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>All vowels can be lengthened and <a href="/wiki/Nasalization" title="Nasalization">nasalized</a>. The schwa /ə/ is included in brackets because it is found only in two specific environments, where it appears to be in <a href="/wiki/Allophone" title="Allophone">complementary distribution</a> with some other vowel.
+<h2><span class="mw-headline" id="Language_contact">Language contact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=1" title="Edit section: Language contact"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In some remote Arctic villages, such as <a href="/wiki/Russkoye_Ustye" title="Russkoye Ustye">Russkoye Ustye</a>, whose population descended from Russian-Even intermarriage, the language spoken into the 20th century was a dialect of Russian with a strong Even influence.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
 </p>
-<table class="wikitable">
-<caption><small>Phonetic inventory of vowels in Sucite</small>
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=2" title="Edit section: Phonology"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center">
+<caption>Vowels
 </caption>
 <tbody><tr>
-<th><small>Garber 1987</small>
-</th>
-<th><a href="/wiki/Front_vowel" title="Front vowel">Front</a>
-</th>
-<th><a href="/wiki/Central_vowel" title="Central vowel">Central</a>
-</th>
+<th></th>
+<th><a href="/wiki/Front_vowel" title="Front vowel">Front</a></th>
+<th><a href="/wiki/Central_vowel" title="Central vowel">Central</a></th>
 <th><a href="/wiki/Back_vowel" title="Back vowel">Back</a>
 </th></tr>
 <tr>
-<td style="text-align: right;"><a href="/wiki/Close_vowel" title="Close vowel">Close</a></td>
-<td>i • ĩ</td>
+<th><a href="/wiki/Close_vowel" title="Close vowel">Close</a>
+</th>
+<td>i iː<br />ɪ ɪː
+</td>
 <td></td>
-<td>u • ũ
+<td>u uː<br />ʊ ʊː
 </td></tr>
 <tr>
-<td style="text-align: right;"><a href="/wiki/Close-mid_vowel" title="Close-mid vowel">Close-mid</a></td>
-<td>e • ẽ</td>
-<td>(ə)</td>
-<td>o • õ
+<th><a href="/wiki/Mid_vowel" title="Mid vowel">Mid</a>
+</th>
+<td>e eː
+</td>
+<td>ə əː
+</td>
+<td>o oː<br />ɔ ɔː
 </td></tr>
 <tr>
-<td style="text-align: right;"><a href="/wiki/Open-mid_vowel" title="Open-mid vowel">Open-mid</a></td>
-<td>ɛ • ɛ̃</td>
-<td></td>
-<td>ɔ • ɔ̃
-</td></tr>
-<tr>
-<td style="text-align: right;"><a href="/wiki/Open_vowel" title="Open vowel">Open</a></td>
-<td></td>
-<td>a • ã</td>
+<th><a href="/wiki/Open_vowel" title="Open vowel">Open</a>
+</th>
+<td>
+</td>
+<td>a aː
+</td>
 <td>
 </td></tr></tbody></table>
-<h3><span class="mw-headline" id="Consonants">Consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=3" title="Edit section: Consonants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable">
-
+<table class="wikitable" style="text-align:center;">
+<caption>Consonants<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup>
+</caption>
 <tbody><tr>
-<td colspan="2">&#160;
-</td>
+<th colspan="2">
+</th>
 <th><a href="/wiki/Labial_consonant" title="Labial consonant">Labial</a>
 </th>
 <th><a href="/wiki/Alveolar_consonant" title="Alveolar consonant">Alveolar</a>
 </th>
-<th>(<a href="/wiki/Alveolo-palatal_consonant" title="Alveolo-palatal consonant">Alveolo-</a>)<a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
+<th><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
 </th>
 <th><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a>
 </th>
-<th><a href="/wiki/Labial%E2%80%93velar_consonant" title="Labial–velar consonant">Labio-velar</a>
+<th><a href="/wiki/Uvular_consonant" title="Uvular consonant">Uvular</a>
 </th>
 <th><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a>
 </th></tr>
 <tr>
-<td rowspan="4"><b>Plosive / Affricate</b>
+<th colspan="2"><a href="/wiki/Nasal_consonant" title="Nasal consonant">Nasal</a>
+</th>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_bilabial_nasal" title="Voiced bilabial nasal">m</a></span>
 </td>
-<td><small> voiceless </small>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_nasal" class="mw-redirect" title="Voiced alveolar nasal">n</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">p</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_palatal_nasal" title="Voiced palatal nasal">ɲ</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">t</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_velar_nasal" title="Voiced velar nasal">ŋ</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">t͡ɕ</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">k</span>
-</td>
-<td>&#160;
-</td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ʔ</span>
+<td>
 </td></tr>
 <tr>
-<td><small> voiced </small>
+<th rowspan="2"><a href="/wiki/Plosive" title="Plosive">Plosive</a>/<br /><a href="/wiki/Affricate" title="Affricate">Affricate</a>
+</th>
+<th><small>voiceless</small>
+</th>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_bilabial_plosive" title="Voiceless bilabial plosive">p</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">b</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_alveolar_plosive" class="mw-redirect" title="Voiceless alveolar plosive">t</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">d</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_postalveolar_affricate" title="Voiceless postalveolar affricate">t͡ʃ</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">d͡ʑ</span>
+<td colspan="2"><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_velar_plosive" title="Voiceless velar plosive">k</a></span> ~ (<span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_uvular_plosive" title="Voiceless uvular plosive">q</a></span>)
 </td>
-<td>&#160;
-</td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɡ͡b</span>
-</td>
-<td>&#160;
+<td>
 </td></tr>
 <tr>
-<td><small> <a href="/wiki/Geminate" class="mw-redirect" title="Geminate">geminate</a> </small>
+<th><small>voiced</small>
+</th>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_bilabial_plosive" title="Voiced bilabial plosive">b</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">bː</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_plosive" class="mw-redirect" title="Voiced alveolar plosive">d</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">dː</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_postalveolar_affricate" title="Voiced postalveolar affricate">d͡ʒ</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">d͡ʑː</span>
+<td rowspan="2"><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_velar_plosive" title="Voiced velar plosive">g</a></span> ~ (<span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_velar_fricative" title="Voiced velar fricative">ɣ</a></span>)
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ɡː</span>
+<td>
 </td>
-<td>&#160;
-</td>
-<td>&#160;
+<td>
 </td></tr>
 <tr>
-<td><small> <a href="/wiki/Prenasalized" class="mw-redirect" title="Prenasalized">prenasalized</a> </small>
+<th colspan="2"><a href="/wiki/Fricative" title="Fricative">Fricative</a>
+</th>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ⁿb</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_alveolar_fricative" title="Voiceless alveolar fricative">s</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ⁿd</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ⁿd͡ʑ</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ⁿɡ</span>
-</td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ⁿɡ͡b</span>
-</td>
-<td>&#160;
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiceless_glottal_fricative" title="Voiceless glottal fricative">h</a></span>
 </td></tr>
 <tr>
-<td colspan="2"><b>Nasal</b>
+<th colspan="2"><a href="/wiki/Rhotic_consonant" title="Rhotic consonant">Rhotic</a>
+</th>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">m</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_trill" class="mw-redirect" title="Voiced alveolar trill">r</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">n</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">nʲ</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ŋ</span>
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">ŋ͡m</span>
-</td>
-<td>&#160;
+<td>
 </td></tr>
 <tr>
-<td colspan="2"><b>Fricative</b>
+<th colspan="2"><a href="/wiki/Approximant" title="Approximant">Approximant</a>
+</th>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_labiodental_approximant" title="Voiced labiodental approximant">ʋ</a></span> ~ <span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_labial%E2%80%93velar_approximant" title="Voiced labial–velar approximant">w</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">f</span> <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">fʲ</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_alveolar_lateral_approximant" class="mw-redirect" title="Voiced alveolar lateral approximant">l</a></span>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">s</span>
+<td><span class="IPA" lang="und-fonipa"><a href="/wiki/Voiced_palatal_approximant" title="Voiced palatal approximant">j</a></span>
 </td>
-<td>&#160;
+<td>
 </td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">x</span>
+<td>
 </td>
-<td>&#160;
-</td>
-<td>&#160;
-</td></tr>
-<tr>
-<td colspan="2"><b>Glide</b>
-</td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">w</span> <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">wʲ</span>
-</td>
-<td>&#160;
-</td>
-<td align="center"><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">j</span>
-</td>
-<td>&#160;
-</td>
-<td>&#160;
-</td>
-<td>&#160;
+<td>
 </td></tr></tbody></table>
-<p>Geminate voiced stops/affricates are cognate to prenasalized voiceless stops in <a href="/wiki/Supyire_language" title="Supyire language">Supyire</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and are indicated orthographically as <span class="nowrap">&#x27e8;mp, nt, ...&#x27e9;</span> in Garber (1987).
+<p><span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">[q]</span>, and <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">[ɣ]</span> are allophones of <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">/k/</span> and <span class="IPA nowrap" lang="und-Latn-fonipa" title="Representation in the International Phonetic Alphabet (IPA)">/g/</span>, respectively.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
 </p>
-<h3><span class="mw-headline" id="Tone">Tone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=4" title="Edit section: Tone"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Sucite is a <a href="/wiki/Tonal_language" class="mw-redirect" title="Tonal language">tonal language</a> with three surface tone levels: High, Mid, and Low. Garber (1987) and Carlson (1994) analyse the Northern Senufo system as having two different Mid tones, a strong mid (Ms) and a weak mid (Mw). The Ms tone undergoes substantially less tonal alternations than the Mw tone. Garber (1988) suggests that this peculiarity may have its origin in a <a href="/wiki/Tone_(linguistics)#tonal_split" title="Tone (linguistics)">tonal split</a>.
-</p><p>Glides formed by combining pairs of tones exist, the most common being HL and ML.
+<h2><span class="mw-headline" id="Morphology_and_syntax">Morphology and syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=3" title="Edit section: Morphology and syntax"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Even parts of speech include <a href="/wiki/Postposition" class="mw-redirect" title="Postposition">postpositions</a>, <a href="/wiki/Conjunction_(grammar)" title="Conjunction (grammar)">conjunction</a>, <a href="/wiki/Particle_(grammar)" class="mw-redirect" title="Particle (grammar)">particles</a>, and <a href="/wiki/Adverb" title="Adverb">adverbs</a>, as well as nouns and verbs; nouns in Even can function as adjectives and adverbs. Even features a <a href="/wiki/Nominative-accusative_alignment" class="mw-redirect" title="Nominative-accusative alignment">nominative-accusative alignment</a> with <a href="/wiki/Subject-object-verb_word_order" class="mw-redirect" title="Subject-object-verb word order">subject-object-verb word order</a>. There exists an obligatory <a href="/wiki/Copula_(linguistics)" title="Copula (linguistics)">copula</a>, but it can be omitted if a noun in the <a href="/wiki/Predicate_(grammar)" title="Predicate (grammar)">predicate</a> is inflected for the third person.
+</p><p>Nouns in Even are marked for 13 <a href="/wiki/Grammatical_case" title="Grammatical case">cases</a>, including the <a href="/wiki/Nominative" class="mw-redirect" title="Nominative">nominative</a>, <a href="/wiki/Accusative" class="mw-redirect" title="Accusative">accusative</a>, <a href="/wiki/Dative" class="mw-redirect" title="Dative">dative</a>, <a href="/wiki/Lative" class="mw-redirect" title="Lative">lative</a>, two forms of the <a href="/wiki/Locative" class="mw-redirect" title="Locative">locative</a>, <a href="/wiki/Prolative" class="mw-redirect" title="Prolative">prolative</a>, three forms of the <a href="/wiki/Ablative" class="mw-redirect" title="Ablative">ablative</a>, <a href="/wiki/Instrumental_case" title="Instrumental case">instrumental</a>, and <a href="/wiki/Comitative" class="mw-redirect" title="Comitative">comitative</a>. They are also inflected for the singular or plural number and for possession, as well as for the subjective, which indicates that the subject noun has no object. Noun inflection is exclusively suffixing. Its pronouns are distinguished between personal, <a href="/wiki/Reflexive_pronoun" title="Reflexive pronoun">reflexive</a>, and <a href="/wiki/Possession_(linguistics)" title="Possession (linguistics)">possessive</a> forms, with a distinction between <a href="/wiki/Inalienable_possession" title="Inalienable possession">alienable and inalienable forms</a>.
+</p><p>Verbs can be conjugated with prefixes for 15 <a href="/wiki/Grammatical_aspect" title="Grammatical aspect">aspects</a> and feature 6 distinctions in <a href="/wiki/Voice_(grammar)" title="Voice (grammar)">voice</a>, with specific negative and interrogative forms. There are 14 ways to form <a href="/wiki/Participle" title="Participle">participles</a>, 8 being <a href="/wiki/Transgressive_(linguistics)" title="Transgressive (linguistics)">transgressives</a>.
 </p>
-<h2><span class="mw-headline" id="Grammar">Grammar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=5" title="Edit section: Grammar"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Nouns">Nouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=6" title="Edit section: Nouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Like the other Senufo languages, Sucite employs a <a href="/wiki/Noun_class" title="Noun class">noun class</a> system of five genders: three pairings of singular/plural classes and two mass/collective classes.
-</p><p>Nouns take class-specific suffixes for definiteness. For example:
+<h2><span class="mw-headline" id="Orthography">Orthography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=4" title="Edit section: Orthography"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Even_alphabets" title="Even alphabets">Even alphabets</a></div>
+<p>At present, Even writing functions in Cyrillic. There are 3 stages in the history of Even writing:
 </p>
-<table class="wikitable">
+<ul><li>until the early 1930s, early attempts to create a written language based on the Cyrillic alphabet;</li>
+<li>1931-1937 - writing on the Latin basis;</li>
+<li>since 1937 - modern writing based on the Cyrillic alphabet.</li></ul>
+<p><i>Modern Even alphabet</i>
+</p>
+<table style="font-family:Arial; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF">
 <tbody><tr>
-<th>Gloss
-</th>
-<th>Indef.
-</th>
-<th>Def.
-</th>
-<th>Gender
-</th>
-<th>Class
-</th></tr>
-<tr>
-<th>'river'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">А а
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-ŋé</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Б б
 </td>
-<td rowspan="2" align="center"><i>wi</i>
+<td style="width:3em; text-align:center; padding: 3px;">В в
 </td>
-<td>1
+<td style="width:3em; text-align:center; padding: 3px;">Г г
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Д д
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Е е
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Ё ё
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Ж ж
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">З з
+</td>
+<td>
 </td></tr>
 <tr>
-<th>'rivers'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-ála</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">И и
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-á-bí</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Й й
 </td>
-<td>2
+<td style="width:3em; text-align:center; padding: 3px;">К к
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Л л
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">М м
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Н н
+</td>
+<td style="width:3em; text-align:center; padding: 3px;"><a href="/wiki/%D3%87" class="mw-redirect" title="Ӈ">Ӈ</a> ӈ
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">О о
+</td>
+<td style="width:3em; text-align:center; padding: 3px;"><a href="/wiki/%D3%A8" class="mw-redirect" title="Ө">Ө</a> ө
+</td>
+<td>
 </td></tr>
 <tr>
-<th>'house'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-xa</i></span>
+<td style="width:3em; text-align:center; padding: 3px;"><a href="/wiki/%D3%AA" class="mw-redirect" title="Ӫ">Ӫ</a> ӫ
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-ké</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">П п
 </td>
-<td rowspan="2" align="center"><i>ki</i>
+<td style="width:3em; text-align:center; padding: 3px;">Р р
 </td>
-<td>3
+<td style="width:3em; text-align:center; padding: 3px;">С с
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Т т
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">У у
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Ф ф
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Х х
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Ц ц
+</td>
+<td>
 </td></tr>
 <tr>
-<th>'houses'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-ya</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Ч ч
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-nyɛ́</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Ш ш
 </td>
-<td>4
-</td></tr>
-<tr>
-<th>'forehead'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-là</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Щ щ
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gba-à-ne</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Ъ ъ
 </td>
-<td rowspan="2" align="center"><i>li</i>
+<td style="width:3em; text-align:center; padding: 3px;">Ы ы
 </td>
-<td>5
-</td></tr>
-<tr>
-<th>'foreheads'
-</th>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gbà-ʔala</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Ь ь
 </td>
-<td><span title="Sìcìté Sénoufo-language text"><i lang="sep">gbà-ʔà-ki</i></span>
+<td style="width:3em; text-align:center; padding: 3px;">Э э
 </td>
-<td>6
+<td style="width:3em; text-align:center; padding: 3px;">Ю ю
+</td>
+<td style="width:3em; text-align:center; padding: 3px;">Я я
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
 </td></tr></tbody></table>
-<p><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+<p>Long vowels are indicated by a macron above the corresponding letter.
 </p>
-<h3><span class="mw-headline" id="Pronouns">Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=7" title="Edit section: Pronouns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Each noun class has its own set of pronouns. These may be general (clitic), emphatic, <a href="/wiki/Partitive" title="Partitive">partitive</a>, interrogative, demonstrative, or relative.
-</p>
-<table class="wikitable">
-<caption>Pronouns<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</caption>
-<tbody><tr>
-<th>Class
-</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8
-</th></tr>
-<tr>
-<th>Clitic
-</th>
-<td>wu</td>
-<td>bi</td>
-<td>kə</td>
-<td>yi</td>
-<td>lə</td>
-<td>ki</td>
-<td>tə</td>
-<td>bə
-</td></tr>
-<tr>
-<th>Emphatic
-</th>
-<td>wurə̀</td>
-<td>perə̀</td>
-<td>kərə̀</td>
-<td>yirə̀</td>
-<td>lərə̀</td>
-<td>kerə̀</td>
-<td>tərə̀</td>
-<td>pərə̀
-</td></tr>
-<tr>
-<th>Partitive
-</th>
-<td>wà</td>
-<td>pì</td>
-<td>kà</td>
-<td>yà</td>
-<td>là</td>
-<td>kì</td>
-<td>tà</td>
-<td>pà
-</td></tr>
-<tr>
-<th>Demonstrative
-</th>
-<td>ngə́</td>
-<td>mpí</td>
-<td>nkə́</td>
-<td>njí</td>
-<td>ndə́</td>
-<td>nkí</td>
-<td>ntə́</td>
-<td>mpə́
-</td></tr>
-<tr>
-<th>Interrogative
-</th>
-<td>ngə</td>
-<td>mpi</td>
-<td>nkə</td>
-<td>nji</td>
-<td>ndə</td>
-<td>nki</td>
-<td>ntə</td>
-<td>mpə
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=8" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=5" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/sep/">Siccité</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015) <span style="font-size:0.95em; font-size:95%; color: var( --color-subtle, #555 )">(subscription required)</span></span>
+<li id="cite_note-e18-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-e18_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-e18_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/eve/">Even</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015) <span style="font-size:0.95em; font-size:95%; color: var( --color-subtle, #555 )">(subscription required)</span></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Garber 1987, p. 15.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.omniglot.com/writing/even.htm">"Even (Lamut) language and alphabet"</a>. <i>www.omniglot.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.omniglot.com&amp;rft.atitle=Even+%28Lamut%29+language+and+alphabet&amp;rft_id=http%3A%2F%2Fwww.omniglot.com%2Fwriting%2Feven.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEven+language" class="Z3988"></span></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Garber 1987, pp. 25-26.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Raymond G. Gordon Jr., ed.  2005.  <i>Ethnologue:  Languages of the World</i>.  15th edition.  Dallas:  Summer Institute of Linguistics.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Garber 1987, p. 26.</span>
+<li id="cite_note-lingsib.iea.ras.ru-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-lingsib.iea.ras.ru_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lingsib.iea.ras.ru_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://lingsib.iea.ras.ru/en/languages/even.shtml">"Endangered Languages of Siberia - The Even Language"</a>. <i>lingsib.iea.ras.ru</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=lingsib.iea.ras.ru&amp;rft.atitle=Endangered+Languages+of+Siberia+-+The+Even+Language&amp;rft_id=http%3A%2F%2Flingsib.iea.ras.ru%2Fen%2Flanguages%2Feven.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEven+language" class="Z3988"></span></span>
 </li>
-</ol></div>
-<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=9" title="Edit section: Sources"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Carlson, Robert (1994) <i>A Grammar of Suppyire</i>. Berlin/New York: Mouton de Gruyter.</li>
-<li>Garber, Anne (1980) 'Word order change and the Senufo languages.' In <i>Studies in the Linguistic Sciences</i>, 10, 1, 45-57.</li>
-<li>Garber, Anne (1987) <i>A Tonal Analysis of Senufo: Sucite dialect (Gur; Burkina Faso)</i>. PhD dissertation, Urbana: University of Illinois / Ann Arbor: UMI. <a rel="nofollow" class="external autonumber" href="http://www.aegk.finespun.net/aeg_dissertation.php5">[1]</a></li>
-<li>Garber, Anne (1988) 'A double tiered analysis of Sicite tone'. In <i>Journal of West African languages</i>, 18, 2, 21-33.</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sucite_language&amp;action=edit&amp;section=10" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Senufo_languages" title="Senufo languages">Senufo languages</a></li>
-<li><a href="/wiki/File:Senufo_languages.png" title="File:Senufo languages.png">Map of the Senufo language area</a></li></ul>
-<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Languages_of_Burkina_Faso" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Burkina_Faso" title="Template:Languages of Burkina Faso"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Burkina_Faso" title="Template talk:Languages of Burkina Faso"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Languages_of_Burkina_Faso" title="Special:EditPage/Template:Languages of Burkina Faso"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Languages_of_Burkina_Faso" style="font-size:114%;margin:0 4em"><a href="/wiki/Languages_of_Burkina_Faso" title="Languages of Burkina Faso">Languages of Burkina Faso</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/French_language" title="French language">French</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Bambara_language" title="Bambara language">Bambara</a></li>
-<li><a href="/wiki/Mandinka_language" title="Mandinka language">Mandinka</a></li>
-<li><a href="/wiki/Moor%C3%A9" title="Mooré">Mooré</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous<br />languages</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mande_languages" title="Mande languages">Mande</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Bissa_language" title="Bissa language">Bissa</a></li>
-<li><a href="/wiki/Bobo_language" title="Bobo language">Bobo</a></li>
-<li><a href="/wiki/Dyula_language" title="Dyula language">Dyula</a></li>
-<li><a href="/wiki/Kpee_language" title="Kpee language">Kpee</a></li>
-<li><a href="/wiki/Marka_language" title="Marka language">Marka</a></li>
-<li><a href="/wiki/Samo_language_(Burkina)" title="Samo language (Burkina)">Samo</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gur_languages" title="Gur languages">Gur</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Birifor_language" class="mw-redirect" title="Birifor language">Birifor</a></li>
-<li><a href="/wiki/Bomu_language" title="Bomu language">Bomu</a></li>
-<li><a href="/wiki/Buamu_language" title="Buamu language">Buamu</a></li>
-<li><a href="/wiki/Bwa_languages" title="Bwa languages">Bwa</a></li>
-<li><a href="/wiki/Cerma_language" title="Cerma language">Cerma</a></li>
-<li><a href="/wiki/Cwi_Bwamu_language" title="Cwi Bwamu language">Cwi Bwamu</a></li>
-<li><a href="/wiki/Dagaare_language" title="Dagaare language">Dagaare</a></li>
-<li><a href="/wiki/Gourmanch%C3%A9_language" title="Gourmanché language">Gourmanché</a></li>
-<li><a href="/wiki/Gurunsi_languages" title="Gurunsi languages">Gurunsi</a></li>
-<li><a href="/wiki/Kasena_language" title="Kasena language">Kasena</a></li>
-<li><a href="/wiki/L%C3%A1%C3%A1_L%C3%A1%C3%A1_Bwamu_language" title="Láá Láá Bwamu language">Láá Láá Bwamu</a></li>
-<li><a href="/wiki/Puguli_language" title="Puguli language">Puguli</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Senufo_languages" title="Senufo languages">Senufo</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Karaboro_languages" title="Karaboro languages">Karaboro</a></li>
-<li><a href="/wiki/Nanerig%C3%A9_language" title="Nanerigé language">Nanerigé</a></li>
-<li><a class="mw-selflink selflink">Sucite</a></li>
-<li><a href="/wiki/Syer-Tenyer_language" title="Syer-Tenyer language">Syer-Tenyer</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wara%E2%80%93Natyoro_languages" title="Wara–Natyoro languages">Wara–Natyoro</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Natioro_language" title="Natioro language">Natioro</a></li>
-<li><a href="/wiki/Paleni_language" title="Paleni language">Paleni</a></li>
-<li><a href="/wiki/Samwe_language" title="Samwe language">Samwe</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Fula_language" title="Fula language">Fula</a></li>
-<li><a href="/wiki/Hausa_language" title="Hausa language">Hausa</a></li>
-<li><a href="/wiki/Humburi_Senni_language" title="Humburi Senni language">Humburi Senni</a></li>
-<li><a href="/wiki/Siamou_language" title="Siamou language">Siamou</a></li>
-<li><a href="/wiki/Tamasheq_language" title="Tamasheq language">Tamasheq</a></li>
-<li><a href="/wiki/Western_Plains_Dogon" title="Western Plains Dogon">Western Plains Dogon</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Immigrant languages</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/English_language" title="English language">English</a></li>
-<li><a href="/wiki/French_language" title="French language">French</a></li>
-<li><a href="/wiki/Punjabi_language" title="Punjabi language">Punjabi</a></li>
-<li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
-<li><a href="/wiki/German_language" title="German language">German</a></li>
-<li><a href="/wiki/Italian_language" title="Italian language">Italian</a></li>
-<li><a href="/wiki/Hindi_language" class="mw-redirect" title="Hindi language">Hindi</a></li>
-<li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></li>
-<li><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></li>
-<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
-<li><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></li>
-<li><a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></li>
-<li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
-<li><a href="/wiki/Danish_language" title="Danish language">Danish</a></li>
-<li><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
-<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Gur_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Gur_languages" title="Template:Gur languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gur_languages" title="Template talk:Gur languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Gur_languages" title="Special:EditPage/Template:Gur languages"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Gur_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Gur_languages" title="Gur languages">Gur languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Central_Gur_languages" class="mw-redirect" title="Central Gur languages">Central Gur</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Oti%E2%80%93Volta_languages" title="Oti–Volta languages">Oti–Volta</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Eastern</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Berba_language" title="Berba language">Berba</a></li>
-<li><a href="/wiki/Mbelime_language" title="Mbelime language">Mbelime</a></li>
-<li><a href="/wiki/Tammari_language" title="Tammari language">Tammari</a></li>
-<li><a href="/wiki/Waama_language" title="Waama language">Waama</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Western</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Birifor_language" class="mw-redirect" title="Birifor language">Birifor</a></li>
-<li><a href="/wiki/Dagaare_language" title="Dagaare language">Dagaare</a></li>
-<li><a href="/wiki/Dagbani_language" title="Dagbani language">Dagbani</a></li>
-<li><a href="/wiki/Frafra_language" class="mw-redirect" title="Frafra language">Frafra</a></li>
-<li><a href="/wiki/Hanga_language" title="Hanga language">Hanga</a></li>
-<li><a href="/wiki/Kamara_language" title="Kamara language">Kamara</a></li>
-<li><a href="/wiki/Kantosi_language" title="Kantosi language">Kantosi</a></li>
-<li><a href="/wiki/Kusasi_language" class="mw-redirect" title="Kusasi language">Kusasi</a></li>
-<li><a href="/wiki/Mamprusi_language" class="mw-redirect" title="Mamprusi language">Mamprusi</a></li>
-<li><a href="/wiki/Moor%C3%A9" title="Mooré">Mooré</a></li>
-<li><a href="/wiki/Nabit_language" title="Nabit language">Nabit</a></li>
-<li><a href="/wiki/Notre_language" title="Notre language">Notre</a></li>
-<li><a href="/wiki/Safaliba_language" title="Safaliba language">Safaliba</a></li>
-<li><a href="/wiki/Talni_language" title="Talni language">Talni</a></li>
-<li><a href="/wiki/Wali_language_(Gur)" title="Wali language (Gur)">Wali</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Gurma</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Gourmanch%C3%A9_language" title="Gourmanché language">Gourmanché</a></li>
-<li><a href="/wiki/Konkomba_language" title="Konkomba language">Konkomba</a></li>
-<li><a href="/wiki/Moba_language" title="Moba language">Moba</a></li>
-<li><a href="/wiki/Nateni_language" title="Nateni language">Nateni</a></li>
-<li><a href="/wiki/Ngangam_language" title="Ngangam language">Ngangam</a></li>
-<li><a href="/wiki/Ntcham_language" title="Ntcham language">Ntcham</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Buli_language_(Ghana)" title="Buli language (Ghana)">Buli</a></li>
-<li><a href="/wiki/Konni_language" title="Konni language">Konni</a></li>
-<li><a href="/wiki/Nawdm_language" title="Nawdm language">Nawdm</a></li>
-<li><a href="/wiki/Yom_language" title="Yom language">Yom</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bwa_languages" title="Bwa languages">Bwa</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Buamu_language" title="Buamu language">Bwamu</a></li>
-<li><a href="/wiki/L%C3%A1%C3%A1_L%C3%A1%C3%A1_Bwamu_language" title="Láá Láá Bwamu language">Láá Láá Bwamu</a></li>
-<li><a href="/wiki/Cwi_Bwamu_language" title="Cwi Bwamu language">Cwi Bwamu</a></li>
-<li><a href="/wiki/Bomu_language" title="Bomu language">Bomu</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gurunsi_languages" title="Gurunsi languages">Gurunsi</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Eastern</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Bago-Kusuntu_language" title="Bago-Kusuntu language">Bago-Kusuntu</a></li>
-<li><a href="/wiki/Chala_language" title="Chala language">Chala</a></li>
-<li><a href="/wiki/Delo_language" title="Delo language">Delo</a></li>
-<li><a href="/wiki/Kabiye_language" title="Kabiye language">Kabiyé</a></li>
-<li><a href="/wiki/Lama_language" title="Lama language">Lama</a></li>
-<li><a href="/wiki/Lukpa_language" title="Lukpa language">Lukpa</a></li>
-<li><a href="/wiki/Tem_language" title="Tem language">Tem</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Kalams%C3%A9_language" title="Kalamsé language">Kalamsé</a></li>
-<li><a href="/wiki/Kasena_language" title="Kasena language">Kasena</a></li>
-<li><a href="/wiki/Ly%C3%A9l%C3%A9_language" title="Lyélé language">Lyélé</a></li>
-<li><a href="/wiki/Nuni_language" title="Nuni language">Nuni</a></li>
-<li><a href="/wiki/Pana_language_(Gur)" title="Pana language (Gur)">Pana</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Western</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Chakali_language" title="Chakali language">Chakali</a></li>
-<li><a href="/wiki/Deg_language" title="Deg language">Deg</a></li>
-<li><a href="/wiki/Paasaal_language" title="Paasaal language">Paasaal</a></li>
-<li><a href="/wiki/Puguli_language" title="Puguli language">Phuie</a></li>
-<li><a href="/wiki/Sisaala_language" title="Sisaala language">Sisaala</a></li>
-<li><a href="/wiki/Tamprusi_language" title="Tamprusi language">Tamprusi</a></li>
-<li><a href="/wiki/Vagla_language" title="Vagla language">Vagla</a></li>
-<li><a href="/wiki/Winye_language" title="Winye language">Winye</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Koromfe_language" title="Koromfe language">Koromfe</a></li>
-<li><a href="/wiki/Cerma_language" title="Cerma language">Cerma</a></li>
-<li><a href="/wiki/Turka_language" title="Turka language">Turka</a></li>
-<li><a href="/wiki/Lobi_language" title="Lobi language">Lobi</a></li>
-<li><a href="/wiki/Dyan_language" title="Dyan language">Dyan</a></li>
-<li><a href="/wiki/Dogoso_language" title="Dogoso language">Dogoso</a></li>
-<li><a href="/wiki/Khe_language" title="Khe language">Khe</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Senufo_languages" title="Senufo languages">Senufo</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Minyanka_language" title="Minyanka language">Minyanka</a></li>
-<li><a href="/wiki/Nanerig%C3%A9_language" title="Nanerigé language">Nanerigé</a></li>
-<li><a class="mw-selflink selflink">Sucite</a></li>
-<li><a href="/wiki/Supyire_language" title="Supyire language">Supyire</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Central</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Cebaara_language" title="Cebaara language">Cebaara</a></li>
-<li><a href="/wiki/Kar_language" title="Kar language">Kar</a></li>
-<li><a href="/wiki/Nyarafolo_language" title="Nyarafolo language">Nyarafolo</a></li>
-<li><a href="/wiki/Palaka_language" title="Palaka language">Kpalaga</a></li>
-<li><a href="/wiki/Senara_language" title="Senara language">Senara</a></li>
-<li><a href="/wiki/Syer-Tenyer_language" title="Syer-Tenyer language">Syer-Tenyer</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Djimini_language" title="Djimini language">Djimini</a></li>
-<li><a href="/wiki/Nafanan_language" title="Nafanan language">Nafanan</a></li>
-<li><a href="/wiki/Tagwana_language" title="Tagwana language">Tagwana</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kulango_languages" title="Kulango languages">Kulango</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Kulango_language" title="Kulango language">Kulango</a></li>
-<li><a href="/wiki/Lomakka_language" title="Lomakka language">Lomakka</a></li>
-<li><a href="/wiki/Lorhon_language" title="Lorhon language">Téén</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wara%E2%80%93Natyoro_languages" title="Wara–Natyoro languages">Wara–Natyoro</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Samwe_language" title="Samwe language">Samwe</a></li>
-<li><a href="/wiki/Paleni_language" title="Paleni language">Paleni</a></li>
-<li><a href="/wiki/Natioro_language" title="Natioro language">Natioro</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Bariba_language" title="Bariba language">Bariba</a></li>
-<li><a href="/wiki/Samo_language_(Burkina)" title="Samo language (Burkina)">Samo</a></li>
-<li><a href="/wiki/Tiefo_language" title="Tiefo language">Tiefo</a></li>
-<li><a href="/wiki/Tusya_language" title="Tusya language">Tusya</a></li>
-<li><a href="/wiki/Vyemo_language" class="mw-redirect" title="Vyemo language">Vyemo</a></li>
-<li><a href="/wiki/Yobe_language" title="Yobe language">Yobe</a></li></ul>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ruhr-uni-bochum.de/lilab/krasovitsky/krasovitsky-eng/archive.htm">Russian dialects in East Siberia and Kamchatka</a>. Reviews such publications as: A. Krasovitsky and Ch. Sappok. "The Isolated Russian Dialectal System in Contact with Tungus Languages in Siberia and Far East"; A.Krasovitsky.  "Prosody of Statements in the Speech of Old Settlers in the Polar Region".</span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_6-0">^</a></b></span> <span class="reference-text">Kim, Juwon. 2011.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAralova2015" class="citation book cs1">Aralova, Natalia (2015). <i>Vowel harmony in two Even dialects: Production and perception</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vowel+harmony+in+two+Even+dialects%3A+Production+and+perception&amp;rft.date=2015&amp;rft.aulast=Aralova&amp;rft.aufirst=Natalia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEven+language" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Even_language&amp;action=edit&amp;section=6" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/32px-Incubator-logo.svg.png" decoding="async" width="32" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/48px-Incubator-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/64px-Incubator-logo.svg.png 2x" data-file-width="799" data-file-height="1000" /></span></span></div>
+<div class="side-box-text plainlist"><i><b><a href="https://incubator.wikimedia.org/wiki/Wp/eve" class="extiw" title="incubator:Wp/eve">Even language test</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> at <a href="https://meta.wikimedia.org/wiki/Wikimedia_Incubator" class="extiw" title="meta:Wikimedia Incubator">Wikimedia Incubator</a></div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="http://lingsib.iea.ras.ru/en/languages/even.shtml">Endangered Languages of Siberia - The Even Language</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110526200913/http://pge.rastko.net/dirs/pge/pge05/100171/e100171.html">Universal Declaration of Human Rights</a> in Even language</li>
+<li><a rel="nofollow" class="external text" href="http://kaltric.de/mat/matlingu/even">Vergleich der Reziproken des Ewenischen mit verwandten Sprachen</a></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="Бурыкин" class="citation book cs1">А. А. Бурыкин (2001). <i>Язык малочисленного народа в его письменной форме&#160;: На материале эвенского языка&#160;: диссертация ... доктора филологических наук</i>. СПб.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%AF%D0%B7%D1%8B%D0%BA+%D0%BC%D0%B0%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0+%D0%B2+%D0%B5%D0%B3%D0%BE+%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9+%D1%84%D0%BE%D1%80%D0%BC%D0%B5+%3A+%D0%9D%D0%B0+%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B5+%D1%8D%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0+%3A+%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F+...+%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0+%D1%84%D0%B8%D0%BB%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D0%BD%D0%B0%D1%83%D0%BA&amp;rft.place=%D0%A1%D0%9F%D0%B1.&amp;rft.date=2001&amp;rft.au=%D0%90.+%D0%90.+%D0%91%D1%83%D1%80%D1%8B%D0%BA%D0%B8%D0%BD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEven+language" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_book" title="Template:Cite book">cite book</a>}}</code>:  CS1 maint: location missing publisher (<a href="/wiki/Category:CS1_maint:_location_missing_publisher" title="Category:CS1 maint: location missing publisher">link</a>)</span></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Tungusic_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Tungusic_languages" title="Template:Tungusic languages"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tungusic_languages" title="Template talk:Tungusic languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Tungusic_languages" title="Special:EditPage/Template:Tungusic languages"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Tungusic_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Tungusic_languages" title="Tungusic languages">Tungusic languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ewenic_languages" title="Ewenic languages">Ewenic</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Even</a></li>
+<li><a href="/wiki/Evenki_language" title="Evenki language">Evenki</a></li>
+<li><a href="/wiki/Kili_language" title="Kili language">Kili</a></li>
+<li><a href="/wiki/Negidal_language" title="Negidal language">Negidal</a></li>
+<li><a href="/wiki/Oroqen_language" title="Oroqen language">Oroqen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Udegheic_languages" title="Udegheic languages">Udegheic</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Oroch_language" title="Oroch language">Oroch</a>†</li>
+<li><a href="/wiki/Udege_language" title="Udege language">Udege</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nanaic_languages" title="Nanaic languages">Nanaic</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Nanai_language" title="Nanai language">Nanai</a></li>
+<li><a href="/wiki/Orok_language" class="mw-redirect" title="Orok language">Orok</a></li>
+<li><a href="/wiki/Ulch_language" title="Ulch language">Ulch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jurchenic_languages" title="Jurchenic languages">Jurchenic</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jurchen_language" title="Jurchen language">Jurchen</a>†</li>
+<li><a href="/wiki/Manchu_language" title="Manchu language">Manchu</a></li>
+<li><a href="/wiki/Xibe_language" title="Xibe language">Xibe</a>¹</li>
+<li><a href="/wiki/Bala_language_(China)" title="Bala language (China)">Bala</a>†</li>
+<li><a href="/wiki/Alchuka_language" title="Alchuka language">Alchuka</a>†</li>
+<li><a href="/wiki/Chinese_Kyakala_language" title="Chinese Kyakala language">Chinese Kyakala</a>†</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><span style="position: relative; top: 0.2em;"><sup><small>†</small></sup></span> <a href="/wiki/Extinct_language" title="Extinct language">dead, split or changed languages</a></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Languages_of_Russia" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Russia" title="Template:Languages of Russia"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Russia" title="Template talk:Languages of Russia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Languages_of_Russia" title="Special:EditPage/Template:Languages of Russia"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Languages_of_Russia" style="font-size:114%;margin:0 4em"><a href="/wiki/Languages_of_Russia" title="Languages of Russia">Languages of Russia</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Federal language</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">State languages<br />of federal subjects</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Abaza_language" title="Abaza language">Abaza</a></li>
+<li><a href="/wiki/Adyghe_language" title="Adyghe language">Adyghe</a></li>
+<li><a href="/wiki/Aghul_language" title="Aghul language">Aghul</a></li>
+<li><a href="/wiki/Altai_language" class="mw-redirect" title="Altai language">Altai</a>
+<ul><li><small><a href="/wiki/Northern_Altai_language" title="Northern Altai language">Northern Altai</a></small></li>
+<li><small><a href="/wiki/Southern_Altai_language" title="Southern Altai language">Southern Altai</a></small></li></ul></li>
+<li><a href="/wiki/Avar_language" title="Avar language">Avar</a></li>
+<li><a href="/wiki/Azerbaijani_language" title="Azerbaijani language">Azerbaijani</a></li>
+<li><a href="/wiki/Bashkir_language" title="Bashkir language">Bashkir</a></li>
+<li><a href="/wiki/Buryat_language" title="Buryat language">Buryat</a></li>
+<li><a href="/wiki/Chechen_language" title="Chechen language">Chechen</a></li>
+<li><a href="/wiki/Chuvash_language" title="Chuvash language">Chuvash</a></li>
+<li><a href="/wiki/Crimean_Tatar_language" title="Crimean Tatar language">Crimean Tatar</a></li>
+<li><a href="/wiki/Dargwa_language" title="Dargwa language">Dargwa</a></li>
+<li><a href="/wiki/Ingush_language" title="Ingush language">Ingush</a></li>
+<li><a href="/wiki/Kabardian_language" title="Kabardian language">Kabardian</a></li>
+<li><a href="/wiki/Kalmyk_Oirat" title="Kalmyk Oirat">Kalmyk</a></li>
+<li><a href="/wiki/Karachay-Balkar" title="Karachay-Balkar">Karachay-Balkar</a></li>
+<li><a href="/wiki/Khakas_language" title="Khakas language">Khakas</a></li>
+<li><a href="/wiki/Komi_language" title="Komi language">Komi</a></li>
+<li><a href="/wiki/Kumyk_language" title="Kumyk language">Kumyk</a></li>
+<li><a href="/wiki/Lak_language" title="Lak language">Lak</a></li>
+<li><a href="/wiki/Lezgian_language" title="Lezgian language">Lezgian</a></li>
+<li><a href="/wiki/Mari_language" title="Mari language">Mari</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Hill_Mari_language" title="Hill Mari language">Hill</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Meadow_Mari_language" title="Meadow Mari language">Meadow</a></span></li></ul></li>
+<li><a href="/wiki/Mordvinic_languages" title="Mordvinic languages">Mordvin</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Erzya_language" title="Erzya language">Erzya</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Moksha_language" title="Moksha language">Moksha</a></span></li></ul></li>
+<li><a href="/wiki/Nogai_language" title="Nogai language">Nogai</a></li>
+<li><a href="/wiki/Ossetian_language" title="Ossetian language">Ossetian</a></li>
+<li><a href="/wiki/Rutul_language" title="Rutul language">Rutul</a></li>
+<li><a href="/wiki/Yakut_language" title="Yakut language">Yakut/Sakha</a></li>
+<li><a href="/wiki/Tabasaran_language" title="Tabasaran language">Tabasaran</a></li>
+<li><a href="/wiki/Tat_language_(Caucasus)" title="Tat language (Caucasus)">Tat</a></li>
+<li><a href="/wiki/Tatar_language" title="Tatar language">Tatar</a></li>
+<li><a href="/wiki/Tsakhur_language" title="Tsakhur language">Tsakhur</a></li>
+<li><a href="/wiki/Tuvan_language" title="Tuvan language">Tuvan</a></li>
+<li><a href="/wiki/Udmurt_language" title="Udmurt language">Udmurt</a></li>
+<li><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Languages with official status</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chukchi_language" title="Chukchi language">Chukchi</a></li>
+<li><a href="/wiki/Dolgan_language" title="Dolgan language">Dolgan</a></li>
+<li><a class="mw-selflink selflink">Even</a></li>
+<li><a href="/wiki/Evenki_language" title="Evenki language">Evenki</a></li>
+<li><a href="/wiki/Finnish_language" title="Finnish language">Finnish</a></li>
+<li><a href="/wiki/Karelian_language" title="Karelian language">Karelian</a></li>
+<li><a href="/wiki/Kazakh_language" title="Kazakh language">Kazakh</a></li>
+<li><a href="/wiki/Khanty_language" title="Khanty language">Khanty</a></li>
+<li><a href="/wiki/Komi-Permyak_language" title="Komi-Permyak language">Komi-Permyak</a></li>
+<li><a href="/wiki/Mansi_language" title="Mansi language">Mansi</a></li>
+<li><a href="/wiki/Nenets_languages" title="Nenets languages">Nenets</a></li>
+<li><a href="/wiki/Selkup_language" title="Selkup language">Selkup</a></li>
+<li><a href="/wiki/Veps_language" title="Veps language">Veps</a></li>
+<li><a href="/wiki/Yukaghir_languages" title="Yukaghir languages">Yukaghir</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Tundra_Yukaghir_language" title="Tundra Yukaghir language">Northern Yukaghir</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Southern_Yukaghir_language" title="Southern Yukaghir language">Southern Yukaghir</a></span></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Scripts</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cyrillic_script" title="Cyrillic script">Cyrillic</a><sup>1</sup></li>
+<li><a href="/wiki/Cyrillic_Braille" class="mw-redirect" title="Cyrillic Braille">Cyrillic Braille</a></li>
+<li><a href="/wiki/Latin_script" title="Latin script">Latin script</a><sup>2</sup></li>
+<li><a href="/wiki/Mongolian_script" title="Mongolian script">Mongolian script</a> (<small><a href="/wiki/Vagindra_script" title="Vagindra script">Buryat script</a>, <a href="/wiki/Clear_Script" title="Clear Script">Kalmyk script</a></small>)<sup>2</sup></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;"><div><sup>1</sup> In Russia, the Cyrillic alphabet is officially supported. <sup>2</sup> For other, non-Cyrillic alphabets, separate federal laws are required.
+<ul><li><a href="/wiki/Category:Languages_of_Russia" title="Category:Languages of Russia">Languages of Russia</a></li>
+<li><a href="/wiki/Wikipedia:Wikipedia_in_languages_of_Russia" title="Wikipedia:Wikipedia in languages of Russia">Wikipedia in languages of Russia</a></li>
+<li><a href="/wiki/Category:Mass_media_by_language_of_Russia" title="Category:Mass media by language of Russia">Mass media by language of Russia</a></li></ul></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q29960#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="evenština"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph401822&amp;CON_LNG=ENG">Czech Republic</a></span></span></li></ul>
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1393
-Cached time: 20240215205722
+Parsed by mw‐web.eqiad.main‐d7655486f‐lrtgc
+Cached time: 20240221204028
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.350 seconds
-Real time usage: 0.457 seconds
-Preprocessor visited node count: 3214/1000000
-Post‐expand include size: 92974/2097152 bytes
-Template argument size: 1995/2097152 bytes
-Highest expansion depth: 19/100
-Expensive parser function count: 0/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 17626/5000000 bytes
-Lua time usage: 0.217/10.000 seconds
-Lua memory usage: 17952368/52428800 bytes
+CPU time usage: 0.634 seconds
+Real time usage: 0.971 seconds
+Preprocessor visited node count: 3156/1000000
+Post‐expand include size: 61276/2097152 bytes
+Template argument size: 3498/2097152 bytes
+Highest expansion depth: 22/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35047/5000000 bytes
+Lua time usage: 0.404/10.000 seconds
+Lua memory usage: 24021367/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  389.996      1 -total
- 27.31%  106.491     12 Template:Lang
- 22.07%   86.086      7 Template:Navbox
- 21.82%   85.112      1 Template:Infobox_language
- 17.79%   69.394      1 Template:Infobox
- 17.57%   68.541      1 Template:Languages_of_Burkina_Faso
- 16.50%   64.354      1 Template:Short_description
- 11.30%   44.057     30 Template:IPA
-  8.53%   33.265      2 Template:Pagetype
-  6.96%   27.141      4 Template:Main_other
+100.00%  887.050      1 -total
+ 21.61%  191.723      1 Template:Infobox_language
+ 18.97%  168.240      1 Template:Infobox
+ 14.45%  128.219      1 Template:Reflist
+ 14.35%  127.307      2 Template:Lang-ru
+ 14.09%  124.980      2 Template:Navbox
+ 13.87%  123.066      1 Template:Tungusic_languages
+  8.61%   76.361      2 Template:Cite_web
+  8.32%   73.819      1 Template:Short_description
+  6.47%   57.354     21 Template:IPAlink
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1342360-0!canonical and timestamp 20240215205722 and revision id 1123200739. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3022991-0!canonical and timestamp 20240221204028 and revision id 1208740177. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
-<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sucite_language&amp;oldid=1123200739">https://en.wikipedia.org/w/index.php?title=Sucite_language&amp;oldid=1123200739</a>"</div></div>
-					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Suppire%E2%80%93Mamara_languages" title="Category:Suppire–Mamara languages">Suppire–Mamara languages</a></li><li><a href="/wiki/Category:Languages_of_Burkina_Faso" title="Category:Languages of Burkina Faso">Languages of Burkina Faso</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Language_articles_with_old_Ethnologue_18_speaker_data" title="Category:Language articles with old Ethnologue 18 speaker data">Language articles with old Ethnologue 18 speaker data</a></li><li><a href="/wiki/Category:Pages_with_plain_IPA" title="Category:Pages with plain IPA">Pages with plain IPA</a></li><li><a href="/wiki/Category:Articles_containing_S%C3%ACc%C3%ACt%C3%A9_S%C3%A9noufo-language_text" title="Category:Articles containing Sìcìté Sénoufo-language text">Articles containing Sìcìté Sénoufo-language text</a></li></ul></div></div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Even_language&amp;oldid=1208740177">https://en.wikipedia.org/w/index.php?title=Even_language&amp;oldid=1208740177</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Agglutinative_languages" title="Category:Agglutinative languages">Agglutinative languages</a></li><li><a href="/wiki/Category:Languages_of_Russia" title="Category:Languages of Russia">Languages of Russia</a></li><li><a href="/wiki/Category:Severely_endangered_languages" title="Category:Severely endangered languages">Severely endangered languages</a></li><li><a href="/wiki/Category:Tungusic_languages" title="Category:Tungusic languages">Tungusic languages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Russian-language_text" title="Category:Articles containing Russian-language text">Articles containing Russian-language text</a></li><li><a href="/wiki/Category:Pages_with_plain_IPA" title="Category:Pages with plain IPA">Pages with plain IPA</a></li><li><a href="/wiki/Category:CS1_maint:_location_missing_publisher" title="Category:CS1 maint: location missing publisher">CS1 maint: location missing publisher</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li></ul></div></div>
 				</div>
 			</main>
 			
@@ -1171,7 +1004,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info">
-	<li id="footer-info-lastmod"> This page was last edited on 22 November 2022, at 13:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-lastmod"> This page was last edited on 18 February 2024, at 18:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
 	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>
@@ -1185,7 +1018,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sucite_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Even_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -1208,7 +1041,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1409","wgBackendResponseTime":114,"wgPageParseReport":{"limitreport":{"cputime":"0.350","walltime":"0.457","ppvisitednodes":{"value":3214,"limit":1000000},"postexpandincludesize":{"value":92974,"limit":2097152},"templateargumentsize":{"value":1995,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17626,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  389.996      1 -total"," 27.31%  106.491     12 Template:Lang"," 22.07%   86.086      7 Template:Navbox"," 21.82%   85.112      1 Template:Infobox_language"," 17.79%   69.394      1 Template:Infobox"," 17.57%   68.541      1 Template:Languages_of_Burkina_Faso"," 16.50%   64.354      1 Template:Short_description"," 11.30%   44.057     30 Template:IPA","  8.53%   33.265      2 Template:Pagetype","  6.96%   27.141      4 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.217","limit":"10.000"},"limitreport-memusage":{"value":17952368,"limit":52428800}},"cachereport":{"origin":"mw1393","timestamp":"20240215205722","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sucite language","url":"https:\/\/en.wikipedia.org\/wiki\/Sucite_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q56787","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q56787","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-30T00:02:08Z","dateModified":"2022-11-22T13:58:23Z","headline":"language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5874f94b9f-4rlss","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.634","walltime":"0.971","ppvisitednodes":{"value":3156,"limit":1000000},"postexpandincludesize":{"value":61276,"limit":2097152},"templateargumentsize":{"value":3498,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35047,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  887.050      1 -total"," 21.61%  191.723      1 Template:Infobox_language"," 18.97%  168.240      1 Template:Infobox"," 14.45%  128.219      1 Template:Reflist"," 14.35%  127.307      2 Template:Lang-ru"," 14.09%  124.980      2 Template:Navbox"," 13.87%  123.066      1 Template:Tungusic_languages","  8.61%   76.361      2 Template:Cite_web","  8.32%   73.819      1 Template:Short_description","  6.47%   57.354     21 Template:IPAlink"]},"scribunto":{"limitreport-timeusage":{"value":"0.404","limit":"10.000"},"limitreport-memusage":{"value":24021367,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-d7655486f-lrtgc","timestamp":"20240221204028","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Even language","url":"https:\/\/en.wikipedia.org\/wiki\/Even_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q29960","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q29960","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-28T22:11:53Z","dateModified":"2024-02-18T18:53:30Z","headline":"Tungusic language spoken by the Evens in Siberia"}</script>
 </body>
 </html>
