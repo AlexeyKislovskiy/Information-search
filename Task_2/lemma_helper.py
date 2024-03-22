@@ -23,6 +23,20 @@ def extract_tokens(text):
     return list(set(cleaned_tokens))
 
 
+# Функция для извлечения всех слов из страницы с номером n
+def extract_all_words(n):
+    text = get_clean_text(n)
+    stop_words = set(stopwords.words('english'))
+    tokens = word_tokenize(text.lower())
+    return [token for token in tokens if only_english_letters(token) and len(token) > 2 and token not in stop_words]
+
+
+# Функция для извлечения всех лемм из страницы с номером n
+def extract_all_lemmas(n):
+    words = extract_all_words(n)
+    return [lemmatize_word(word) for word in words]
+
+
 # Функция для лемматизации токенов
 def lemmatize_tokens(tokens):
     lemmatizer = WordNetLemmatizer()
